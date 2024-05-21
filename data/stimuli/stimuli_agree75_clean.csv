@@ -1,0 +1,19 @@
+item_id,original_item_id,prefix,infinitive_prefix,expt_prefix,sentence_prefix,probable,improbable,impossible_physics,impossible_magic,inconceivable_syntactic,inconceivable_semantic,prefix_type
+1,1,Baking a cake using,bake a cake using,Can you bake a cake using,[NP] baked a cake using,an oven,an airfryer,a refrigerator,superpowers,grasp,anger,tool
+2,4,Chilling a drink using,chill a drink using,Can you chill a drink using,[NP] chilled a drink using,ice,snow,fire,pixies,at,tomorrow,tool
+3,5,Washing dishes using,wash dishes using,Can you wash dishes using,[NP] washed dishes using,soap,rain,lightning,fairies,fell,arithmetic,tool
+4,7,Flying a kite using,fly a kite using,Can you fly a kite using,[NP] flew a kite using,string,dental floss,lead,witchcraft,give,a sound,tool
+5,8,Crafting a bowl out of,craft a bowl out of,Can you craft a bowl out of,[NP] crafted a bowl out of,clay,mud,smoke,auras,forget,friction,material
+6,9,Growing vegetables in,grow vegetables in,Can you grow vegetables in,[NP] grew vegetables in,soil,sand,bleach,a potion,become,justice,material
+7,13,Brewing coffee using,brew coffee using,Can you brew coffee using,[NP] brewed coffee using,water,soda,glue,lightsabers,into,numbers,tool
+8,14,Painting a house using,paint a house using,Can you paint a house using,[NP] painted a house using,a brush,a mop,a planet,incantations,before,questions,tool
+9,17,Sealing a box using,seal a box using,Can you seal a box using,[NP] sealed a box using,tape,magnets,wine,sorcery,do,jokes,tool
+10,20,Constructing a castle using,construct a castle using,Can you construct a castle using,[NP] constructed a castle using,bricks,gems,a star,wizardry,follow,boredom,tool
+11,22,Towing a car using,tow a car using,Can you tow a car using,[NP] towed a car using,a truck,a horse,a butterfly,aliens,then,freedom,tool
+12,23,Starting a fire using,start a fire using,Can you start a fire using,[NP] started a fire using,kindling,furniture,milk,enchantments,sometimes,traffic,tool
+13,25,Shoveling a driveway full of,shovel a driveway full of,Can you shovel a driveway full of,[NP] shoveled a driveway full of,snow,ice,sunshine,ogres,except,rumors,material
+14,26,Constructing a tower using,construct a tower using,Can you construct a tower using,[NP] constructed a tower using,concrete,blocks,a lake,[POSS] mind,while,laughter,material
+15,27,Knitting a scarf using,knit a scarf using,Can you knit a scarf using,[NP] knitted a scarf using,yarn,wire,lava,telepathy,for,sadness,material
+16,28,Washing your hair with,wash your hair with,Can you wash your hair with,[NP] washed [POSS] hair with,shampoo,detergent,air,mermaids,though,minutes,tool
+17,29,Hiding a gift using,hide a gift using,Can you hide a gift using,[NP] hid a gift using,a closet,a tarp,a cloud,invisibility,during,concepts,tool
+18,30,Drawing a picture using,draw a picture using,Can you draw a picture using,[NP] drew a picture using,a pencil,lipstick,a mountain,magic,always,a smell,tool

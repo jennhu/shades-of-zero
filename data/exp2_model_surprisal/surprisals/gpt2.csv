@@ -1,0 +1,181 @@
+item_id,prefix,eval_prefix,condition,continuation,continuation_tokens,continuation_sum_surprisal,model
+1,Baking a cake using,He baked a cake using,probable,an oven.,Ġan Ġoven .,9.577379941940308,gpt2
+1,Baking a cake using,He baked a cake using,improbable,an airfryer.,Ġan Ġair f ry er .,22.057408332824707,gpt2
+1,Baking a cake using,He baked a cake using,impossible_physics,a refrigerator.,Ġa Ġrefrigerator .,13.174368262290955,gpt2
+1,Baking a cake using,He baked a cake using,impossible_magic,superpowers.,Ġsuper powers .,15.808425188064575,gpt2
+1,Baking a cake using,He baked a cake using,inconceivable_syntactic,grasp.,Ġgrasp .,18.861928462982178,gpt2
+1,Baking a cake using,He baked a cake using,inconceivable_semantic,anger.,Ġanger .,14.223746538162231,gpt2
+2,Carving a statue using,He carved a statue using,probable,a chisel.,Ġa Ġch isel .,10.955691687762737,gpt2
+2,Carving a statue using,He carved a statue using,improbable,a toothpick.,Ġa Ġtooth pick .,11.040941566228867,gpt2
+2,Carving a statue using,He carved a statue using,impossible_physics,a valley.,Ġa Ġvalley .,17.570712447166443,gpt2
+2,Carving a statue using,He carved a statue using,impossible_magic,telekinesis.,Ġtele k ines is .,14.212330182017467,gpt2
+2,Carving a statue using,He carved a statue using,inconceivable_syntactic,began.,Ġbegan .,19.77053928375244,gpt2
+2,Carving a statue using,He carved a statue using,inconceivable_semantic,yesterday.,Ġyesterday .,18.134455680847168,gpt2
+3,Using a telescope to look at,He used a telescope to look at,probable,the moon.,Ġthe Ġmoon .,5.858684599399567,gpt2
+3,Using a telescope to look at,He used a telescope to look at,improbable,the sun.,Ġthe Ġsun .,6.515614449977875,gpt2
+3,Using a telescope to look at,He used a telescope to look at,impossible_physics,a molecule.,Ġa Ġmolecule .,15.598480224609375,gpt2
+3,Using a telescope to look at,He used a telescope to look at,impossible_magic,unicorns.,Ġunic orns .,13.919311905279756,gpt2
+3,Using a telescope to look at,He used a telescope to look at,inconceivable_syntactic,of.,Ġof .,17.24724578857422,gpt2
+3,Using a telescope to look at,He used a telescope to look at,inconceivable_semantic,a decade.,Ġa Ġdecade .,18.45971703529358,gpt2
+4,Chilling a drink using,He chilled a drink using,probable,ice.,Ġice .,7.229902267456055,gpt2
+4,Chilling a drink using,He chilled a drink using,improbable,snow.,Ġsnow .,12.77041482925415,gpt2
+4,Chilling a drink using,He chilled a drink using,impossible_physics,fire.,Ġfire .,11.424784898757935,gpt2
+4,Chilling a drink using,He chilled a drink using,impossible_magic,pixies.,Ġp ix ies .,17.5771022439003,gpt2
+4,Chilling a drink using,He chilled a drink using,inconceivable_syntactic,at.,Ġat .,19.02572536468506,gpt2
+4,Chilling a drink using,He chilled a drink using,inconceivable_semantic,tomorrow.,Ġtomorrow .,18.652509212493896,gpt2
+5,Washing dishes using,He washed dishes using,probable,soap.,Ġsoap .,7.5772318840026855,gpt2
+5,Washing dishes using,He washed dishes using,improbable,rain.,Ġrain .,12.861896514892578,gpt2
+5,Washing dishes using,He washed dishes using,impossible_physics,lightning.,Ġlightning .,13.642780065536499,gpt2
+5,Washing dishes using,He washed dishes using,impossible_magic,fairies.,Ġfair ies .,15.436916828155518,gpt2
+5,Washing dishes using,He washed dishes using,inconceivable_syntactic,fell.,Ġfell .,21.049253463745117,gpt2
+5,Washing dishes using,He washed dishes using,inconceivable_semantic,arithmetic.,Ġarithmetic .,16.41553544998169,gpt2
+6,Building a robot out of,He built a robot out of,probable,metal.,Ġmetal .,7.3153276443481445,gpt2
+6,Building a robot out of,He built a robot out of,improbable,plastic.,Ġplastic .,7.146121501922607,gpt2
+6,Building a robot out of,He built a robot out of,impossible_physics,soup.,Ġsoup .,11.627983808517456,gpt2
+6,Building a robot out of,He built a robot out of,impossible_magic,elixirs.,Ġel ix irs .,16.466462211450562,gpt2
+6,Building a robot out of,He built a robot out of,inconceivable_syntactic,with.,Ġwith .,19.285683631896973,gpt2
+6,Building a robot out of,He built a robot out of,inconceivable_semantic,honesty.,Ġhonesty .,15.400318145751953,gpt2
+7,Flying a kite using,He flew a kite using,probable,string.,Ġstring .,13.362282752990723,gpt2
+7,Flying a kite using,He flew a kite using,improbable,floss.,Ġfl oss .,17.27467656135559,gpt2
+7,Flying a kite using,He flew a kite using,impossible_physics,lead.,Ġlead .,12.816180229187012,gpt2
+7,Flying a kite using,He flew a kite using,impossible_magic,witchcraft.,Ġwitchcraft .,14.491054058074951,gpt2
+7,Flying a kite using,He flew a kite using,inconceivable_syntactic,give.,Ġgive .,18.55195426940918,gpt2
+7,Flying a kite using,He flew a kite using,inconceivable_semantic,a sound.,Ġa Ġsound .,15.542137384414673,gpt2
+8,Crafting a bowl out of,He crafted a bowl out of,probable,clay.,Ġclay .,7.666716575622559,gpt2
+8,Crafting a bowl out of,He crafted a bowl out of,improbable,mud.,Ġmud .,9.535808324813843,gpt2
+8,Crafting a bowl out of,He crafted a bowl out of,impossible_physics,smoke.,Ġsmoke .,11.725980520248413,gpt2
+8,Crafting a bowl out of,He crafted a bowl out of,impossible_magic,auras.,Ġa uras .,22.181699514389038,gpt2
+8,Crafting a bowl out of,He crafted a bowl out of,inconceivable_syntactic,forget.,Ġforget .,21.346590995788574,gpt2
+8,Crafting a bowl out of,He crafted a bowl out of,inconceivable_semantic,friction.,Ġfriction .,16.782611846923828,gpt2
+9,Growing vegetables in,He grew vegetables in,probable,soil.,Ġsoil .,11.99378252029419,gpt2
+9,Growing vegetables in,He grew vegetables in,improbable,sand.,Ġsand .,13.640652656555176,gpt2
+9,Growing vegetables in,He grew vegetables in,impossible_physics,bleach.,Ġbleach .,16.247576236724854,gpt2
+9,Growing vegetables in,He grew vegetables in,impossible_magic,stardust.,Ġst ard ust .,17.242548644542694,gpt2
+9,Growing vegetables in,He grew vegetables in,inconceivable_syntactic,become.,Ġbecome .,20.395859241485596,gpt2
+9,Growing vegetables in,He grew vegetables in,inconceivable_semantic,justice.,Ġjustice .,15.7254958152771,gpt2
+10,Writing a letter using,He wrote a letter using,probable,a pen.,Ġa Ġpen .,10.466541767120361,gpt2
+10,Writing a letter using,He wrote a letter using,improbable,a toothbrush.,Ġa Ġtooth brush .,14.422837600111961,gpt2
+10,Writing a letter using,He wrote a letter using,impossible_physics,wind.,Ġwind .,16.116755485534668,gpt2
+10,Writing a letter using,He wrote a letter using,impossible_magic,a wand.,Ġa Ġwand .,16.179543495178223,gpt2
+10,Writing a letter using,He wrote a letter using,inconceivable_syntactic,onto.,Ġonto .,22.241558074951172,gpt2
+10,Writing a letter using,He wrote a letter using,inconceivable_semantic,time.,Ġtime .,14.955564498901367,gpt2
+11,Cooking dinner out of,He cooked dinner out of,probable,pasta.,Ġpasta .,7.833903789520264,gpt2
+11,Cooking dinner out of,He cooked dinner out of,improbable,clay.,Ġclay .,9.926153421401978,gpt2
+11,Cooking dinner out of,He cooked dinner out of,impossible_physics,thunder.,Ġthunder .,15.743541240692139,gpt2
+11,Cooking dinner out of,He cooked dinner out of,impossible_magic,a potion.,Ġa Ġpotion .,14.998260259628296,gpt2
+11,Cooking dinner out of,He cooked dinner out of,inconceivable_syntactic,through.,Ġthrough .,18.12462043762207,gpt2
+11,Cooking dinner out of,He cooked dinner out of,inconceivable_semantic,words.,Ġwords .,11.591852188110352,gpt2
+12,Taking a bath in,He took a bath in,probable,bubbles.,Ġbubbles .,13.336189985275269,gpt2
+12,Taking a bath in,He took a bath in,improbable,tea.,Ġtea .,10.958303451538086,gpt2
+12,Taking a bath in,He took a bath in,impossible_physics,light.,Ġlight .,11.214082479476929,gpt2
+12,Taking a bath in,He took a bath in,impossible_magic,crystals.,Ġcrystals .,15.225226283073425,gpt2
+12,Taking a bath in,He took a bath in,inconceivable_syntactic,without.,Ġwithout .,21.922452449798584,gpt2
+12,Taking a bath in,He took a bath in,inconceivable_semantic,language.,Ġlanguage .,15.021170616149902,gpt2
+13,Brewing coffee using,He brewed coffee using,probable,water.,Ġwater .,8.065584182739258,gpt2
+13,Brewing coffee using,He brewed coffee using,improbable,soda.,Ġsoda .,10.943545579910278,gpt2
+13,Brewing coffee using,He brewed coffee using,impossible_physics,glue.,Ġglue .,11.600019931793213,gpt2
+13,Brewing coffee using,He brewed coffee using,impossible_magic,lightsabers.,Ġlights ab ers .,18.36775469686836,gpt2
+13,Brewing coffee using,He brewed coffee using,inconceivable_syntactic,into.,Ġinto .,19.871694087982178,gpt2
+13,Brewing coffee using,He brewed coffee using,inconceivable_semantic,numbers.,Ġnumbers .,12.601299524307251,gpt2
+14,Painting a house using,He painted a house using,probable,a brush.,Ġa Ġbrush .,8.474193096160889,gpt2
+14,Painting a house using,He painted a house using,improbable,a mop.,Ġa Ġm op .,13.63476049900055,gpt2
+14,Painting a house using,He painted a house using,impossible_physics,a planet.,Ġa Ġplanet .,18.28738236427307,gpt2
+14,Painting a house using,He painted a house using,impossible_magic,incantations.,Ġinc ant ations .,14.76686578989029,gpt2
+14,Painting a house using,He painted a house using,inconceivable_syntactic,before.,Ġbefore .,15.996710300445557,gpt2
+14,Painting a house using,He painted a house using,inconceivable_semantic,questions.,Ġquestions .,14.951676368713379,gpt2
+15,Crafting jewelry using,He crafted jewelry using,probable,beads.,Ġbeads .,9.56619930267334,gpt2
+15,Crafting jewelry using,He crafted jewelry using,improbable,leather.,Ġleather .,10.696412324905396,gpt2
+15,Crafting jewelry using,He crafted jewelry using,impossible_physics,a volcano.,Ġa Ġvolcano .,16.462358951568604,gpt2
+15,Crafting jewelry using,He crafted jewelry using,impossible_magic,alchemy.,Ġal chemy .,10.304827570915222,gpt2
+15,Crafting jewelry using,He crafted jewelry using,inconceivable_syntactic,until.,Ġuntil .,19.109856128692627,gpt2
+15,Crafting jewelry using,He crafted jewelry using,inconceivable_semantic,opinions.,Ġopinions .,16.43605947494507,gpt2
+16,Docking a boat using,He docked a boat using,probable,an anchor.,Ġan Ġanchor .,11.697704792022705,gpt2
+16,Docking a boat using,He docked a boat using,improbable,an anvil.,Ġan Ġan vil .,13.538482785224915,gpt2
+16,Docking a boat using,He docked a boat using,impossible_physics,a balloon.,Ġa Ġballoon .,11.155155301094055,gpt2
+16,Docking a boat using,He docked a boat using,impossible_magic,a dragon.,Ġa Ġdragon .,15.332343459129333,gpt2
+16,Docking a boat using,He docked a boat using,inconceivable_syntactic,forgive.,Ġforgive .,19.736726760864258,gpt2
+16,Docking a boat using,He docked a boat using,inconceivable_semantic,greetings.,Ġgreet ings .,16.88522893190384,gpt2
+17,Sealing a box using,He sealed a box using,probable,tape.,Ġtape .,7.575352430343628,gpt2
+17,Sealing a box using,He sealed a box using,improbable,magnets.,Ġmagnets .,7.630217909812927,gpt2
+17,Sealing a box using,He sealed a box using,impossible_physics,wine.,Ġwine .,10.828253030776978,gpt2
+17,Sealing a box using,He sealed a box using,impossible_magic,sorcery.,Ġsorcery .,12.656078577041626,gpt2
+17,Sealing a box using,He sealed a box using,inconceivable_syntactic,do.,Ġdo .,17.569698810577393,gpt2
+17,Sealing a box using,He sealed a box using,inconceivable_semantic,jokes.,Ġjokes .,13.462014198303223,gpt2
+18,Smashing a pumpkin using,He smashed a pumpkin using,probable,a hammer.,Ġa Ġhammer .,5.387655794620514,gpt2
+18,Smashing a pumpkin using,He smashed a pumpkin using,improbable,a brick.,Ġa Ġbrick .,9.344320833683014,gpt2
+18,Smashing a pumpkin using,He smashed a pumpkin using,impossible_physics,a leaf.,Ġa Ġleaf .,12.909976065158844,gpt2
+18,Smashing a pumpkin using,He smashed a pumpkin using,impossible_magic,a wizard.,Ġa Ġwizard .,16.15640217065811,gpt2
+18,Smashing a pumpkin using,He smashed a pumpkin using,inconceivable_syntactic,have.,Ġhave .,19.359898567199707,gpt2
+18,Smashing a pumpkin using,He smashed a pumpkin using,inconceivable_semantic,a number.,Ġa Ġnumber .,17.758762896060944,gpt2
+19,Wiping a spill using,He wiped a spill using,probable,a tissue.,Ġa Ġtissue .,12.434678375720978,gpt2
+19,Wiping a spill using,He wiped a spill using,improbable,a scarf.,Ġa Ġscarf .,12.29792433977127,gpt2
+19,Wiping a spill using,He wiped a spill using,impossible_physics,a piano.,Ġa Ġpiano .,13.442850172519684,gpt2
+19,Wiping a spill using,He wiped a spill using,impossible_magic,divination.,Ġdiv ination .,17.185116410255432,gpt2
+19,Wiping a spill using,He wiped a spill using,inconceivable_syntactic,make.,Ġmake .,15.898085594177246,gpt2
+19,Wiping a spill using,He wiped a spill using,inconceivable_semantic,sentences.,Ġsentences .,19.412553787231445,gpt2
+20,Constructing a castle using,He constructed a castle using,probable,bricks.,Ġbricks .,8.122951030731201,gpt2
+20,Constructing a castle using,He constructed a castle using,improbable,gems.,Ġgems .,11.01072359085083,gpt2
+20,Constructing a castle using,He constructed a castle using,impossible_physics,a star.,Ġa Ġstar .,14.56092357635498,gpt2
+20,Constructing a castle using,He constructed a castle using,impossible_magic,wizardry.,Ġwizard ry .,14.163552165031433,gpt2
+20,Constructing a castle using,He constructed a castle using,inconceivable_syntactic,follow.,Ġfollow .,19.494864463806152,gpt2
+20,Constructing a castle using,He constructed a castle using,inconceivable_semantic,boredom.,Ġboredom .,16.18546485900879,gpt2
+21,Lighting a candle with,He lit a candle with,probable,a match.,Ġa Ġmatch .,9.814521789550781,gpt2
+21,Lighting a candle with,He lit a candle with,improbable,a blowtorch.,Ġa Ġblow tor ch .,11.805875966441818,gpt2
+21,Lighting a candle with,He lit a candle with,impossible_physics,a pool.,Ġa Ġpool .,16.23222780227661,gpt2
+21,Lighting a candle with,He lit a candle with,impossible_magic,spells.,Ġspells .,13.409503698348999,gpt2
+21,Lighting a candle with,He lit a candle with,inconceivable_syntactic,choose.,Ġchoose .,21.675705909729004,gpt2
+21,Lighting a candle with,He lit a candle with,inconceivable_semantic,years.,Ġyears .,18.573383808135986,gpt2
+22,Towing a car using,He towed a car using,probable,a truck.,Ġa Ġtruck .,9.181800544261932,gpt2
+22,Towing a car using,He towed a car using,improbable,a horse.,Ġa Ġhorse .,11.47007840871811,gpt2
+22,Towing a car using,He towed a car using,impossible_physics,a butterfly.,Ġa Ġbutterfly .,15.338451087474823,gpt2
+22,Towing a car using,He towed a car using,impossible_magic,aliens.,Ġaliens .,16.31299328804016,gpt2
+22,Towing a car using,He towed a car using,inconceivable_syntactic,then.,Ġthen .,16.32260036468506,gpt2
+22,Towing a car using,He towed a car using,inconceivable_semantic,freedom.,Ġfreedom .,15.92570972442627,gpt2
+23,Starting a fire using,He started a fire using,probable,kindling.,Ġkind ling .,13.443663597106934,gpt2
+23,Starting a fire using,He started a fire using,improbable,furniture.,Ġfurniture .,12.942409753799438,gpt2
+23,Starting a fire using,He started a fire using,impossible_physics,milk.,Ġmilk .,11.36866044998169,gpt2
+23,Starting a fire using,He started a fire using,impossible_magic,enchantments.,Ġenchant ments .,18.918720960617065,gpt2
+23,Starting a fire using,He started a fire using,inconceivable_syntactic,sometimes.,Ġsometimes .,19.35830783843994,gpt2
+23,Starting a fire using,He started a fire using,inconceivable_semantic,traffic.,Ġtraffic .,19.096882343292236,gpt2
+24,Building a bridge out of,He constructed a bridge out of,probable,steel.,Ġsteel .,7.532633304595947,gpt2
+24,Building a bridge out of,He constructed a bridge out of,improbable,plastic.,Ġplastic .,9.290354251861572,gpt2
+24,Building a bridge out of,He constructed a bridge out of,impossible_physics,gas.,Ġgas .,11.893917560577393,gpt2
+24,Building a bridge out of,He constructed a bridge out of,impossible_magic,ambrosia.,Ġamb ros ia .,17.170540377497673,gpt2
+24,Building a bridge out of,He constructed a bridge out of,inconceivable_syntactic,from.,Ġfrom .,18.185378074645996,gpt2
+24,Building a bridge out of,He constructed a bridge out of,inconceivable_semantic,truth.,Ġtruth .,14.194120049476624,gpt2
+25,Shoveling a driveway full of,He shoveled a driveway full of,probable,snow.,Ġsnow .,6.076751708984375,gpt2
+25,Shoveling a driveway full of,He shoveled a driveway full of,improbable,ice.,Ġice .,9.052854061126709,gpt2
+25,Shoveling a driveway full of,He shoveled a driveway full of,impossible_physics,sunshine.,Ġsunshine .,14.130771160125732,gpt2
+25,Shoveling a driveway full of,He shoveled a driveway full of,impossible_magic,ogres.,Ġo gres .,16.05020833015442,gpt2
+25,Shoveling a driveway full of,He shoveled a driveway full of,inconceivable_syntactic,except.,Ġexcept .,23.437807083129883,gpt2
+25,Shoveling a driveway full of,He shoveled a driveway full of,inconceivable_semantic,rumors.,Ġrumors .,14.79656171798706,gpt2
+26,Constructing a tower using,He constructed a tower using,probable,concrete.,Ġconcrete .,8.332932710647583,gpt2
+26,Constructing a tower using,He constructed a tower using,improbable,blocks.,Ġblocks .,10.420156002044678,gpt2
+26,Constructing a tower using,He constructed a tower using,impossible_physics,a lake.,Ġa Ġlake .,14.601975917816162,gpt2
+26,Constructing a tower using,He constructed a tower using,impossible_magic,his mind.,Ġhis Ġmind .,11.143839120864868,gpt2
+26,Constructing a tower using,He constructed a tower using,inconceivable_syntactic,while.,Ġwhile .,19.913448333740234,gpt2
+26,Constructing a tower using,He constructed a tower using,inconceivable_semantic,laughter.,Ġlaughter .,15.279972076416016,gpt2
+27,Knitting a scarf using,He knitted a scarf using,probable,yarn.,Ġyarn .,7.373769044876099,gpt2
+27,Knitting a scarf using,He knitted a scarf using,improbable,wire.,Ġwire .,10.924608707427979,gpt2
+27,Knitting a scarf using,He knitted a scarf using,impossible_physics,lava.,Ġlava .,14.243643999099731,gpt2
+27,Knitting a scarf using,He knitted a scarf using,impossible_magic,telepathy.,Ġtele pathy .,16.23564088344574,gpt2
+27,Knitting a scarf using,He knitted a scarf using,inconceivable_syntactic,for.,Ġfor .,17.502236366271973,gpt2
+27,Knitting a scarf using,He knitted a scarf using,inconceivable_semantic,sadness.,Ġsadness .,15.523396015167236,gpt2
+28,Washing your hair with,He washed his hair with,probable,shampoo.,Ġshampoo .,6.816598415374756,gpt2
+28,Washing your hair with,He washed his hair with,improbable,detergent.,Ġdeter gent .,10.089447863399982,gpt2
+28,Washing your hair with,He washed his hair with,impossible_physics,air.,Ġair .,9.841696977615356,gpt2
+28,Washing your hair with,He washed his hair with,impossible_magic,mermaids.,Ġmer maid s .,16.13547432422638,gpt2
+28,Washing your hair with,He washed his hair with,inconceivable_syntactic,though.,Ġthough .,17.973362922668457,gpt2
+28,Washing your hair with,He washed his hair with,inconceivable_semantic,minutes.,Ġminutes .,15.67784833908081,gpt2
+29,Hiding a gift using,He hid a gift using,probable,a closet.,Ġa Ġcloset .,10.712194800376892,gpt2
+29,Hiding a gift using,He hid a gift using,improbable,a tarp.,Ġa Ġt arp .,11.88323438167572,gpt2
+29,Hiding a gift using,He hid a gift using,impossible_physics,a cloud.,Ġa Ġcloud .,13.02160632610321,gpt2
+29,Hiding a gift using,He hid a gift using,impossible_magic,invisibility.,Ġinvis ibility .,10.879804941825569,gpt2
+29,Hiding a gift using,He hid a gift using,inconceivable_syntactic,during.,Ġduring .,22.95240592956543,gpt2
+29,Hiding a gift using,He hid a gift using,inconceivable_semantic,concepts.,Ġconcepts .,17.567451000213623,gpt2
+30,Drawing a picture using,He drew a picture using,probable,a pencil.,Ġa Ġpencil .,6.8168463706970215,gpt2
+30,Drawing a picture using,He drew a picture using,improbable,lipstick.,Ġlipstick .,10.384138107299805,gpt2
+30,Drawing a picture using,He drew a picture using,impossible_physics,a mountain.,Ġa Ġmountain .,16.388991594314575,gpt2
+30,Drawing a picture using,He drew a picture using,impossible_magic,magic.,Ġmagic .,10.041693449020386,gpt2
+30,Drawing a picture using,He drew a picture using,inconceivable_syntactic,always.,Ġalways .,18.36989450454712,gpt2
+30,Drawing a picture using,He drew a picture using,inconceivable_semantic,a smell.,Ġa Ġsmell .,17.834933042526245,gpt2

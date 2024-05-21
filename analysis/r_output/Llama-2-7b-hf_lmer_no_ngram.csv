@@ -1,0 +1,34 @@
+Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: continuation_sum_surprisal ~ condition + (1 | item_id)
+   Data: data
+
+REML criterion at convergence: 807.5
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-2.52486 -0.64645  0.01806  0.56756  2.47101 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ item_id  (Intercept) 0.201    0.4483  
+ Residual             5.356    2.3144  
+Number of obs: 179, groups:  item_id, 30
+
+Fixed effects:
+            Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)  13.0453     0.1914  29.2111  68.158  < 2e-16 ***
+condition1    2.5364     0.6029 144.9534   4.207 4.51e-05 ***
+condition2    2.9946     0.6029 144.9534   4.967 1.89e-06 ***
+condition3    1.5580     0.5976 144.2503   2.607   0.0101 *  
+condition4    0.9269     0.5976 144.2503   1.551   0.1231    
+condition5    2.4238     0.5976 144.2503   4.056 8.14e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+           (Intr) cndtn1 cndtn2 cndtn3 cndtn4
+condition1  0.009                            
+condition2 -0.009 -0.509                     
+condition3  0.000  0.000 -0.496              
+condition4  0.000  0.000  0.000 -0.500       
+condition5  0.000  0.000  0.000  0.000 -0.500

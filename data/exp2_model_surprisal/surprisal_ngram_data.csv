@@ -1,0 +1,541 @@
+item_id,condition,prefix,eval_prefix,continuation,continuation_tokens,continuation_sum_surprisal,model,log_joint_count,joint_prob
+1,probable,Baking a cake using,He baked a cake using,an oven.,Ġan Ġoven .,9.577379941940308,gpt2,12.029955799643718,6.482273305743423e-07
+1,improbable,Baking a cake using,He baked a cake using,an airfryer.,Ġan Ġair f ry er .,22.057408332824707,gpt2,-inf,0.0
+1,impossible_physics,Baking a cake using,He baked a cake using,a refrigerator.,Ġa Ġrefrigerator .,13.174368262290956,gpt2,11.896097246564523,5.670133795493369e-07
+1,impossible_magic,Baking a cake using,He baked a cake using,superpowers.,Ġsuper powers .,15.808425188064575,gpt2,12.460090638107612,9.966267154507811e-07
+1,inconceivable_syntactic,Baking a cake using,He baked a cake using,grasp.,Ġgrasp .,18.861928462982178,gpt2,15.111826873153404,1.4130806159962394e-05
+1,inconceivable_semantic,Baking a cake using,He baked a cake using,anger.,Ġanger .,14.223746538162231,gpt2,15.921022908427124,3.173922454795993e-05
+2,probable,Carving a statue using,He carved a statue using,a chisel.,Ġa Ġch isel .,10.955691687762735,gpt2,10.937419087729905,2.173925578767481e-07
+2,improbable,Carving a statue using,He carved a statue using,a toothpick.,Ġa Ġtooth pick .,11.040941566228868,gpt2,11.380673253844087,3.38647217038826e-07
+2,impossible_physics,Carving a statue using,He carved a statue using,a valley.,Ġa Ġvalley .,17.570712447166443,gpt2,12.410184232511202,9.481093905606824e-07
+2,impossible_magic,Carving a statue using,He carved a statue using,telekinesis.,Ġtele k ines is .,14.212330182017467,gpt2,9.48029117039765,5.063164744545932e-08
+2,inconceivable_syntactic,Carving a statue using,He carved a statue using,began.,Ġbegan .,19.77053928375244,gpt2,17.71912892314381,0.0001916477972467
+2,inconceivable_semantic,Carving a statue using,He carved a statue using,yesterday.,Ġyesterday .,18.134455680847168,gpt2,15.234220316980181,1.5970618526000808e-05
+3,probable,Using a telescope to look at,He used a telescope to look at,the moon.,Ġthe Ġmoon .,5.858684599399567,gpt2,15.097271561236974,1.3926617488464278e-05
+3,improbable,Using a telescope to look at,He used a telescope to look at,the sun.,Ġthe Ġsun .,6.515614449977875,gpt2,16.176884235347945,4.099354479725882e-05
+3,impossible_physics,Using a telescope to look at,He used a telescope to look at,a molecule.,Ġa Ġmolecule .,15.598480224609377,gpt2,12.839865178764596,1.4570233508602524e-06
+3,impossible_magic,Using a telescope to look at,He used a telescope to look at,unicorns.,Ġunic orns .,13.919311905279756,gpt2,10.959296718878928,2.2220099893500834e-07
+3,inconceivable_syntactic,Using a telescope to look at,He used a telescope to look at,of.,Ġof .,17.24724578857422,gpt2,22.724110930240382,0.0285851120972627
+3,inconceivable_semantic,Using a telescope to look at,He used a telescope to look at,a decade.,Ġa Ġdecade .,18.45971703529358,gpt2,14.447519828748057,7.272137055689013e-06
+4,probable,Chilling a drink using,He chilled a drink using,ice.,Ġice .,7.229902267456055,gpt2,16.13981496963921,3.950176461199674e-05
+4,improbable,Chilling a drink using,He chilled a drink using,snow.,Ġsnow .,12.77041482925415,gpt2,15.853729113279037,2.9673651235868616e-05
+4,impossible_physics,Chilling a drink using,He chilled a drink using,fire.,Ġfire .,11.424784898757936,gpt2,17.123653393965597,0.0001056554965731
+4,impossible_magic,Chilling a drink using,He chilled a drink using,pixies.,Ġp ix ies .,17.5771022439003,gpt2,9.690294332075087,6.246335008158049e-08
+4,inconceivable_syntactic,Chilling a drink using,He chilled a drink using,at.,Ġat .,19.02572536468506,gpt2,20.530760976671274,0.0031884537221516
+4,inconceivable_semantic,Chilling a drink using,He chilled a drink using,tomorrow.,Ġtomorrow .,18.652509212493896,gpt2,15.571969221154637,2.2387429003960714e-05
+5,probable,Washing dishes using,He washed dishes using,soap.,Ġsoap .,7.577231884002685,gpt2,14.538226249456498,7.962608319001077e-06
+5,improbable,Washing dishes using,He washed dishes using,rain.,Ġrain .,12.861896514892578,gpt2,15.976722736664426,3.3557255912902446e-05
+5,impossible_physics,Washing dishes using,He washed dishes using,lightning.,Ġlightning .,13.6427800655365,gpt2,14.654836872696603,8.94743811957259e-06
+5,impossible_magic,Washing dishes using,He washed dishes using,fairies.,Ġfair ies .,15.436916828155518,gpt2,12.821069077532686,1.4298927658217242e-06
+5,inconceivable_syntactic,Washing dishes using,He washed dishes using,fell.,Ġfell .,21.049253463745117,gpt2,16.62566923256269,6.421260991653218e-05
+5,inconceivable_semantic,Washing dishes using,He washed dishes using,arithmetic.,Ġarithmetic .,16.41553544998169,gpt2,14.534450233826655,7.932598080756437e-06
+6,probable,Building a robot out of,He built a robot out of,metal.,Ġmetal .,7.315327644348144,gpt2,16.297461594226643,4.624678597993976e-05
+6,improbable,Building a robot out of,He built a robot out of,plastic.,Ġplastic .,7.146121501922607,gpt2,15.695314328864868,2.532633349060539e-05
+6,impossible_physics,Building a robot out of,He built a robot out of,soup.,Ġsoup .,11.627983808517456,gpt2,14.792171761714444,1.0264610822580016e-05
+6,impossible_magic,Building a robot out of,He built a robot out of,elixirs.,Ġel ix irs .,16.466462211450562,gpt2,10.215557313044739,1.0561949511009817e-07
+6,inconceivable_syntactic,Building a robot out of,He built a robot out of,with.,Ġwith .,19.285683631896973,gpt2,21.028605624042424,0.0052455532623553
+6,inconceivable_semantic,Building a robot out of,He built a robot out of,honesty.,Ġhonesty .,15.400318145751951,gpt2,14.362843216185862,6.681707650471716e-06
+7,probable,Flying a kite using,He flew a kite using,string.,Ġstring .,13.362282752990724,gpt2,15.766240928207846,2.71878804740639e-05
+7,improbable,Flying a kite using,He flew a kite using,floss.,Ġfl oss .,17.27467656135559,gpt2,11.96786621653892,6.092031979986222e-07
+7,impossible_physics,Flying a kite using,He flew a kite using,lead.,Ġlead .,12.816180229187012,gpt2,17.08757922194206,0.0001019119899235
+7,impossible_magic,Flying a kite using,He flew a kite using,witchcraft.,Ġwitchcraft .,14.491054058074951,gpt2,13.587786532275954,3.0781134936488937e-06
+7,inconceivable_syntactic,Flying a kite using,He flew a kite using,give.,Ġgive .,18.55195426940918,gpt2,18.02028986016534,0.0002589979729333
+7,inconceivable_semantic,Flying a kite using,He flew a kite using,a sound.,Ġa Ġsound .,15.542137384414673,gpt2,14.585157562204817,8.345211799476024e-06
+8,probable,Crafting a bowl out of,He crafted a bowl out of,clay.,Ġclay .,7.666716575622559,gpt2,15.244140727210201,1.6129842089114084e-05
+8,improbable,Crafting a bowl out of,He crafted a bowl out of,mud.,Ġmud .,9.535808324813845,gpt2,15.039750293545328,1.314814479623468e-05
+8,impossible_physics,Crafting a bowl out of,He crafted a bowl out of,smoke.,Ġsmoke .,11.725980520248411,gpt2,15.739515822957893,2.6470904805336648e-05
+8,impossible_magic,Crafting a bowl out of,He crafted a bowl out of,auras.,Ġa uras .,22.18169951438904,gpt2,11.138188378213087,2.657282133699513e-07
+8,inconceivable_syntactic,Crafting a bowl out of,He crafted a bowl out of,forget.,Ġforget .,21.346590995788578,gpt2,15.992626867967823,3.4095221515480056e-05
+8,inconceivable_semantic,Crafting a bowl out of,He crafted a bowl out of,friction.,Ġfriction .,16.782611846923828,gpt2,14.691825187450526,9.284585597760448e-06
+9,probable,Growing vegetables in,He grew vegetables in,soil.,Ġsoil .,11.99378252029419,gpt2,16.374149430749693,4.993288510009744e-05
+9,improbable,Growing vegetables in,He grew vegetables in,sand.,Ġsand .,13.640652656555176,gpt2,15.747797039145947,2.6691026269473148e-05
+9,impossible_physics,Growing vegetables in,He grew vegetables in,bleach.,Ġbleach .,16.247576236724854,gpt2,12.502563308188346,1.0398678972182716e-06
+9,impossible_magic,Growing vegetables in,He grew vegetables in,stardust.,Ġst ard ust .,17.242548644542694,gpt2,9.036225051729327,3.247630367484153e-08
+9,inconceivable_syntactic,Growing vegetables in,He grew vegetables in,become.,Ġbecome .,20.395859241485596,gpt2,17.99090953129997,0.0002514992245642
+9,inconceivable_semantic,Growing vegetables in,He grew vegetables in,justice.,Ġjustice .,15.7254958152771,gpt2,16.36893078661909,4.9672981903347104e-05
+10,probable,Writing a letter using,He wrote a letter using,a pen.,Ġa Ġpen .,10.46654176712036,gpt2,13.083556018808281,1.8590886486409403e-06
+10,improbable,Writing a letter using,He wrote a letter using,a toothbrush.,Ġa Ġtooth brush .,14.42283760011196,gpt2,10.967715414342408,2.240795378050361e-07
+10,impossible_physics,Writing a letter using,He wrote a letter using,wind.,Ġwind .,16.116755485534668,gpt2,16.481268308956125,5.557862494742467e-05
+10,impossible_magic,Writing a letter using,He wrote a letter using,a wand.,Ġa Ġwand .,16.179543495178223,gpt2,10.56761778402558,1.5019034225061208e-07
+10,inconceivable_syntactic,Writing a letter using,He wrote a letter using,onto.,Ġonto .,22.241558074951172,gpt2,16.46418216480186,5.463706725107118e-05
+10,inconceivable_semantic,Writing a letter using,He wrote a letter using,time.,Ġtime .,14.955564498901367,gpt2,19.542416248498153,0.0011867177992314
+11,probable,Cooking dinner out of,He cooked dinner out of,pasta.,Ġpasta .,7.833903789520264,gpt2,13.737089451451263,3.5737655879750783e-06
+11,improbable,Cooking dinner out of,He cooked dinner out of,clay.,Ġclay .,9.926153421401978,gpt2,15.244140727210201,1.6129842089114084e-05
+11,impossible_physics,Cooking dinner out of,He cooked dinner out of,thunder.,Ġthunder .,15.74354124069214,gpt2,14.353642935449987,6.620515986168406e-06
+11,impossible_magic,Cooking dinner out of,He cooked dinner out of,a potion.,Ġa Ġpotion .,14.998260259628296,gpt2,10.39516093745751,1.263993818699111e-07
+11,inconceivable_syntactic,Cooking dinner out of,He cooked dinner out of,through.,Ġthrough .,18.12462043762207,gpt2,18.979485380135998,0.0006758801416881
+11,inconceivable_semantic,Cooking dinner out of,He cooked dinner out of,words.,Ġwords .,11.591852188110352,gpt2,17.88739031543827,0.0002267664629728
+12,probable,Taking a bath in,He took a bath in,bubbles.,Ġbubbles .,13.336189985275269,gpt2,13.878319146130282,4.115867068311805e-06
+12,improbable,Taking a bath in,He took a bath in,tea.,Ġtea .,10.958303451538086,gpt2,15.719096394107767,2.5935865239640953e-05
+12,impossible_physics,Taking a bath in,He took a bath in,light.,Ġlight .,11.214082479476929,gpt2,17.829027023620153,0.0002139104348362
+12,impossible_magic,Taking a bath in,He took a bath in,crystals.,Ġcrystals .,15.225226283073424,gpt2,14.718259613818333,9.53329100211064e-06
+12,inconceivable_syntactic,Taking a bath in,He took a bath in,without.,Ġwithout .,21.922452449798584,gpt2,18.47891789685517,0.0004097094589734
+12,inconceivable_semantic,Taking a bath in,He took a bath in,language.,Ġlanguage .,15.021170616149902,gpt2,17.51277491036014,0.0001559141110365
+13,probable,Brewing coffee using,He brewed coffee using,water.,Ġwater .,8.065584182739258,gpt2,18.195380192986132,0.0003085582270432
+13,improbable,Brewing coffee using,He brewed coffee using,soda.,Ġsoda .,10.943545579910278,gpt2,14.212873599459463,5.751173807734112e-06
+13,impossible_physics,Brewing coffee using,He brewed coffee using,glue.,Ġglue .,11.600019931793211,gpt2,14.109051434059035,5.184025142463683e-06
+13,impossible_magic,Brewing coffee using,He brewed coffee using,lightsabers.,Ġlights ab ers .,18.36775469686836,gpt2,8.037543185118697,1.1963123050896754e-08
+13,inconceivable_syntactic,Brewing coffee using,He brewed coffee using,into.,Ġinto .,19.871694087982178,gpt2,19.554618154982855,0.0012012867224011
+13,inconceivable_semantic,Brewing coffee using,He brewed coffee using,numbers.,Ġnumbers .,12.601299524307253,gpt2,16.974493268399264,9.101493768140132e-05
+14,probable,Painting a house using,He painted a house using,a brush.,Ġa Ġbrush .,8.474193096160889,gpt2,12.515577362492428,1.053489236679131e-06
+14,improbable,Painting a house using,He painted a house using,a mop.,Ġa Ġm op .,13.63476049900055,gpt2,10.823571082648979,1.9399972404669086e-07
+14,impossible_physics,Painting a house using,He painted a house using,a planet.,Ġa Ġplanet .,18.28738236427307,gpt2,12.572155694136102,1.1148123213972174e-06
+14,impossible_magic,Painting a house using,He painted a house using,incantations.,Ġinc ant ations .,14.76686578989029,gpt2,11.989954359152717,6.22809076234214e-07
+14,inconceivable_syntactic,Painting a house using,He painted a house using,before.,Ġbefore .,15.996710300445557,gpt2,18.814289974739683,0.0005729625459425
+14,inconceivable_semantic,Painting a house using,He painted a house using,questions.,Ġquestions .,14.95167636871338,gpt2,17.27650260143505,0.0001231044246918
+15,probable,Crafting jewelry using,He crafted jewelry using,beads.,Ġbeads .,9.56619930267334,gpt2,14.330886015520957,6.4715548113265775e-06
+15,improbable,Crafting jewelry using,He crafted jewelry using,leather.,Ġleather .,10.696412324905396,gpt2,15.20342884979464,1.5486353624084297e-05
+15,impossible_physics,Crafting jewelry using,He crafted jewelry using,a volcano.,Ġa Ġvolcano .,16.462358951568604,gpt2,11.826151007442707,5.287081939485657e-07
+15,impossible_magic,Crafting jewelry using,He crafted jewelry using,alchemy.,Ġal chemy .,10.304827570915222,gpt2,12.59871590391828,1.144818694335541e-06
+15,inconceivable_syntactic,Crafting jewelry using,He crafted jewelry using,until.,Ġuntil .,19.109856128692627,gpt2,18.11084591441145,0.0002835465449481
+15,inconceivable_semantic,Crafting jewelry using,He crafted jewelry using,opinions.,Ġopinions .,16.43605947494507,gpt2,15.620324117255844,2.3496570920990995e-05
+16,probable,Docking a boat using,He docked a boat using,an anchor.,Ġan Ġanchor .,11.697704792022703,gpt2,12.094610217680879,6.915226266302695e-07
+16,improbable,Docking a boat using,He docked a boat using,an anvil.,Ġan Ġan vil .,13.538482785224916,gpt2,10.608167968909747,1.564057548082347e-07
+16,impossible_physics,Docking a boat using,He docked a boat using,a balloon.,Ġa Ġballoon .,11.155155301094055,gpt2,12.358158337594164,9.000443065096643e-07
+16,impossible_magic,Docking a boat using,He docked a boat using,a dragon.,Ġa Ġdragon .,15.332343459129332,gpt2,12.28374639559191,8.355014216295758e-07
+16,inconceivable_syntactic,Docking a boat using,He docked a boat using,forgive.,Ġforgive .,19.736726760864254,gpt2,14.868921485000543,1.1083437312758358e-05
+16,inconceivable_semantic,Docking a boat using,He docked a boat using,greetings.,Ġgreet ings .,16.88522893190384,gpt2,13.192717455362581,2.0735203818789206e-06
+17,probable,Sealing a box using,He sealed a box using,tape.,Ġtape .,7.575352430343628,gpt2,15.66135014311631,2.4480589007235952e-05
+17,improbable,Sealing a box using,He sealed a box using,magnets.,Ġmagnets .,7.630217909812927,gpt2,12.902128092979293,1.5506256086310166e-06
+17,impossible_physics,Sealing a box using,He sealed a box using,wine.,Ġwine .,10.828253030776978,gpt2,16.119722027690404,3.8715978760215506e-05
+17,impossible_magic,Sealing a box using,He sealed a box using,sorcery.,Ġsorcery .,12.656078577041626,gpt2,12.737133156095918,1.3147723477846137e-06
+17,inconceivable_syntactic,Sealing a box using,He sealed a box using,do.,Ġdo .,17.569698810577393,gpt2,19.601455924959378,0.0012588908065117
+17,inconceivable_semantic,Sealing a box using,He sealed a box using,jokes.,Ġjokes .,13.462014198303224,gpt2,14.23017720179701,5.851555812784771e-06
+18,probable,Smashing a pumpkin using,He smashed a pumpkin using,a hammer.,Ġa Ġhammer .,5.387655794620514,gpt2,12.683870818241822,1.2465767484350266e-06
+18,improbable,Smashing a pumpkin using,He smashed a pumpkin using,a brick.,Ġa Ġbrick .,9.344320833683014,gpt2,12.781446477886812,1.3743444487411303e-06
+18,impossible_physics,Smashing a pumpkin using,He smashed a pumpkin using,a leaf.,Ġa Ġleaf .,12.909976065158844,gpt2,12.960347850589924,1.643582360246854e-06
+18,impossible_magic,Smashing a pumpkin using,He smashed a pumpkin using,a wizard.,Ġa Ġwizard .,16.15640217065811,gpt2,11.569693246967937,4.091078858901336e-07
+18,inconceivable_syntactic,Smashing a pumpkin using,He smashed a pumpkin using,have.,Ġhave .,19.359898567199707,gpt2,20.396501325514368,0.0027878659802289
+18,inconceivable_semantic,Smashing a pumpkin using,He smashed a pumpkin using,a number.,Ġa Ġnumber .,17.758762896060944,gpt2,16.892989670949493,8.389114335154342e-05
+19,probable,Wiping a spill using,He wiped a spill using,a tissue.,Ġa Ġtissue .,12.434678375720978,gpt2,12.478665191556352,1.0153116061868184e-06
+19,improbable,Wiping a spill using,He wiped a spill using,a scarf.,Ġa Ġscarf .,12.29792433977127,gpt2,11.639381888922788,4.3863496084515793e-07
+19,impossible_physics,Wiping a spill using,He wiped a spill using,a piano.,Ġa Ġpiano .,13.442850172519684,gpt2,12.739916309841371,1.3184366581730623e-06
+19,impossible_magic,Wiping a spill using,He wiped a spill using,divination.,Ġdiv ination .,17.185116410255432,gpt2,12.749288980226535,1.33085202206304e-06
+19,inconceivable_syntactic,Wiping a spill using,He wiped a spill using,make.,Ġmake .,15.898085594177246,gpt2,18.743574697223508,0.0005338447531294
+19,inconceivable_semantic,Wiping a spill using,He wiped a spill using,sentences.,Ġsentences .,19.412553787231445,gpt2,15.502908271866573,2.0893511304305368e-05
+20,probable,Constructing a castle using,He constructed a castle using,bricks.,Ġbricks .,8.122951030731201,gpt2,13.88541434777246,4.145173820806764e-06
+20,improbable,Constructing a castle using,He constructed a castle using,gems.,Ġgems .,11.01072359085083,gpt2,13.17157059745101,2.030132318471387e-06
+20,impossible_physics,Constructing a castle using,He constructed a castle using,a star.,Ġa Ġstar .,14.56092357635498,gpt2,13.850458695111604,4.002779801397399e-06
+20,impossible_magic,Constructing a castle using,He constructed a castle using,wizardry.,Ġwizard ry .,14.163552165031431,gpt2,11.094466298566607,2.5436034749186165e-07
+20,inconceivable_syntactic,Constructing a castle using,He constructed a castle using,follow.,Ġfollow .,19.494864463806152,gpt2,17.01446171849008,9.472633909670962e-05
+20,inconceivable_semantic,Constructing a castle using,He constructed a castle using,boredom.,Ġboredom .,16.18546485900879,gpt2,13.595759993952903,3.102754821419319e-06
+21,probable,Lighting a candle with,He lit a candle with,a match.,Ġa Ġmatch .,9.81452178955078,gpt2,13.519422588074486,2.87471334463943e-06
+21,improbable,Lighting a candle with,He lit a candle with,a blowtorch.,Ġa Ġblow tor ch .,11.805875966441818,gpt2,9.493939118990328,5.1327402582506625e-08
+21,impossible_physics,Lighting a candle with,He lit a candle with,a pool.,Ġa Ġpool .,16.23222780227661,gpt2,13.401055158017977,2.5538078835953103e-06
+21,impossible_magic,Lighting a candle with,He lit a candle with,spells.,Ġspells .,13.409503698349,gpt2,13.721621767507324,3.518913026031532e-06
+21,inconceivable_syntactic,Lighting a candle with,He lit a candle with,choose.,Ġchoose .,21.675705909729004,gpt2,16.495609743642753,5.63814452041446e-05
+21,inconceivable_semantic,Lighting a candle with,He lit a candle with,years.,Ġyears .,18.573383808135983,gpt2,18.778477733162795,0.0005528065428141
+22,probable,Towing a car using,He towed a car using,a truck.,Ġa Ġtruck .,9.181800544261932,gpt2,13.22233178172378,2.1358445809330914e-06
+22,improbable,Towing a car using,He towed a car using,a horse.,Ġa Ġhorse .,11.47007840871811,gpt2,14.581665140987523,8.316117638828496e-06
+22,impossible_physics,Towing a car using,He towed a car using,a butterfly.,Ġa Ġbutterfly .,15.338451087474825,gpt2,12.287675673731801,8.387907973052828e-07
+22,impossible_magic,Towing a car using,He towed a car using,aliens.,Ġaliens .,16.31299328804016,gpt2,13.94723682232466,4.409525985127888e-06
+22,inconceivable_syntactic,Towing a car using,He towed a car using,then.,Ġthen .,16.32260036468506,gpt2,19.14199575494659,0.0007951463056113
+22,inconceivable_semantic,Towing a car using,He towed a car using,freedom.,Ġfreedom .,15.92570972442627,gpt2,16.70869679593749,6.977160842480119e-05
+23,probable,Starting a fire using,He started a fire using,kindling.,Ġkind ling .,13.443663597106934,gpt2,12.590382211565547,1.1353177714085282e-06
+23,improbable,Starting a fire using,He started a fire using,furniture.,Ġfurniture .,12.942409753799438,gpt2,15.357320809444442,1.806273876187679e-05
+23,impossible_physics,Starting a fire using,He started a fire using,milk.,Ġmilk .,11.36866044998169,gpt2,16.05667025235572,3.635023349016408e-05
+23,impossible_magic,Starting a fire using,He started a fire using,enchantments.,Ġenchant ments .,18.918720960617065,gpt2,11.129525129459477,2.634360867240121e-07
+23,inconceivable_syntactic,Starting a fire using,He started a fire using,sometimes.,Ġsometimes .,19.35830783843994,gpt2,17.320514468471952,0.0001286434782195
+23,inconceivable_semantic,Starting a fire using,He started a fire using,traffic.,Ġtraffic .,19.096882343292236,gpt2,15.819186253977238,2.866613981782936e-05
+24,probable,Building a bridge out of,He constructed a bridge out of,steel.,Ġsteel .,7.532633304595947,gpt2,16.049659731487655,3.609629059575445e-05
+24,improbable,Building a bridge out of,He constructed a bridge out of,plastic.,Ġplastic .,9.290354251861572,gpt2,15.695314328864868,2.532633349060539e-05
+24,impossible_physics,Building a bridge out of,He constructed a bridge out of,gas.,Ġgas .,11.893917560577393,gpt2,16.58928776118067,6.191844625416398e-05
+24,impossible_magic,Building a bridge out of,He constructed a bridge out of,ambrosia.,Ġamb ros ia .,17.170540377497673,gpt2,10.945458940490091,2.1914740694463405e-07
+24,inconceivable_syntactic,Building a bridge out of,He constructed a bridge out of,from.,Ġfrom .,18.185378074645996,gpt2,20.567291832038464,0.0033070843098918
+24,inconceivable_semantic,Building a bridge out of,He constructed a bridge out of,truth.,Ġtruth .,14.194120049476624,gpt2,17.08673747555405,0.0001018262419682
+25,probable,Shoveling a driveway full of,He shoveled a driveway full of,snow.,Ġsnow .,6.076751708984375,gpt2,15.853729113279037,2.9673651235868616e-05
+25,improbable,Shoveling a driveway full of,He shoveled a driveway full of,ice.,Ġice .,9.052854061126707,gpt2,16.13981496963921,3.950176461199674e-05
+25,impossible_physics,Shoveling a driveway full of,He shoveled a driveway full of,sunshine.,Ġsunshine .,14.130771160125732,gpt2,14.25762319964205,6.0143818413854255e-06
+25,impossible_magic,Shoveling a driveway full of,He shoveled a driveway full of,ogres.,Ġo gres .,16.05020833015442,gpt2,10.80829257546719,1.910582259395075e-07
+25,inconceivable_syntactic,Shoveling a driveway full of,He shoveled a driveway full of,except.,Ġexcept .,23.437807083129883,gpt2,17.089122567665143,0.0001020693967927
+25,inconceivable_semantic,Shoveling a driveway full of,He shoveled a driveway full of,rumors.,Ġrumors .,14.79656171798706,gpt2,14.202658934286541,5.692726510915822e-06
+26,probable,Constructing a tower using,He constructed a tower using,concrete.,Ġconcrete .,8.332932710647583,gpt2,15.883866632267186,3.05815537101206e-05
+26,improbable,Constructing a tower using,He constructed a tower using,blocks.,Ġblocks .,10.420156002044678,gpt2,15.652116393056462,2.425558179591485e-05
+26,impossible_physics,Constructing a tower using,He constructed a tower using,a lake.,Ġa Ġlake .,14.601975917816162,gpt2,13.131656066315857,1.950696408352169e-06
+26,impossible_magic,Constructing a tower using,He constructed a tower using,his mind.,Ġhis Ġmind .,11.143839120864868,gpt2,14.64821966089671,8.888426488032028e-06
+26,inconceivable_syntactic,Constructing a tower using,He constructed a tower using,while.,Ġwhile .,19.91344833374023,gpt2,18.415184899427235,0.0003844121462026
+26,inconceivable_semantic,Constructing a tower using,He constructed a tower using,laughter.,Ġlaughter .,15.279972076416016,gpt2,15.19690418005568,1.5385639202690384e-05
+27,probable,Knitting a scarf using,He knitted a scarf using,yarn.,Ġyarn .,7.373769044876099,gpt2,13.833760018937541,3.9364936633683745e-06
+27,improbable,Knitting a scarf using,He knitted a scarf using,wire.,Ġwire .,10.92460870742798,gpt2,15.709698598900058,2.5693267019271507e-05
+27,impossible_physics,Knitting a scarf using,He knitted a scarf using,lava.,Ġlava .,14.243643999099731,gpt2,13.571721599314534,3.0290588911807416e-06
+27,impossible_magic,Knitting a scarf using,He knitted a scarf using,telepathy.,Ġtele pathy .,16.23564088344574,gpt2,11.949895700065218,5.983532831670011e-07
+27,inconceivable_syntactic,Knitting a scarf using,He knitted a scarf using,for.,Ġfor .,17.502236366271973,gpt2,21.227499651195313,0.0063998512454984
+27,inconceivable_semantic,Knitting a scarf using,He knitted a scarf using,sadness.,Ġsadness .,15.523396015167236,gpt2,14.399444254150824,6.930795720147287e-06
+28,probable,Washing your hair with,He washed his hair with,shampoo.,Ġshampoo .,6.816598415374756,gpt2,12.473887413594257,1.0104722426780228e-06
+28,improbable,Washing your hair with,He washed his hair with,detergent.,Ġdeter gent .,10.089447863399982,gpt2,13.019705871987279,1.7440957857122882e-06
+28,impossible_physics,Washing your hair with,He washed his hair with,air.,Ġair .,9.841696977615356,gpt2,17.536004660783544,0.0001595783518494
+28,impossible_magic,Washing your hair with,He washed his hair with,mermaids.,Ġmer maid s .,16.13547432422638,gpt2,11.099589462481495,2.5566682102698384e-07
+28,inconceivable_syntactic,Washing your hair with,He washed his hair with,though.,Ġthough .,17.973362922668457,gpt2,18.03132300289176,0.0002618713566126
+28,inconceivable_semantic,Washing your hair with,He washed his hair with,minutes.,Ġminutes .,15.67784833908081,gpt2,17.10368674837162,0.0001035668319211
+29,probable,Hiding a gift using,He hid a gift using,a closet.,Ġa Ġcloset .,10.712194800376892,gpt2,12.269849939507854,8.239712128861751e-07
+29,improbable,Hiding a gift using,He hid a gift using,a tarp.,Ġa Ġt arp .,11.88323438167572,gpt2,10.121819546853116,9.616882116520559e-08
+29,impossible_physics,Hiding a gift using,He hid a gift using,a cloud.,Ġa Ġcloud .,13.02160632610321,gpt2,13.74206851787472,3.591603976627708e-06
+29,impossible_magic,Hiding a gift using,He hid a gift using,invisibility.,Ġinvis ibility .,10.879804941825569,gpt2,12.268098637909219,8.225294536299605e-07
+29,inconceivable_syntactic,Hiding a gift using,He hid a gift using,during.,Ġduring .,22.95240592956543,gpt2,18.374947312212566,0.0003692513905215
+29,inconceivable_semantic,Hiding a gift using,He hid a gift using,concepts.,Ġconcepts .,17.567451000213623,gpt2,16.132121329655423,3.919901836002955e-05
+30,probable,Drawing a picture using,He drew a picture using,a pencil.,Ġa Ġpencil .,6.8168463706970215,gpt2,13.189926694231422,2.0677417489351108e-06
+30,improbable,Drawing a picture using,He drew a picture using,lipstick.,Ġlipstick .,10.384138107299805,gpt2,12.975025107000038,1.6678835410613896e-06
+30,impossible_physics,Drawing a picture using,He drew a picture using,a mountain.,Ġa Ġmountain .,16.388991594314575,gpt2,13.914378039425436,4.2669889493847965e-06
+30,impossible_magic,Drawing a picture using,He drew a picture using,magic.,Ġmagic .,10.041693449020386,gpt2,15.450023058807181,1.9817263144032155e-05
+30,inconceivable_syntactic,Drawing a picture using,He drew a picture using,always.,Ġalways .,18.36989450454712,gpt2,18.15261286274315,0.0002956402187198
+30,inconceivable_semantic,Drawing a picture using,He drew a picture using,a smell.,Ġa Ġsmell .,17.834933042526245,gpt2,11.794903802005331,5.124429849669265e-07
+1,probable,Baking a cake using,He baked a cake using,an oven.,▁an ▁o ven .,8.598410822451115,meta-llama/Llama-2-7b-hf,12.029955799643718,6.482273305743423e-07
+1,improbable,Baking a cake using,He baked a cake using,an airfryer.,▁an ▁air f ry er .,13.853918667184187,meta-llama/Llama-2-7b-hf,-inf,0.0
+1,impossible_physics,Baking a cake using,He baked a cake using,a refrigerator.,▁a ▁re fr iger ator .,12.20780232641846,meta-llama/Llama-2-7b-hf,11.896097246564523,5.670133795493369e-07
+1,impossible_magic,Baking a cake using,He baked a cake using,superpowers.,▁super pow ers .,14.460584960179403,meta-llama/Llama-2-7b-hf,12.460090638107612,9.966267154507811e-07
+1,inconceivable_syntactic,Baking a cake using,He baked a cake using,grasp.,▁grasp .,20.691643714904785,meta-llama/Llama-2-7b-hf,15.111826873153404,1.4130806159962394e-05
+1,inconceivable_semantic,Baking a cake using,He baked a cake using,anger.,▁anger .,13.476247787475586,meta-llama/Llama-2-7b-hf,15.921022908427124,3.173922454795993e-05
+2,probable,Carving a statue using,He carved a statue using,a chisel.,▁a ▁ch is el .,6.689934279303998,meta-llama/Llama-2-7b-hf,10.937419087729905,2.173925578767481e-07
+2,improbable,Carving a statue using,He carved a statue using,a toothpick.,▁a ▁to oth pick .,9.1584030687809,meta-llama/Llama-2-7b-hf,11.380673253844087,3.38647217038826e-07
+2,impossible_physics,Carving a statue using,He carved a statue using,a valley.,▁a ▁valley .,17.21580147743225,meta-llama/Llama-2-7b-hf,12.410184232511202,9.481093905606824e-07
+2,impossible_magic,Carving a statue using,He carved a statue using,telekinesis.,▁tele k ines is .,11.461211257614195,meta-llama/Llama-2-7b-hf,9.48029117039765,5.063164744545932e-08
+2,inconceivable_syntactic,Carving a statue using,He carved a statue using,began.,▁began .,18.28447914123535,meta-llama/Llama-2-7b-hf,17.71912892314381,0.0001916477972467
+2,inconceivable_semantic,Carving a statue using,He carved a statue using,yesterday.,▁yesterday .,16.811806678771973,meta-llama/Llama-2-7b-hf,15.234220316980181,1.5970618526000808e-05
+3,probable,Using a telescope to look at,He used a telescope to look at,the moon.,▁the ▁moon .,3.862278580665589,meta-llama/Llama-2-7b-hf,15.097271561236974,1.3926617488464278e-05
+3,improbable,Using a telescope to look at,He used a telescope to look at,the sun.,▁the ▁sun .,4.559029698371887,meta-llama/Llama-2-7b-hf,16.176884235347945,4.099354479725882e-05
+3,impossible_physics,Using a telescope to look at,He used a telescope to look at,a molecule.,▁a ▁mole c ule .,12.615353558328934,meta-llama/Llama-2-7b-hf,12.839865178764596,1.4570233508602524e-06
+3,impossible_magic,Using a telescope to look at,He used a telescope to look at,unicorns.,▁un ic orn s .,13.962393863126636,meta-llama/Llama-2-7b-hf,10.959296718878928,2.2220099893500834e-07
+3,inconceivable_syntactic,Using a telescope to look at,He used a telescope to look at,of.,▁of .,15.962308883666992,meta-llama/Llama-2-7b-hf,22.724110930240382,0.0285851120972627
+3,inconceivable_semantic,Using a telescope to look at,He used a telescope to look at,a decade.,▁a ▁de cade .,17.74018359184265,meta-llama/Llama-2-7b-hf,14.447519828748057,7.272137055689013e-06
+4,probable,Chilling a drink using,He chilled a drink using,ice.,▁ice .,5.661334753036499,meta-llama/Llama-2-7b-hf,16.13981496963921,3.950176461199674e-05
+4,improbable,Chilling a drink using,He chilled a drink using,snow.,▁snow .,8.393949389457703,meta-llama/Llama-2-7b-hf,15.853729113279037,2.9673651235868616e-05
+4,impossible_physics,Chilling a drink using,He chilled a drink using,fire.,▁fire .,7.849828243255615,meta-llama/Llama-2-7b-hf,17.123653393965597,0.0001056554965731
+4,impossible_magic,Chilling a drink using,He chilled a drink using,pixies.,▁pix ies .,18.71038854122162,meta-llama/Llama-2-7b-hf,9.690294332075087,6.246335008158049e-08
+4,inconceivable_syntactic,Chilling a drink using,He chilled a drink using,at.,▁at .,16.696024417877197,meta-llama/Llama-2-7b-hf,20.530760976671274,0.0031884537221516
+4,inconceivable_semantic,Chilling a drink using,He chilled a drink using,tomorrow.,▁tom orrow .,17.075891733169556,meta-llama/Llama-2-7b-hf,15.571969221154637,2.2387429003960714e-05
+5,probable,Washing dishes using,He washed dishes using,soap.,▁soap .,6.262806415557861,meta-llama/Llama-2-7b-hf,14.538226249456498,7.962608319001077e-06
+5,improbable,Washing dishes using,He washed dishes using,rain.,▁rain .,14.334726333618164,meta-llama/Llama-2-7b-hf,15.976722736664426,3.3557255912902446e-05
+5,impossible_physics,Washing dishes using,He washed dishes using,lightning.,▁light ning .,13.30186653137207,meta-llama/Llama-2-7b-hf,14.654836872696603,8.94743811957259e-06
+5,impossible_magic,Washing dishes using,He washed dishes using,fairies.,▁f ai ries .,16.357439786195755,meta-llama/Llama-2-7b-hf,12.821069077532686,1.4298927658217242e-06
+5,inconceivable_syntactic,Washing dishes using,He washed dishes using,fell.,▁fell .,18.529172897338867,meta-llama/Llama-2-7b-hf,16.62566923256269,6.421260991653218e-05
+5,inconceivable_semantic,Washing dishes using,He washed dishes using,arithmetic.,▁arithmetic .,15.589832663536072,meta-llama/Llama-2-7b-hf,14.534450233826655,7.932598080756437e-06
+6,probable,Building a robot out of,He built a robot out of,metal.,▁metal .,9.03191328048706,meta-llama/Llama-2-7b-hf,16.297461594226643,4.624678597993976e-05
+6,improbable,Building a robot out of,He built a robot out of,plastic.,▁pl astic .,9.898797541856766,meta-llama/Llama-2-7b-hf,15.695314328864868,2.532633349060539e-05
+6,impossible_physics,Building a robot out of,He built a robot out of,soup.,▁soup .,13.05950117111206,meta-llama/Llama-2-7b-hf,14.792171761714444,1.0264610822580016e-05
+6,impossible_magic,Building a robot out of,He built a robot out of,elixirs.,▁el ix irs .,19.07074475288391,meta-llama/Llama-2-7b-hf,10.215557313044739,1.0561949511009817e-07
+6,inconceivable_syntactic,Building a robot out of,He built a robot out of,with.,▁with .,15.457322597503662,meta-llama/Llama-2-7b-hf,21.028605624042424,0.0052455532623553
+6,inconceivable_semantic,Building a robot out of,He built a robot out of,honesty.,▁hon esty .,15.098437458276749,meta-llama/Llama-2-7b-hf,14.362843216185862,6.681707650471716e-06
+7,probable,Flying a kite using,He flew a kite using,string.,▁string .,7.535150051116943,meta-llama/Llama-2-7b-hf,15.766240928207846,2.71878804740639e-05
+7,improbable,Flying a kite using,He flew a kite using,floss.,▁fl oss .,15.429192066192629,meta-llama/Llama-2-7b-hf,11.96786621653892,6.092031979986222e-07
+7,impossible_physics,Flying a kite using,He flew a kite using,lead.,▁lead .,13.64017915725708,meta-llama/Llama-2-7b-hf,17.08757922194206,0.0001019119899235
+7,impossible_magic,Flying a kite using,He flew a kite using,witchcraft.,▁w itch craft .,12.100372701883316,meta-llama/Llama-2-7b-hf,13.587786532275954,3.0781134936488937e-06
+7,inconceivable_syntactic,Flying a kite using,He flew a kite using,give.,▁give .,19.069217205047607,meta-llama/Llama-2-7b-hf,18.02028986016534,0.0002589979729333
+7,inconceivable_semantic,Flying a kite using,He flew a kite using,a sound.,▁a ▁sound .,14.597541451454164,meta-llama/Llama-2-7b-hf,14.585157562204817,8.345211799476024e-06
+8,probable,Crafting a bowl out of,He crafted a bowl out of,clay.,▁cl ay .,4.402364666573703,meta-llama/Llama-2-7b-hf,15.244140727210201,1.6129842089114084e-05
+8,improbable,Crafting a bowl out of,He crafted a bowl out of,mud.,▁mud .,6.98294985294342,meta-llama/Llama-2-7b-hf,15.039750293545328,1.314814479623468e-05
+8,impossible_physics,Crafting a bowl out of,He crafted a bowl out of,smoke.,▁smoke .,10.80175793170929,meta-llama/Llama-2-7b-hf,15.739515822957893,2.6470904805336648e-05
+8,impossible_magic,Crafting a bowl out of,He crafted a bowl out of,auras.,▁a uras .,18.86585652828217,meta-llama/Llama-2-7b-hf,11.138188378213087,2.657282133699513e-07
+8,inconceivable_syntactic,Crafting a bowl out of,He crafted a bowl out of,forget.,▁forget .,19.651150226593018,meta-llama/Llama-2-7b-hf,15.992626867967823,3.4095221515480056e-05
+8,inconceivable_semantic,Crafting a bowl out of,He crafted a bowl out of,friction.,▁fr iction .,15.686455965042114,meta-llama/Llama-2-7b-hf,14.691825187450526,9.284585597760448e-06
+9,probable,Growing vegetables in,He grew vegetables in,soil.,▁soil .,10.237188339233398,meta-llama/Llama-2-7b-hf,16.374149430749693,4.993288510009744e-05
+9,improbable,Growing vegetables in,He grew vegetables in,sand.,▁sand .,10.118890047073364,meta-llama/Llama-2-7b-hf,15.747797039145947,2.6691026269473148e-05
+9,impossible_physics,Growing vegetables in,He grew vegetables in,bleach.,▁ble ach .,16.6488196849823,meta-llama/Llama-2-7b-hf,12.502563308188346,1.0398678972182716e-06
+9,impossible_magic,Growing vegetables in,He grew vegetables in,stardust.,▁st ard ust .,17.968793958425522,meta-llama/Llama-2-7b-hf,9.036225051729327,3.247630367484153e-08
+9,inconceivable_syntactic,Growing vegetables in,He grew vegetables in,become.,▁become .,19.515369415283203,meta-llama/Llama-2-7b-hf,17.99090953129997,0.0002514992245642
+9,inconceivable_semantic,Growing vegetables in,He grew vegetables in,justice.,▁justice .,16.12590980529785,meta-llama/Llama-2-7b-hf,16.36893078661909,4.9672981903347104e-05
+10,probable,Writing a letter using,He wrote a letter using,a pen.,▁a ▁pen .,7.378222227096558,meta-llama/Llama-2-7b-hf,13.083556018808281,1.8590886486409403e-06
+10,improbable,Writing a letter using,He wrote a letter using,a toothbrush.,▁a ▁to oth br ush .,12.310494187055156,meta-llama/Llama-2-7b-hf,10.967715414342408,2.240795378050361e-07
+10,impossible_physics,Writing a letter using,He wrote a letter using,wind.,▁wind .,12.671514749526978,meta-llama/Llama-2-7b-hf,16.481268308956125,5.557862494742467e-05
+10,impossible_magic,Writing a letter using,He wrote a letter using,a wand.,▁a ▁wand .,13.148677706718445,meta-llama/Llama-2-7b-hf,10.56761778402558,1.5019034225061208e-07
+10,inconceivable_syntactic,Writing a letter using,He wrote a letter using,onto.,▁onto .,20.398305892944336,meta-llama/Llama-2-7b-hf,16.46418216480186,5.463706725107118e-05
+10,inconceivable_semantic,Writing a letter using,He wrote a letter using,time.,▁time .,14.16836929321289,meta-llama/Llama-2-7b-hf,19.542416248498153,0.0011867177992314
+11,probable,Cooking dinner out of,He cooked dinner out of,pasta.,▁past a .,11.225350826978683,meta-llama/Llama-2-7b-hf,13.737089451451263,3.5737655879750783e-06
+11,improbable,Cooking dinner out of,He cooked dinner out of,clay.,▁cl ay .,10.570371627807615,meta-llama/Llama-2-7b-hf,15.244140727210201,1.6129842089114084e-05
+11,impossible_physics,Cooking dinner out of,He cooked dinner out of,thunder.,▁th under .,15.73182773590088,meta-llama/Llama-2-7b-hf,14.353642935449987,6.620515986168406e-06
+11,impossible_magic,Cooking dinner out of,He cooked dinner out of,a potion.,▁a ▁pot ion .,15.695395588874815,meta-llama/Llama-2-7b-hf,10.39516093745751,1.263993818699111e-07
+11,inconceivable_syntactic,Cooking dinner out of,He cooked dinner out of,through.,▁through .,18.267176628112793,meta-llama/Llama-2-7b-hf,18.979485380135998,0.0006758801416881
+11,inconceivable_semantic,Cooking dinner out of,He cooked dinner out of,words.,▁words .,11.170714378356934,meta-llama/Llama-2-7b-hf,17.88739031543827,0.0002267664629728
+12,probable,Taking a bath in,He took a bath in,bubbles.,▁b ub bles .,11.064739815890787,meta-llama/Llama-2-7b-hf,13.878319146130282,4.115867068311805e-06
+12,improbable,Taking a bath in,He took a bath in,tea.,▁tea .,9.832728505134584,meta-llama/Llama-2-7b-hf,15.719096394107767,2.5935865239640953e-05
+12,impossible_physics,Taking a bath in,He took a bath in,light.,▁light .,10.421116709709167,meta-llama/Llama-2-7b-hf,17.829027023620153,0.0002139104348362
+12,impossible_magic,Taking a bath in,He took a bath in,crystals.,▁cry st als .,13.4091794192791,meta-llama/Llama-2-7b-hf,14.718259613818333,9.53329100211064e-06
+12,inconceivable_syntactic,Taking a bath in,He took a bath in,without.,▁without .,17.305528163909912,meta-llama/Llama-2-7b-hf,18.47891789685517,0.0004097094589734
+12,inconceivable_semantic,Taking a bath in,He took a bath in,language.,▁language .,13.086785078048706,meta-llama/Llama-2-7b-hf,17.51277491036014,0.0001559141110365
+13,probable,Brewing coffee using,He brewed coffee using,water.,▁water .,8.085338115692139,meta-llama/Llama-2-7b-hf,18.195380192986132,0.0003085582270432
+13,improbable,Brewing coffee using,He brewed coffee using,soda.,▁s oda .,11.680302143096924,meta-llama/Llama-2-7b-hf,14.212873599459463,5.751173807734112e-06
+13,impossible_physics,Brewing coffee using,He brewed coffee using,glue.,▁gl ue .,12.850405812263489,meta-llama/Llama-2-7b-hf,14.109051434059035,5.184025142463683e-06
+13,impossible_magic,Brewing coffee using,He brewed coffee using,lightsabers.,▁lights ab ers .,14.953578621149065,meta-llama/Llama-2-7b-hf,8.037543185118697,1.1963123050896754e-08
+13,inconceivable_syntactic,Brewing coffee using,He brewed coffee using,into.,▁into .,18.492926120758057,meta-llama/Llama-2-7b-hf,19.554618154982855,0.0012012867224011
+13,inconceivable_semantic,Brewing coffee using,He brewed coffee using,numbers.,▁numbers .,13.633913397789,meta-llama/Llama-2-7b-hf,16.974493268399264,9.101493768140132e-05
+14,probable,Painting a house using,He painted a house using,a brush.,▁a ▁br ush .,7.514994928613305,meta-llama/Llama-2-7b-hf,12.515577362492428,1.053489236679131e-06
+14,improbable,Painting a house using,He painted a house using,a mop.,▁a ▁m op .,11.007856011390686,meta-llama/Llama-2-7b-hf,10.823571082648979,1.9399972404669086e-07
+14,impossible_physics,Painting a house using,He painted a house using,a planet.,▁a ▁planet .,15.716992259025574,meta-llama/Llama-2-7b-hf,12.572155694136102,1.1148123213972174e-06
+14,impossible_magic,Painting a house using,He painted a house using,incantations.,▁inc ant ations .,15.58276852965355,meta-llama/Llama-2-7b-hf,11.989954359152717,6.22809076234214e-07
+14,inconceivable_syntactic,Painting a house using,He painted a house using,before.,▁before .,16.722220420837402,meta-llama/Llama-2-7b-hf,18.814289974739683,0.0005729625459425
+14,inconceivable_semantic,Painting a house using,He painted a house using,questions.,▁questions .,12.703125834465029,meta-llama/Llama-2-7b-hf,17.27650260143505,0.0001231044246918
+15,probable,Crafting jewelry using,He crafted jewelry using,beads.,▁be ads .,8.44547002017498,meta-llama/Llama-2-7b-hf,14.330886015520957,6.4715548113265775e-06
+15,improbable,Crafting jewelry using,He crafted jewelry using,leather.,▁le ather .,9.220053493976591,meta-llama/Llama-2-7b-hf,15.20342884979464,1.5486353624084297e-05
+15,impossible_physics,Crafting jewelry using,He crafted jewelry using,a volcano.,▁a ▁vol cano .,15.181059181690216,meta-llama/Llama-2-7b-hf,11.826151007442707,5.287081939485657e-07
+15,impossible_magic,Crafting jewelry using,He crafted jewelry using,alchemy.,▁al ch emy .,11.069400974549351,meta-llama/Llama-2-7b-hf,12.59871590391828,1.144818694335541e-06
+15,inconceivable_syntactic,Crafting jewelry using,He crafted jewelry using,until.,▁until .,19.14356565475464,meta-llama/Llama-2-7b-hf,18.11084591441145,0.0002835465449481
+15,inconceivable_semantic,Crafting jewelry using,He crafted jewelry using,opinions.,▁opinions .,16.71346092224121,meta-llama/Llama-2-7b-hf,15.620324117255844,2.3496570920990995e-05
+16,probable,Docking a boat using,He docked a boat using,an anchor.,▁an ▁anchor .,10.333073139190674,meta-llama/Llama-2-7b-hf,12.094610217680879,6.915226266302695e-07
+16,improbable,Docking a boat using,He docked a boat using,an anvil.,▁an ▁an vil .,12.933076858520508,meta-llama/Llama-2-7b-hf,10.608167968909747,1.564057548082347e-07
+16,impossible_physics,Docking a boat using,He docked a boat using,a balloon.,▁a ▁bal lo on .,9.511595110059716,meta-llama/Llama-2-7b-hf,12.358158337594164,9.000443065096643e-07
+16,impossible_magic,Docking a boat using,He docked a boat using,a dragon.,▁a ▁drag on .,11.583812654018402,meta-llama/Llama-2-7b-hf,12.28374639559191,8.355014216295758e-07
+16,inconceivable_syntactic,Docking a boat using,He docked a boat using,forgive.,▁forg ive .,22.249027729034424,meta-llama/Llama-2-7b-hf,14.868921485000543,1.1083437312758358e-05
+16,inconceivable_semantic,Docking a boat using,He docked a boat using,greetings.,▁gre et ings .,17.77335625886917,meta-llama/Llama-2-7b-hf,13.192717455362581,2.0735203818789206e-06
+17,probable,Sealing a box using,He sealed a box using,tape.,▁t ape .,6.892515383660793,meta-llama/Llama-2-7b-hf,15.66135014311631,2.4480589007235952e-05
+17,improbable,Sealing a box using,He sealed a box using,magnets.,▁magnet s .,9.464041993021963,meta-llama/Llama-2-7b-hf,12.902128092979293,1.5506256086310166e-06
+17,impossible_physics,Sealing a box using,He sealed a box using,wine.,▁wine .,10.64421021938324,meta-llama/Llama-2-7b-hf,16.119722027690404,3.8715978760215506e-05
+17,impossible_magic,Sealing a box using,He sealed a box using,sorcery.,▁sor c ery .,10.268876694492064,meta-llama/Llama-2-7b-hf,12.737133156095918,1.3147723477846137e-06
+17,inconceivable_syntactic,Sealing a box using,He sealed a box using,do.,▁do .,15.13614273071289,meta-llama/Llama-2-7b-hf,19.601455924959378,0.0012588908065117
+17,inconceivable_semantic,Sealing a box using,He sealed a box using,jokes.,▁j okes .,15.957892179489136,meta-llama/Llama-2-7b-hf,14.23017720179701,5.851555812784771e-06
+18,probable,Smashing a pumpkin using,He smashed a pumpkin using,a hammer.,▁a ▁ham mer .,4.04447318916209,meta-llama/Llama-2-7b-hf,12.683870818241822,1.2465767484350266e-06
+18,improbable,Smashing a pumpkin using,He smashed a pumpkin using,a brick.,▁a ▁brick .,7.667393803596497,meta-llama/Llama-2-7b-hf,12.781446477886812,1.3743444487411303e-06
+18,impossible_physics,Smashing a pumpkin using,He smashed a pumpkin using,a leaf.,▁a ▁leaf .,11.218002557754517,meta-llama/Llama-2-7b-hf,12.960347850589924,1.643582360246854e-06
+18,impossible_magic,Smashing a pumpkin using,He smashed a pumpkin using,a wizard.,▁a ▁w izard .,15.403786182403564,meta-llama/Llama-2-7b-hf,11.569693246967937,4.091078858901336e-07
+18,inconceivable_syntactic,Smashing a pumpkin using,He smashed a pumpkin using,have.,▁have .,17.295395851135254,meta-llama/Llama-2-7b-hf,20.396501325514368,0.0027878659802289
+18,inconceivable_semantic,Smashing a pumpkin using,He smashed a pumpkin using,a number.,▁a ▁number .,14.64356517791748,meta-llama/Llama-2-7b-hf,16.892989670949493,8.389114335154342e-05
+19,probable,Wiping a spill using,He wiped a spill using,a tissue.,▁a ▁t issue .,5.53763322532177,meta-llama/Llama-2-7b-hf,12.478665191556352,1.0153116061868184e-06
+19,improbable,Wiping a spill using,He wiped a spill using,a scarf.,▁a ▁scar f .,10.99339558929205,meta-llama/Llama-2-7b-hf,11.639381888922788,4.3863496084515793e-07
+19,impossible_physics,Wiping a spill using,He wiped a spill using,a piano.,▁a ▁piano .,14.599863350391388,meta-llama/Llama-2-7b-hf,12.739916309841371,1.3184366581730623e-06
+19,impossible_magic,Wiping a spill using,He wiped a spill using,divination.,▁div ination .,18.110859394073486,meta-llama/Llama-2-7b-hf,12.749288980226535,1.33085202206304e-06
+19,inconceivable_syntactic,Wiping a spill using,He wiped a spill using,make.,▁make .,18.35042428970337,meta-llama/Llama-2-7b-hf,18.743574697223508,0.0005338447531294
+19,inconceivable_semantic,Wiping a spill using,He wiped a spill using,sentences.,▁sentences .,16.967562675476074,meta-llama/Llama-2-7b-hf,15.502908271866573,2.0893511304305368e-05
+20,probable,Constructing a castle using,He constructed a castle using,bricks.,▁br icks .,7.202269077301025,meta-llama/Llama-2-7b-hf,13.88541434777246,4.145173820806764e-06
+20,improbable,Constructing a castle using,He constructed a castle using,gems.,▁g ems .,12.671786069869995,meta-llama/Llama-2-7b-hf,13.17157059745101,2.030132318471387e-06
+20,impossible_physics,Constructing a castle using,He constructed a castle using,a star.,▁a ▁star .,13.899274587631226,meta-llama/Llama-2-7b-hf,13.850458695111604,4.002779801397399e-06
+20,impossible_magic,Constructing a castle using,He constructed a castle using,wizardry.,▁w izard ry .,13.68809662759304,meta-llama/Llama-2-7b-hf,11.094466298566607,2.5436034749186165e-07
+20,inconceivable_syntactic,Constructing a castle using,He constructed a castle using,follow.,▁follow .,18.429125785827637,meta-llama/Llama-2-7b-hf,17.01446171849008,9.472633909670962e-05
+20,inconceivable_semantic,Constructing a castle using,He constructed a castle using,boredom.,▁b ored om .,15.9397132396698,meta-llama/Llama-2-7b-hf,13.595759993952903,3.102754821419319e-06
+21,probable,Lighting a candle with,He lit a candle with,a match.,▁a ▁match .,5.524114489555359,meta-llama/Llama-2-7b-hf,13.519422588074486,2.87471334463943e-06
+21,improbable,Lighting a candle with,He lit a candle with,a blowtorch.,▁a ▁blow tor ch .,9.325463113680598,meta-llama/Llama-2-7b-hf,9.493939118990328,5.1327402582506625e-08
+21,impossible_physics,Lighting a candle with,He lit a candle with,a pool.,▁a ▁pool .,15.885122656822205,meta-llama/Llama-2-7b-hf,13.401055158017977,2.5538078835953103e-06
+21,impossible_magic,Lighting a candle with,He lit a candle with,spells.,▁sp ells .,12.323182821273804,meta-llama/Llama-2-7b-hf,13.721621767507324,3.518913026031532e-06
+21,inconceivable_syntactic,Lighting a candle with,He lit a candle with,choose.,▁choose .,19.017667770385746,meta-llama/Llama-2-7b-hf,16.495609743642753,5.63814452041446e-05
+21,inconceivable_semantic,Lighting a candle with,He lit a candle with,years.,▁years .,14.305734157562256,meta-llama/Llama-2-7b-hf,18.778477733162795,0.0005528065428141
+22,probable,Towing a car using,He towed a car using,a truck.,▁a ▁tr uck .,8.129010558128357,meta-llama/Llama-2-7b-hf,13.22233178172378,2.1358445809330914e-06
+22,improbable,Towing a car using,He towed a car using,a horse.,▁a ▁horse .,8.881721556186676,meta-llama/Llama-2-7b-hf,14.581665140987523,8.316117638828496e-06
+22,impossible_physics,Towing a car using,He towed a car using,a butterfly.,▁a ▁but ter fly .,13.660028636455536,meta-llama/Llama-2-7b-hf,12.287675673731801,8.387907973052828e-07
+22,impossible_magic,Towing a car using,He towed a car using,aliens.,▁al iens .,17.541731357574463,meta-llama/Llama-2-7b-hf,13.94723682232466,4.409525985127888e-06
+22,inconceivable_syntactic,Towing a car using,He towed a car using,then.,▁then .,19.6448917388916,meta-llama/Llama-2-7b-hf,19.14199575494659,0.0007951463056113
+22,inconceivable_semantic,Towing a car using,He towed a car using,freedom.,▁freedom .,17.58890151977539,meta-llama/Llama-2-7b-hf,16.70869679593749,6.977160842480119e-05
+23,probable,Starting a fire using,He started a fire using,kindling.,▁kind ling .,8.71181882545352,meta-llama/Llama-2-7b-hf,12.590382211565547,1.1353177714085282e-06
+23,improbable,Starting a fire using,He started a fire using,furniture.,▁furn iture .,11.615719012916088,meta-llama/Llama-2-7b-hf,15.357320809444442,1.806273876187679e-05
+23,impossible_physics,Starting a fire using,He started a fire using,milk.,▁milk .,12.26013731956482,meta-llama/Llama-2-7b-hf,16.05667025235572,3.635023349016408e-05
+23,impossible_magic,Starting a fire using,He started a fire using,enchantments.,▁en chant ments .,17.502843022346497,meta-llama/Llama-2-7b-hf,11.129525129459477,2.634360867240121e-07
+23,inconceivable_syntactic,Starting a fire using,He started a fire using,sometimes.,▁sometimes .,15.838805198669434,meta-llama/Llama-2-7b-hf,17.320514468471952,0.0001286434782195
+23,inconceivable_semantic,Starting a fire using,He started a fire using,traffic.,▁traffic .,19.14949321746826,meta-llama/Llama-2-7b-hf,15.819186253977238,2.866613981782936e-05
+24,probable,Building a bridge out of,He constructed a bridge out of,steel.,▁steel .,8.213560581207275,meta-llama/Llama-2-7b-hf,16.049659731487655,3.609629059575445e-05
+24,improbable,Building a bridge out of,He constructed a bridge out of,plastic.,▁pl astic .,9.015641078352928,meta-llama/Llama-2-7b-hf,15.695314328864868,2.532633349060539e-05
+24,impossible_physics,Building a bridge out of,He constructed a bridge out of,gas.,▁gas .,13.11637544631958,meta-llama/Llama-2-7b-hf,16.58928776118067,6.191844625416398e-05
+24,impossible_magic,Building a bridge out of,He constructed a bridge out of,ambrosia.,▁amb ros ia .,17.87950038909912,meta-llama/Llama-2-7b-hf,10.945458940490091,2.1914740694463405e-07
+24,inconceivable_syntactic,Building a bridge out of,He constructed a bridge out of,from.,▁from .,14.68919563293457,meta-llama/Llama-2-7b-hf,20.567291832038464,0.0033070843098918
+24,inconceivable_semantic,Building a bridge out of,He constructed a bridge out of,truth.,▁truth .,14.00784420967102,meta-llama/Llama-2-7b-hf,17.08673747555405,0.0001018262419682
+25,probable,Shoveling a driveway full of,He shoveled a driveway full of,snow.,▁snow .,2.3112034797668457,meta-llama/Llama-2-7b-hf,15.853729113279037,2.9673651235868616e-05
+25,improbable,Shoveling a driveway full of,He shoveled a driveway full of,ice.,▁ice .,4.829639911651611,meta-llama/Llama-2-7b-hf,16.13981496963921,3.950176461199674e-05
+25,impossible_physics,Shoveling a driveway full of,He shoveled a driveway full of,sunshine.,▁sun sh ine .,8.597828201018274,meta-llama/Llama-2-7b-hf,14.25762319964205,6.0143818413854255e-06
+25,impossible_magic,Shoveling a driveway full of,He shoveled a driveway full of,ogres.,▁o gres .,15.78134262561798,meta-llama/Llama-2-7b-hf,10.80829257546719,1.910582259395075e-07
+25,inconceivable_syntactic,Shoveling a driveway full of,He shoveled a driveway full of,except.,▁except .,18.321760654449463,meta-llama/Llama-2-7b-hf,17.089122567665143,0.0001020693967927
+25,inconceivable_semantic,Shoveling a driveway full of,He shoveled a driveway full of,rumors.,▁rum ors .,14.970291137695312,meta-llama/Llama-2-7b-hf,14.202658934286541,5.692726510915822e-06
+26,probable,Constructing a tower using,He constructed a tower using,concrete.,▁concrete .,8.551346778869629,meta-llama/Llama-2-7b-hf,15.883866632267186,3.05815537101206e-05
+26,improbable,Constructing a tower using,He constructed a tower using,blocks.,▁blocks .,7.217887401580811,meta-llama/Llama-2-7b-hf,15.652116393056462,2.425558179591485e-05
+26,impossible_physics,Constructing a tower using,He constructed a tower using,a lake.,▁a ▁lake .,15.51823353767395,meta-llama/Llama-2-7b-hf,13.131656066315857,1.950696408352169e-06
+26,impossible_magic,Constructing a tower using,He constructed a tower using,his mind.,▁his ▁mind .,10.51419723033905,meta-llama/Llama-2-7b-hf,14.64821966089671,8.888426488032028e-06
+26,inconceivable_syntactic,Constructing a tower using,He constructed a tower using,while.,▁while .,16.081762313842773,meta-llama/Llama-2-7b-hf,18.415184899427235,0.0003844121462026
+26,inconceivable_semantic,Constructing a tower using,He constructed a tower using,laughter.,▁laugh ter .,15.90662094950676,meta-llama/Llama-2-7b-hf,15.19690418005568,1.5385639202690384e-05
+27,probable,Knitting a scarf using,He knitted a scarf using,yarn.,▁y arn .,8.613605067133904,meta-llama/Llama-2-7b-hf,13.833760018937541,3.9364936633683745e-06
+27,improbable,Knitting a scarf using,He knitted a scarf using,wire.,▁wire .,9.494936227798462,meta-llama/Llama-2-7b-hf,15.709698598900058,2.5693267019271507e-05
+27,impossible_physics,Knitting a scarf using,He knitted a scarf using,lava.,▁la va .,14.152615070343018,meta-llama/Llama-2-7b-hf,13.571721599314534,3.0290588911807416e-06
+27,impossible_magic,Knitting a scarf using,He knitted a scarf using,telepathy.,▁tele path y .,12.613961845636368,meta-llama/Llama-2-7b-hf,11.949895700065218,5.983532831670011e-07
+27,inconceivable_syntactic,Knitting a scarf using,He knitted a scarf using,for.,▁for .,15.553739547729492,meta-llama/Llama-2-7b-hf,21.227499651195313,0.0063998512454984
+27,inconceivable_semantic,Knitting a scarf using,He knitted a scarf using,sadness.,▁sad ness .,14.88139295578003,meta-llama/Llama-2-7b-hf,14.399444254150824,6.930795720147287e-06
+28,probable,Washing your hair with,He washed his hair with,shampoo.,▁sh am po o .,4.751039260998368,meta-llama/Llama-2-7b-hf,12.473887413594257,1.0104722426780228e-06
+28,improbable,Washing your hair with,He washed his hair with,detergent.,▁d eter gent .,8.28394377976656,meta-llama/Llama-2-7b-hf,13.019705871987279,1.7440957857122882e-06
+28,impossible_physics,Washing your hair with,He washed his hair with,air.,▁air .,10.550623297691343,meta-llama/Llama-2-7b-hf,17.536004660783544,0.0001595783518494
+28,impossible_magic,Washing your hair with,He washed his hair with,mermaids.,▁mer ma ids .,16.754672050476074,meta-llama/Llama-2-7b-hf,11.099589462481495,2.5566682102698384e-07
+28,inconceivable_syntactic,Washing your hair with,He washed his hair with,though.,▁though .,15.277376651763916,meta-llama/Llama-2-7b-hf,18.03132300289176,0.0002618713566126
+28,inconceivable_semantic,Washing your hair with,He washed his hair with,minutes.,▁minutes .,15.639187574386597,meta-llama/Llama-2-7b-hf,17.10368674837162,0.0001035668319211
+29,probable,Hiding a gift using,He hid a gift using,a closet.,▁a ▁clos et .,13.416159680113196,meta-llama/Llama-2-7b-hf,12.269849939507854,8.239712128861751e-07
+29,improbable,Hiding a gift using,He hid a gift using,a tarp.,▁a ▁t arp .,13.118899822235107,meta-llama/Llama-2-7b-hf,10.121819546853116,9.616882116520559e-08
+29,impossible_physics,Hiding a gift using,He hid a gift using,a cloud.,▁a ▁cloud .,12.089829683303831,meta-llama/Llama-2-7b-hf,13.74206851787472,3.591603976627708e-06
+29,impossible_magic,Hiding a gift using,He hid a gift using,invisibility.,▁in visibility .,10.77860462665558,meta-llama/Llama-2-7b-hf,12.268098637909219,8.225294536299605e-07
+29,inconceivable_syntactic,Hiding a gift using,He hid a gift using,during.,▁during .,20.294248580932617,meta-llama/Llama-2-7b-hf,18.374947312212566,0.0003692513905215
+29,inconceivable_semantic,Hiding a gift using,He hid a gift using,concepts.,▁concepts .,16.868765354156494,meta-llama/Llama-2-7b-hf,16.132121329655423,3.919901836002955e-05
+30,probable,Drawing a picture using,He drew a picture using,a pencil.,▁a ▁p enc il .,5.07132214284502,meta-llama/Llama-2-7b-hf,13.189926694231422,2.0677417489351108e-06
+30,improbable,Drawing a picture using,He drew a picture using,lipstick.,▁lip st ick .,10.36409822665155,meta-llama/Llama-2-7b-hf,12.975025107000038,1.6678835410613896e-06
+30,impossible_physics,Drawing a picture using,He drew a picture using,a mountain.,▁a ▁mountain .,13.611468195915222,meta-llama/Llama-2-7b-hf,13.914378039425436,4.2669889493847965e-06
+30,impossible_magic,Drawing a picture using,He drew a picture using,magic.,▁magic .,8.40712022781372,meta-llama/Llama-2-7b-hf,15.450023058807181,1.9817263144032155e-05
+30,inconceivable_syntactic,Drawing a picture using,He drew a picture using,always.,▁always .,16.12260150909424,meta-llama/Llama-2-7b-hf,18.15261286274315,0.0002956402187198
+30,inconceivable_semantic,Drawing a picture using,He drew a picture using,a smell.,▁a ▁sm ell .,15.496615529060364,meta-llama/Llama-2-7b-hf,11.794903802005331,5.124429849669265e-07
+1,probable,Baking a cake using,He baked a cake using,an oven.,▁an ▁oven .,9.351810455322266,mistralai/Mistral-7B-v0.1,12.029955799643718,6.482273305743423e-07
+1,improbable,Baking a cake using,He baked a cake using,an airfryer.,▁an ▁air f ry er .,13.307419057469817,mistralai/Mistral-7B-v0.1,-inf,0.0
+1,impossible_physics,Baking a cake using,He baked a cake using,a refrigerator.,▁a ▁refriger ator .,13.480240046977997,mistralai/Mistral-7B-v0.1,11.896097246564523,5.670133795493369e-07
+1,impossible_magic,Baking a cake using,He baked a cake using,superpowers.,▁super pow ers .,13.690257381647823,mistralai/Mistral-7B-v0.1,12.460090638107612,9.966267154507811e-07
+1,inconceivable_syntactic,Baking a cake using,He baked a cake using,grasp.,▁grasp .,20.559279203414917,mistralai/Mistral-7B-v0.1,15.111826873153404,1.4130806159962394e-05
+1,inconceivable_semantic,Baking a cake using,He baked a cake using,anger.,▁anger .,13.406880378723145,mistralai/Mistral-7B-v0.1,15.921022908427124,3.173922454795993e-05
+2,probable,Carving a statue using,He carved a statue using,a chisel.,▁a ▁ch is el .,6.573437280487269,mistralai/Mistral-7B-v0.1,10.937419087729905,2.173925578767481e-07
+2,improbable,Carving a statue using,He carved a statue using,a toothpick.,▁a ▁tooth pick .,8.321898698806763,mistralai/Mistral-7B-v0.1,11.380673253844087,3.38647217038826e-07
+2,impossible_physics,Carving a statue using,He carved a statue using,a valley.,▁a ▁valley .,18.281601071357727,mistralai/Mistral-7B-v0.1,12.410184232511202,9.481093905606824e-07
+2,impossible_magic,Carving a statue using,He carved a statue using,telekinesis.,▁tele k ines is .,12.184345412999392,mistralai/Mistral-7B-v0.1,9.48029117039765,5.063164744545932e-08
+2,inconceivable_syntactic,Carving a statue using,He carved a statue using,began.,▁began .,20.44556713104248,mistralai/Mistral-7B-v0.1,17.71912892314381,0.0001916477972467
+2,inconceivable_semantic,Carving a statue using,He carved a statue using,yesterday.,▁yesterday .,16.288671016693115,mistralai/Mistral-7B-v0.1,15.234220316980181,1.5970618526000808e-05
+3,probable,Using a telescope to look at,He used a telescope to look at,the moon.,▁the ▁moon .,3.919781267642975,mistralai/Mistral-7B-v0.1,15.097271561236974,1.3926617488464278e-05
+3,improbable,Using a telescope to look at,He used a telescope to look at,the sun.,▁the ▁sun .,5.383856952190399,mistralai/Mistral-7B-v0.1,16.176884235347945,4.099354479725882e-05
+3,impossible_physics,Using a telescope to look at,He used a telescope to look at,a molecule.,▁a ▁mole cule .,13.446529388427734,mistralai/Mistral-7B-v0.1,12.839865178764596,1.4570233508602524e-06
+3,impossible_magic,Using a telescope to look at,He used a telescope to look at,unicorns.,▁un ic orn s .,14.173835411667824,mistralai/Mistral-7B-v0.1,10.959296718878928,2.2220099893500834e-07
+3,inconceivable_syntactic,Using a telescope to look at,He used a telescope to look at,of.,▁of .,18.388693809509277,mistralai/Mistral-7B-v0.1,22.724110930240382,0.0285851120972627
+3,inconceivable_semantic,Using a telescope to look at,He used a telescope to look at,a decade.,▁a ▁decade .,18.346803665161133,mistralai/Mistral-7B-v0.1,14.447519828748057,7.272137055689013e-06
+4,probable,Chilling a drink using,He chilled a drink using,ice.,▁ice .,6.688678741455078,mistralai/Mistral-7B-v0.1,16.13981496963921,3.950176461199674e-05
+4,improbable,Chilling a drink using,He chilled a drink using,snow.,▁snow .,9.37798810005188,mistralai/Mistral-7B-v0.1,15.853729113279037,2.9673651235868616e-05
+4,impossible_physics,Chilling a drink using,He chilled a drink using,fire.,▁fire .,8.002816438674927,mistralai/Mistral-7B-v0.1,17.123653393965597,0.0001056554965731
+4,impossible_magic,Chilling a drink using,He chilled a drink using,pixies.,▁p ix ies .,17.074567437171936,mistralai/Mistral-7B-v0.1,9.690294332075087,6.246335008158049e-08
+4,inconceivable_syntactic,Chilling a drink using,He chilled a drink using,at.,▁at .,18.294265747070312,mistralai/Mistral-7B-v0.1,20.530760976671274,0.0031884537221516
+4,inconceivable_semantic,Chilling a drink using,He chilled a drink using,tomorrow.,▁tomorrow .,16.743152618408203,mistralai/Mistral-7B-v0.1,15.571969221154637,2.2387429003960714e-05
+5,probable,Washing dishes using,He washed dishes using,soap.,▁soap .,6.787659645080566,mistralai/Mistral-7B-v0.1,14.538226249456498,7.962608319001077e-06
+5,improbable,Washing dishes using,He washed dishes using,rain.,▁rain .,12.52280044555664,mistralai/Mistral-7B-v0.1,15.976722736664426,3.3557255912902446e-05
+5,impossible_physics,Washing dishes using,He washed dishes using,lightning.,▁lightning .,13.608060836791992,mistralai/Mistral-7B-v0.1,14.654836872696603,8.94743811957259e-06
+5,impossible_magic,Washing dishes using,He washed dishes using,fairies.,▁fair ies .,13.139881491661072,mistralai/Mistral-7B-v0.1,12.821069077532686,1.4298927658217242e-06
+5,inconceivable_syntactic,Washing dishes using,He washed dishes using,fell.,▁fell .,18.803536415100098,mistralai/Mistral-7B-v0.1,16.62566923256269,6.421260991653218e-05
+5,inconceivable_semantic,Washing dishes using,He washed dishes using,arithmetic.,▁ar ith metic .,15.264786768704653,mistralai/Mistral-7B-v0.1,14.534450233826655,7.932598080756437e-06
+6,probable,Building a robot out of,He built a robot out of,metal.,▁metal .,7.548253536224365,mistralai/Mistral-7B-v0.1,16.297461594226643,4.624678597993976e-05
+6,improbable,Building a robot out of,He built a robot out of,plastic.,▁plastic .,9.130463123321531,mistralai/Mistral-7B-v0.1,15.695314328864868,2.532633349060539e-05
+6,impossible_physics,Building a robot out of,He built a robot out of,soup.,▁soup .,11.727155923843384,mistralai/Mistral-7B-v0.1,14.792171761714444,1.0264610822580016e-05
+6,impossible_magic,Building a robot out of,He built a robot out of,elixirs.,▁el ix irs .,20.10835075378418,mistralai/Mistral-7B-v0.1,10.215557313044739,1.0561949511009817e-07
+6,inconceivable_syntactic,Building a robot out of,He built a robot out of,with.,▁with .,16.920058250427246,mistralai/Mistral-7B-v0.1,21.028605624042424,0.0052455532623553
+6,inconceivable_semantic,Building a robot out of,He built a robot out of,honesty.,▁honest y .,14.6524498462677,mistralai/Mistral-7B-v0.1,14.362843216185862,6.681707650471716e-06
+7,probable,Flying a kite using,He flew a kite using,string.,▁string .,7.183138608932495,mistralai/Mistral-7B-v0.1,15.766240928207846,2.71878804740639e-05
+7,improbable,Flying a kite using,He flew a kite using,floss.,▁fl oss .,10.483397126197817,mistralai/Mistral-7B-v0.1,11.96786621653892,6.092031979986222e-07
+7,impossible_physics,Flying a kite using,He flew a kite using,lead.,▁lead .,12.373290538787842,mistralai/Mistral-7B-v0.1,17.08757922194206,0.0001019119899235
+7,impossible_magic,Flying a kite using,He flew a kite using,witchcraft.,▁witch craft .,13.004373341798782,mistralai/Mistral-7B-v0.1,13.587786532275954,3.0781134936488937e-06
+7,inconceivable_syntactic,Flying a kite using,He flew a kite using,give.,▁give .,19.35550212860107,mistralai/Mistral-7B-v0.1,18.02028986016534,0.0002589979729333
+7,inconceivable_semantic,Flying a kite using,He flew a kite using,a sound.,▁a ▁sound .,15.012593626976011,mistralai/Mistral-7B-v0.1,14.585157562204817,8.345211799476024e-06
+8,probable,Crafting a bowl out of,He crafted a bowl out of,clay.,▁clay .,4.636325716972351,mistralai/Mistral-7B-v0.1,15.244140727210201,1.6129842089114084e-05
+8,improbable,Crafting a bowl out of,He crafted a bowl out of,mud.,▁mud .,8.148395776748657,mistralai/Mistral-7B-v0.1,15.039750293545328,1.314814479623468e-05
+8,impossible_physics,Crafting a bowl out of,He crafted a bowl out of,smoke.,▁smoke .,10.33402395248413,mistralai/Mistral-7B-v0.1,15.739515822957893,2.6470904805336648e-05
+8,impossible_magic,Crafting a bowl out of,He crafted a bowl out of,auras.,▁a uras .,17.062624216079712,mistralai/Mistral-7B-v0.1,11.138188378213087,2.657282133699513e-07
+8,inconceivable_syntactic,Crafting a bowl out of,He crafted a bowl out of,forget.,▁forget .,18.605238914489743,mistralai/Mistral-7B-v0.1,15.992626867967823,3.4095221515480056e-05
+8,inconceivable_semantic,Crafting a bowl out of,He crafted a bowl out of,friction.,▁fr iction .,15.858672618865969,mistralai/Mistral-7B-v0.1,14.691825187450526,9.284585597760448e-06
+9,probable,Growing vegetables in,He grew vegetables in,soil.,▁soil .,10.394643545150757,mistralai/Mistral-7B-v0.1,16.374149430749693,4.993288510009744e-05
+9,improbable,Growing vegetables in,He grew vegetables in,sand.,▁sand .,10.548942804336548,mistralai/Mistral-7B-v0.1,15.747797039145947,2.6691026269473148e-05
+9,impossible_physics,Growing vegetables in,He grew vegetables in,bleach.,▁ble ach .,15.17356538772583,mistralai/Mistral-7B-v0.1,12.502563308188346,1.0398678972182716e-06
+9,impossible_magic,Growing vegetables in,He grew vegetables in,stardust.,▁st ard ust .,18.53442132472992,mistralai/Mistral-7B-v0.1,9.036225051729327,3.247630367484153e-08
+9,inconceivable_syntactic,Growing vegetables in,He grew vegetables in,become.,▁become .,20.58817481994629,mistralai/Mistral-7B-v0.1,17.99090953129997,0.0002514992245642
+9,inconceivable_semantic,Growing vegetables in,He grew vegetables in,justice.,▁justice .,17.097055673599243,mistralai/Mistral-7B-v0.1,16.36893078661909,4.9672981903347104e-05
+10,probable,Writing a letter using,He wrote a letter using,a pen.,▁a ▁pen .,5.6074241399765015,mistralai/Mistral-7B-v0.1,13.083556018808281,1.8590886486409403e-06
+10,improbable,Writing a letter using,He wrote a letter using,a toothbrush.,▁a ▁tooth br ush .,11.60012273947359,mistralai/Mistral-7B-v0.1,10.967715414342408,2.240795378050361e-07
+10,impossible_physics,Writing a letter using,He wrote a letter using,wind.,▁wind .,13.69842267036438,mistralai/Mistral-7B-v0.1,16.481268308956125,5.557862494742467e-05
+10,impossible_magic,Writing a letter using,He wrote a letter using,a wand.,▁a ▁wand .,12.148909211158752,mistralai/Mistral-7B-v0.1,10.56761778402558,1.5019034225061208e-07
+10,inconceivable_syntactic,Writing a letter using,He wrote a letter using,onto.,▁onto .,18.276498317718502,mistralai/Mistral-7B-v0.1,16.46418216480186,5.463706725107118e-05
+10,inconceivable_semantic,Writing a letter using,He wrote a letter using,time.,▁time .,12.589380264282228,mistralai/Mistral-7B-v0.1,19.542416248498153,0.0011867177992314
+11,probable,Cooking dinner out of,He cooked dinner out of,pasta.,▁past a .,12.283829882740974,mistralai/Mistral-7B-v0.1,13.737089451451263,3.5737655879750783e-06
+11,improbable,Cooking dinner out of,He cooked dinner out of,clay.,▁clay .,11.530626058578491,mistralai/Mistral-7B-v0.1,15.244140727210201,1.6129842089114084e-05
+11,impossible_physics,Cooking dinner out of,He cooked dinner out of,thunder.,▁thunder .,15.477752208709717,mistralai/Mistral-7B-v0.1,14.353642935449987,6.620515986168406e-06
+11,impossible_magic,Cooking dinner out of,He cooked dinner out of,a potion.,▁a ▁pot ion .,15.754136681556702,mistralai/Mistral-7B-v0.1,10.39516093745751,1.263993818699111e-07
+11,inconceivable_syntactic,Cooking dinner out of,He cooked dinner out of,through.,▁through .,18.8344783782959,mistralai/Mistral-7B-v0.1,18.979485380135998,0.0006758801416881
+11,inconceivable_semantic,Cooking dinner out of,He cooked dinner out of,words.,▁words .,11.827728033065796,mistralai/Mistral-7B-v0.1,17.88739031543827,0.0002267664629728
+12,probable,Taking a bath in,He took a bath in,bubbles.,▁bub bles .,10.667535722255709,mistralai/Mistral-7B-v0.1,13.878319146130282,4.115867068311805e-06
+12,improbable,Taking a bath in,He took a bath in,tea.,▁tea .,8.756312608718872,mistralai/Mistral-7B-v0.1,15.719096394107767,2.5935865239640953e-05
+12,impossible_physics,Taking a bath in,He took a bath in,light.,▁light .,9.34434711933136,mistralai/Mistral-7B-v0.1,17.829027023620153,0.0002139104348362
+12,impossible_magic,Taking a bath in,He took a bath in,crystals.,▁cryst als .,13.539136469364166,mistralai/Mistral-7B-v0.1,14.718259613818333,9.53329100211064e-06
+12,inconceivable_syntactic,Taking a bath in,He took a bath in,without.,▁without .,18.206440448760983,mistralai/Mistral-7B-v0.1,18.47891789685517,0.0004097094589734
+12,inconceivable_semantic,Taking a bath in,He took a bath in,language.,▁language .,13.364778637886047,mistralai/Mistral-7B-v0.1,17.51277491036014,0.0001559141110365
+13,probable,Brewing coffee using,He brewed coffee using,water.,▁water .,8.224286556243896,mistralai/Mistral-7B-v0.1,18.195380192986132,0.0003085582270432
+13,improbable,Brewing coffee using,He brewed coffee using,soda.,▁s oda .,12.925655961036682,mistralai/Mistral-7B-v0.1,14.212873599459463,5.751173807734112e-06
+13,impossible_physics,Brewing coffee using,He brewed coffee using,glue.,▁gl ue .,12.59941828250885,mistralai/Mistral-7B-v0.1,14.109051434059035,5.184025142463683e-06
+13,impossible_magic,Brewing coffee using,He brewed coffee using,lightsabers.,▁lights ab ers .,13.548152804374697,mistralai/Mistral-7B-v0.1,8.037543185118697,1.1963123050896754e-08
+13,inconceivable_syntactic,Brewing coffee using,He brewed coffee using,into.,▁into .,18.672662258148193,mistralai/Mistral-7B-v0.1,19.554618154982855,0.0012012867224011
+13,inconceivable_semantic,Brewing coffee using,He brewed coffee using,numbers.,▁numbers .,13.316996693611143,mistralai/Mistral-7B-v0.1,16.974493268399264,9.101493768140132e-05
+14,probable,Painting a house using,He painted a house using,a brush.,▁a ▁brush .,6.138404488563538,mistralai/Mistral-7B-v0.1,12.515577362492428,1.053489236679131e-06
+14,improbable,Painting a house using,He painted a house using,a mop.,▁a ▁m op .,8.662739515304565,mistralai/Mistral-7B-v0.1,10.823571082648979,1.9399972404669086e-07
+14,impossible_physics,Painting a house using,He painted a house using,a planet.,▁a ▁planet .,14.083450436592102,mistralai/Mistral-7B-v0.1,12.572155694136102,1.1148123213972174e-06
+14,impossible_magic,Painting a house using,He painted a house using,incantations.,▁inc ant ations .,17.488092958927155,mistralai/Mistral-7B-v0.1,11.989954359152717,6.22809076234214e-07
+14,inconceivable_syntactic,Painting a house using,He painted a house using,before.,▁before .,16.424712657928467,mistralai/Mistral-7B-v0.1,18.814289974739683,0.0005729625459425
+14,inconceivable_semantic,Painting a house using,He painted a house using,questions.,▁questions .,13.97351884841919,mistralai/Mistral-7B-v0.1,17.27650260143505,0.0001231044246918
+15,probable,Crafting jewelry using,He crafted jewelry using,beads.,▁be ads .,9.020600073039532,mistralai/Mistral-7B-v0.1,14.330886015520957,6.4715548113265775e-06
+15,improbable,Crafting jewelry using,He crafted jewelry using,leather.,▁leather .,10.613613605499268,mistralai/Mistral-7B-v0.1,15.20342884979464,1.5486353624084297e-05
+15,impossible_physics,Crafting jewelry using,He crafted jewelry using,a volcano.,▁a ▁vol c ano .,14.98382226949616,mistralai/Mistral-7B-v0.1,11.826151007442707,5.287081939485657e-07
+15,impossible_magic,Crafting jewelry using,He crafted jewelry using,alchemy.,▁al che my .,11.53487359918654,mistralai/Mistral-7B-v0.1,12.59871590391828,1.144818694335541e-06
+15,inconceivable_syntactic,Crafting jewelry using,He crafted jewelry using,until.,▁until .,20.69446277618408,mistralai/Mistral-7B-v0.1,18.11084591441145,0.0002835465449481
+15,inconceivable_semantic,Crafting jewelry using,He crafted jewelry using,opinions.,▁opinions .,17.463600635528564,mistralai/Mistral-7B-v0.1,15.620324117255844,2.3496570920990995e-05
+16,probable,Docking a boat using,He docked a boat using,an anchor.,▁an ▁anchor .,8.555792331695557,mistralai/Mistral-7B-v0.1,12.094610217680879,6.915226266302695e-07
+16,improbable,Docking a boat using,He docked a boat using,an anvil.,▁an ▁an vil .,14.220438480377195,mistralai/Mistral-7B-v0.1,10.608167968909747,1.564057548082347e-07
+16,impossible_physics,Docking a boat using,He docked a boat using,a balloon.,▁a ▁ball oon .,10.5495343208313,mistralai/Mistral-7B-v0.1,12.358158337594164,9.000443065096643e-07
+16,impossible_magic,Docking a boat using,He docked a boat using,a dragon.,▁a ▁dragon .,12.1784245967865,mistralai/Mistral-7B-v0.1,12.28374639559191,8.355014216295758e-07
+16,inconceivable_syntactic,Docking a boat using,He docked a boat using,forgive.,▁forgive .,20.008995532989506,mistralai/Mistral-7B-v0.1,14.868921485000543,1.1083437312758358e-05
+16,inconceivable_semantic,Docking a boat using,He docked a boat using,greetings.,▁gre et ings .,17.87925573438406,mistralai/Mistral-7B-v0.1,13.192717455362581,2.0735203818789206e-06
+17,probable,Sealing a box using,He sealed a box using,tape.,▁tape .,5.551318645477295,mistralai/Mistral-7B-v0.1,15.66135014311631,2.4480589007235952e-05
+17,improbable,Sealing a box using,He sealed a box using,magnets.,▁magn ets .,9.40616961568594,mistralai/Mistral-7B-v0.1,12.902128092979293,1.5506256086310166e-06
+17,impossible_physics,Sealing a box using,He sealed a box using,wine.,▁wine .,11.525034189224243,mistralai/Mistral-7B-v0.1,16.119722027690404,3.8715978760215506e-05
+17,impossible_magic,Sealing a box using,He sealed a box using,sorcery.,▁sor cery .,11.99106266349554,mistralai/Mistral-7B-v0.1,12.737133156095918,1.3147723477846137e-06
+17,inconceivable_syntactic,Sealing a box using,He sealed a box using,do.,▁do .,17.078673839569092,mistralai/Mistral-7B-v0.1,19.601455924959378,0.0012588908065117
+17,inconceivable_semantic,Sealing a box using,He sealed a box using,jokes.,▁jokes .,15.70541501045227,mistralai/Mistral-7B-v0.1,14.23017720179701,5.851555812784771e-06
+18,probable,Smashing a pumpkin using,He smashed a pumpkin using,a hammer.,▁a ▁hammer .,4.898390769958496,mistralai/Mistral-7B-v0.1,12.683870818241822,1.2465767484350266e-06
+18,improbable,Smashing a pumpkin using,He smashed a pumpkin using,a brick.,▁a ▁brick .,8.284806609153748,mistralai/Mistral-7B-v0.1,12.781446477886812,1.3743444487411303e-06
+18,impossible_physics,Smashing a pumpkin using,He smashed a pumpkin using,a leaf.,▁a ▁leaf .,12.377696752548218,mistralai/Mistral-7B-v0.1,12.960347850589924,1.643582360246854e-06
+18,impossible_magic,Smashing a pumpkin using,He smashed a pumpkin using,a wizard.,▁a ▁w izard .,16.87300419807434,mistralai/Mistral-7B-v0.1,11.569693246967937,4.091078858901336e-07
+18,inconceivable_syntactic,Smashing a pumpkin using,He smashed a pumpkin using,have.,▁have .,19.109991550445557,mistralai/Mistral-7B-v0.1,20.396501325514368,0.0027878659802289
+18,inconceivable_semantic,Smashing a pumpkin using,He smashed a pumpkin using,a number.,▁a ▁number .,15.57999062538147,mistralai/Mistral-7B-v0.1,16.892989670949493,8.389114335154342e-05
+19,probable,Wiping a spill using,He wiped a spill using,a tissue.,▁a ▁tissue .,6.13040691614151,mistralai/Mistral-7B-v0.1,12.478665191556352,1.0153116061868184e-06
+19,improbable,Wiping a spill using,He wiped a spill using,a scarf.,▁a ▁scar f .,10.712473332881927,mistralai/Mistral-7B-v0.1,11.639381888922788,4.3863496084515793e-07
+19,impossible_physics,Wiping a spill using,He wiped a spill using,a piano.,▁a ▁piano .,15.680767834186554,mistralai/Mistral-7B-v0.1,12.739916309841371,1.3184366581730623e-06
+19,impossible_magic,Wiping a spill using,He wiped a spill using,divination.,▁div ination .,15.966174006462095,mistralai/Mistral-7B-v0.1,12.749288980226535,1.33085202206304e-06
+19,inconceivable_syntactic,Wiping a spill using,He wiped a spill using,make.,▁make .,17.056568145751953,mistralai/Mistral-7B-v0.1,18.743574697223508,0.0005338447531294
+19,inconceivable_semantic,Wiping a spill using,He wiped a spill using,sentences.,▁sentences .,16.20354652404785,mistralai/Mistral-7B-v0.1,15.502908271866573,2.0893511304305368e-05
+20,probable,Constructing a castle using,He constructed a castle using,bricks.,▁br icks .,7.428054405376315,mistralai/Mistral-7B-v0.1,13.88541434777246,4.145173820806764e-06
+20,improbable,Constructing a castle using,He constructed a castle using,gems.,▁g ems .,12.192022562026978,mistralai/Mistral-7B-v0.1,13.17157059745101,2.030132318471387e-06
+20,impossible_physics,Constructing a castle using,He constructed a castle using,a star.,▁a ▁star .,14.402291297912598,mistralai/Mistral-7B-v0.1,13.850458695111604,4.002779801397399e-06
+20,impossible_magic,Constructing a castle using,He constructed a castle using,wizardry.,▁w izard ry .,14.388469576835632,mistralai/Mistral-7B-v0.1,11.094466298566607,2.5436034749186165e-07
+20,inconceivable_syntactic,Constructing a castle using,He constructed a castle using,follow.,▁follow .,18.826565742492676,mistralai/Mistral-7B-v0.1,17.01446171849008,9.472633909670962e-05
+20,inconceivable_semantic,Constructing a castle using,He constructed a castle using,boredom.,▁bored om .,13.514011204242706,mistralai/Mistral-7B-v0.1,13.595759993952903,3.102754821419319e-06
+21,probable,Lighting a candle with,He lit a candle with,a match.,▁a ▁match .,4.099507808685303,mistralai/Mistral-7B-v0.1,13.519422588074486,2.87471334463943e-06
+21,improbable,Lighting a candle with,He lit a candle with,a blowtorch.,▁a ▁blow torch .,8.884764850139618,mistralai/Mistral-7B-v0.1,9.493939118990328,5.1327402582506625e-08
+21,impossible_physics,Lighting a candle with,He lit a candle with,a pool.,▁a ▁pool .,16.717137813568115,mistralai/Mistral-7B-v0.1,13.401055158017977,2.5538078835953103e-06
+21,impossible_magic,Lighting a candle with,He lit a candle with,spells.,▁sp ells .,14.372610092163086,mistralai/Mistral-7B-v0.1,13.721621767507324,3.518913026031532e-06
+21,inconceivable_syntactic,Lighting a candle with,He lit a candle with,choose.,▁choose .,21.005550384521484,mistralai/Mistral-7B-v0.1,16.495609743642753,5.63814452041446e-05
+21,inconceivable_semantic,Lighting a candle with,He lit a candle with,years.,▁years .,15.774508476257324,mistralai/Mistral-7B-v0.1,18.778477733162795,0.0005528065428141
+22,probable,Towing a car using,He towed a car using,a truck.,▁a ▁truck .,7.245062232017517,mistralai/Mistral-7B-v0.1,13.22233178172378,2.1358445809330914e-06
+22,improbable,Towing a car using,He towed a car using,a horse.,▁a ▁horse .,7.591025114059448,mistralai/Mistral-7B-v0.1,14.581665140987523,8.316117638828496e-06
+22,impossible_physics,Towing a car using,He towed a car using,a butterfly.,▁a ▁butter fly .,13.840069055557253,mistralai/Mistral-7B-v0.1,12.287675673731801,8.387907973052828e-07
+22,impossible_magic,Towing a car using,He towed a car using,aliens.,▁al iens .,15.284692764282228,mistralai/Mistral-7B-v0.1,13.94723682232466,4.409525985127888e-06
+22,inconceivable_syntactic,Towing a car using,He towed a car using,then.,▁then .,18.2583065032959,mistralai/Mistral-7B-v0.1,19.14199575494659,0.0007951463056113
+22,inconceivable_semantic,Towing a car using,He towed a car using,freedom.,▁freedom .,17.525973558425903,mistralai/Mistral-7B-v0.1,16.70869679593749,6.977160842480119e-05
+23,probable,Starting a fire using,He started a fire using,kindling.,▁kind ling .,9.487403078004718,mistralai/Mistral-7B-v0.1,12.590382211565547,1.1353177714085282e-06
+23,improbable,Starting a fire using,He started a fire using,furniture.,▁furniture .,12.184073448181152,mistralai/Mistral-7B-v0.1,15.357320809444442,1.806273876187679e-05
+23,impossible_physics,Starting a fire using,He started a fire using,milk.,▁milk .,10.086587905883787,mistralai/Mistral-7B-v0.1,16.05667025235572,3.635023349016408e-05
+23,impossible_magic,Starting a fire using,He started a fire using,enchantments.,▁en chant ments .,16.55966544151306,mistralai/Mistral-7B-v0.1,11.129525129459477,2.634360867240121e-07
+23,inconceivable_syntactic,Starting a fire using,He started a fire using,sometimes.,▁sometimes .,17.25022029876709,mistralai/Mistral-7B-v0.1,17.320514468471952,0.0001286434782195
+23,inconceivable_semantic,Starting a fire using,He started a fire using,traffic.,▁traffic .,17.18730354309082,mistralai/Mistral-7B-v0.1,15.819186253977238,2.866613981782936e-05
+24,probable,Building a bridge out of,He constructed a bridge out of,steel.,▁steel .,8.169263362884521,mistralai/Mistral-7B-v0.1,16.049659731487655,3.609629059575445e-05
+24,improbable,Building a bridge out of,He constructed a bridge out of,plastic.,▁plastic .,10.227992534637451,mistralai/Mistral-7B-v0.1,15.695314328864868,2.532633349060539e-05
+24,impossible_physics,Building a bridge out of,He constructed a bridge out of,gas.,▁gas .,13.501659393310549,mistralai/Mistral-7B-v0.1,16.58928776118067,6.191844625416398e-05
+24,impossible_magic,Building a bridge out of,He constructed a bridge out of,ambrosia.,▁amb ros ia .,17.62796723842621,mistralai/Mistral-7B-v0.1,10.945458940490091,2.1914740694463405e-07
+24,inconceivable_syntactic,Building a bridge out of,He constructed a bridge out of,from.,▁from .,16.146218299865723,mistralai/Mistral-7B-v0.1,20.567291832038464,0.0033070843098918
+24,inconceivable_semantic,Building a bridge out of,He constructed a bridge out of,truth.,▁truth .,13.670272827148438,mistralai/Mistral-7B-v0.1,17.08673747555405,0.0001018262419682
+25,probable,Shoveling a driveway full of,He shoveled a driveway full of,snow.,▁snow .,2.4693188071250916,mistralai/Mistral-7B-v0.1,15.853729113279037,2.9673651235868616e-05
+25,improbable,Shoveling a driveway full of,He shoveled a driveway full of,ice.,▁ice .,6.537167310714722,mistralai/Mistral-7B-v0.1,16.13981496963921,3.950176461199674e-05
+25,impossible_physics,Shoveling a driveway full of,He shoveled a driveway full of,sunshine.,▁sun shine .,9.17248159646988,mistralai/Mistral-7B-v0.1,14.25762319964205,6.0143818413854255e-06
+25,impossible_magic,Shoveling a driveway full of,He shoveled a driveway full of,ogres.,▁og res .,16.82620993256569,mistralai/Mistral-7B-v0.1,10.80829257546719,1.910582259395075e-07
+25,inconceivable_syntactic,Shoveling a driveway full of,He shoveled a driveway full of,except.,▁except .,21.290303707122803,mistralai/Mistral-7B-v0.1,17.089122567665143,0.0001020693967927
+25,inconceivable_semantic,Shoveling a driveway full of,He shoveled a driveway full of,rumors.,▁rum ors .,13.95532727241516,mistralai/Mistral-7B-v0.1,14.202658934286541,5.692726510915822e-06
+26,probable,Constructing a tower using,He constructed a tower using,concrete.,▁concrete .,10.050868034362791,mistralai/Mistral-7B-v0.1,15.883866632267186,3.05815537101206e-05
+26,improbable,Constructing a tower using,He constructed a tower using,blocks.,▁blocks .,4.862407207489014,mistralai/Mistral-7B-v0.1,15.652116393056462,2.425558179591485e-05
+26,impossible_physics,Constructing a tower using,He constructed a tower using,a lake.,▁a ▁lake .,15.543415069580078,mistralai/Mistral-7B-v0.1,13.131656066315857,1.950696408352169e-06
+26,impossible_magic,Constructing a tower using,He constructed a tower using,his mind.,▁his ▁mind .,11.245233416557312,mistralai/Mistral-7B-v0.1,14.64821966089671,8.888426488032028e-06
+26,inconceivable_syntactic,Constructing a tower using,He constructed a tower using,while.,▁while .,18.690515518188477,mistralai/Mistral-7B-v0.1,18.415184899427235,0.0003844121462026
+26,inconceivable_semantic,Constructing a tower using,He constructed a tower using,laughter.,▁laughter .,16.253419876098633,mistralai/Mistral-7B-v0.1,15.19690418005568,1.5385639202690384e-05
+27,probable,Knitting a scarf using,He knitted a scarf using,yarn.,▁y arn .,7.441620237194002,mistralai/Mistral-7B-v0.1,13.833760018937541,3.9364936633683745e-06
+27,improbable,Knitting a scarf using,He knitted a scarf using,wire.,▁wire .,8.143730521202087,mistralai/Mistral-7B-v0.1,15.709698598900058,2.5693267019271507e-05
+27,impossible_physics,Knitting a scarf using,He knitted a scarf using,lava.,▁l ava .,12.01384973526001,mistralai/Mistral-7B-v0.1,13.571721599314534,3.0290588911807416e-06
+27,impossible_magic,Knitting a scarf using,He knitted a scarf using,telepathy.,▁tele pathy .,11.329141199588776,mistralai/Mistral-7B-v0.1,11.949895700065218,5.983532831670011e-07
+27,inconceivable_syntactic,Knitting a scarf using,He knitted a scarf using,for.,▁for .,18.002957344055176,mistralai/Mistral-7B-v0.1,21.227499651195313,0.0063998512454984
+27,inconceivable_semantic,Knitting a scarf using,He knitted a scarf using,sadness.,▁sad ness .,13.8763228058815,mistralai/Mistral-7B-v0.1,14.399444254150824,6.930795720147287e-06
+28,probable,Washing your hair with,He washed his hair with,shampoo.,▁sh amp oo .,4.626700965687633,mistralai/Mistral-7B-v0.1,12.473887413594257,1.0104722426780228e-06
+28,improbable,Washing your hair with,He washed his hair with,detergent.,▁deter gent .,7.97657617443474,mistralai/Mistral-7B-v0.1,13.019705871987279,1.7440957857122882e-06
+28,impossible_physics,Washing your hair with,He washed his hair with,air.,▁air .,10.460412621498108,mistralai/Mistral-7B-v0.1,17.536004660783544,0.0001595783518494
+28,impossible_magic,Washing your hair with,He washed his hair with,mermaids.,▁mer ma ids .,15.535614967346191,mistralai/Mistral-7B-v0.1,11.099589462481495,2.5566682102698384e-07
+28,inconceivable_syntactic,Washing your hair with,He washed his hair with,though.,▁though .,16.60006833076477,mistralai/Mistral-7B-v0.1,18.03132300289176,0.0002618713566126
+28,inconceivable_semantic,Washing your hair with,He washed his hair with,minutes.,▁minutes .,16.794950485229492,mistralai/Mistral-7B-v0.1,17.10368674837162,0.0001035668319211
+29,probable,Hiding a gift using,He hid a gift using,a closet.,▁a ▁closet .,12.265113353729248,mistralai/Mistral-7B-v0.1,12.269849939507854,8.239712128861751e-07
+29,improbable,Hiding a gift using,He hid a gift using,a tarp.,▁a ▁t arp .,13.149558424949646,mistralai/Mistral-7B-v0.1,10.121819546853116,9.616882116520559e-08
+29,impossible_physics,Hiding a gift using,He hid a gift using,a cloud.,▁a ▁cloud .,11.219813704490662,mistralai/Mistral-7B-v0.1,13.74206851787472,3.591603976627708e-06
+29,impossible_magic,Hiding a gift using,He hid a gift using,invisibility.,▁inv is ibility .,11.305106963962317,mistralai/Mistral-7B-v0.1,12.268098637909219,8.225294536299605e-07
+29,inconceivable_syntactic,Hiding a gift using,He hid a gift using,during.,▁during .,19.292022705078125,mistralai/Mistral-7B-v0.1,18.374947312212566,0.0003692513905215
+29,inconceivable_semantic,Hiding a gift using,He hid a gift using,concepts.,▁concepts .,14.381566047668455,mistralai/Mistral-7B-v0.1,16.132121329655423,3.919901836002955e-05
+30,probable,Drawing a picture using,He drew a picture using,a pencil.,▁a ▁p encil .,5.522720469161868,mistralai/Mistral-7B-v0.1,13.189926694231422,2.0677417489351108e-06
+30,improbable,Drawing a picture using,He drew a picture using,lipstick.,▁lip stick .,9.70974227786064,mistralai/Mistral-7B-v0.1,12.975025107000038,1.6678835410613896e-06
+30,impossible_physics,Drawing a picture using,He drew a picture using,a mountain.,▁a ▁mountain .,14.088459491729736,mistralai/Mistral-7B-v0.1,13.914378039425436,4.2669889493847965e-06
+30,impossible_magic,Drawing a picture using,He drew a picture using,magic.,▁magic .,9.428284645080566,mistralai/Mistral-7B-v0.1,15.450023058807181,1.9817263144032155e-05
+30,inconceivable_syntactic,Drawing a picture using,He drew a picture using,always.,▁always .,16.943442344665527,mistralai/Mistral-7B-v0.1,18.15261286274315,0.0002956402187198
+30,inconceivable_semantic,Drawing a picture using,He drew a picture using,a smell.,▁a ▁smell .,15.583194732666016,mistralai/Mistral-7B-v0.1,11.794903802005331,5.124429849669265e-07

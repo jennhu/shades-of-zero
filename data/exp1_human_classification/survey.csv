@@ -1,0 +1,31 @@
+rt,trial_type,trial_index,time_elapsed,internal_node_id,subject_id,study_id,session_id,rng_seed,task_type,session_file_id,language,gender,feedback
+4417,survey-text,71,279830,0.0-5.0,anon_subject_23,657a657ec1de517384e4122b,657b6a92e1c53298c979c78c,0.23562028128131574,survey,session-657b6d4c8e693,english,male,
+5945,survey-text,79,239359,0.0-5.0,anon_subject_22,657a657ec1de517384e4122b,657b6f43ab140dc03d8e4a2a,0.7301636079826246,survey,session-657b703d95631,English,Male,
+8500,survey-text,79,181400,0.0-5.0,anon_subject_28,657a657ec1de517384e4122b,657b6f76553c7b8f44f03183,0.007069525903228513,survey,session-657b7038d05ca,english,female,
+9677,survey-text,79,233838,0.0-5.0,anon_subject_20,657a657ec1de517384e4122b,657b64991d7f071b8def3bd7,0.8497128487707678,survey,session-657b659107af1,English,female,
+6754,survey-text,111,247874,0.0-5.0,anon_subject_26,657a657ec1de517384e4122b,657b6c8aa294e4a98923a640,0.40566567990647684,survey,session-657b6d8fb3a0c,English,Female,
+6930,survey-text,71,156022,0.0-5.0,anon_subject_2,657a657ec1de517384e4122b,657b6a54d45e2a51913ca342,0.6311075746126404,survey,session-657b6b03d8b78,English,Male,
+15890,survey-text,95,232143,0.0-5.0,anon_subject_13,657a657ec1de517384e4122b,657b65772874925cfb6162a5,0.06935807129827865,survey,session-657b666f46900,English,Male,SOrry if my resonses are bad this is like the worst day of my life..srry guys
+11353,survey-text,127,631547,0.0-5.0,anon_subject_18,657a657ec1de517384e4122b,657b66a11055c59c90f188a4,0.5955761478811581,survey,session-657b6934ecc19,English,Male,
+8697,survey-text,87,954703,0.0-5.0,anon_subject_11,657a657ec1de517384e4122b,657b6e010cda4c2a5d772675,0.44561078650856967,survey,session-657b789e408a3,English,Male,
+9287,survey-text,183,945465,0.0-5.0,anon_subject_12,657a657ec1de517384e4122b,657b6ec6d7d256b4dd6a33f5,0.5006921182011697,survey,session-657b729329558,English,Male,
+9206,survey-text,71,277316,0.0-5.0,anon_subject_10,657a657ec1de517384e4122b,657b6ea91055c59c90f18a61,0.0244627132570725,survey,session-657b6fce5bfa7,English,Famale,
+7250,survey-text,71,176912,0.0-5.0,anon_subject_3,657a657ec1de517384e4122b,657b6961fab0227821de479e,0.5908168578595752,survey,session-657b6a2105b6d,English,male,
+6919,survey-text,95,286078,0.0-5.0,anon_subject_21,657a657ec1de517384e4122b,657b7018a1db85bd70de0a5f,0.7907993976308283,survey,session-657b7148cf962,English,,
+11874,survey-text,71,827793,0.0-5.0,anon_subject_8,657a657ec1de517384e4122b,657b6dbbc49d4c02918c3c3a,0.26849678890642914,survey,session-657b710aaa437,English,male,
+9219,survey-text,71,186729,0.0-5.0,anon_subject_19,657a657ec1de517384e4122b,657b6b68ff78a49936e4cb15,0.18642425814049823,survey,session-657b6c3d61930,English,Female,NA
+160360,survey-text,183,1084829,0.0-5.0,anon_subject_9,657a657ec1de517384e4122b,657b6af17830a28dd19e3062,0.08447351029681816,survey,session-657b711298ca8,English,female,"Ok, I'm sorry I cancelled my participation because I couldn't get past the training but as I was typing my notification for y'all I had an epiphany and had to finish the study anyway. Thank you for this opportunity! It was a bit challenging because I overthink pretty much everything lol "
+6901,survey-text,71,272297,0.0-5.0,anon_subject_27,657a657ec1de517384e4122b,657b69b9fab0227821de47b0,0.12337395421856479,survey,session-657b6b1735884,,,
+14347,survey-text,87,274305,0.0-5.0,anon_subject_6,657a657ec1de517384e4122b,657b6d3c1ad37ab31fbcdc1c,0.8947070428730544,survey,session-657b6e72c8e4f,English,Non-binary,
+9492,survey-text,79,230768,0.0-5.0,anon_subject_25,657a657ec1de517384e4122b,657b6b9f8a79c8ddd6a2cccb,0.5535727600097784,survey,session-657b6c959f745,English,Female,
+17901,survey-text,79,240859,0.0-5.0,anon_subject_15,657a657ec1de517384e4122b,657b6884603161786aea11cf,0.9991780074395382,survey,session-657b69875e3d9,English,Female,N/A
+36048,survey-text,127,607972,0.0-5.0,anon_subject_7,657a657ec1de517384e4122b,657b69657e8e06fe990c93fe,0.7123099802207158,survey,session-657b6bee4f7fe,English,Male,Sometimes confusing to differentiate between impossible and nonsense. 
+8220,survey-text,183,424055,0.0-5.0,anon_subject_5,657a657ec1de517384e4122b,657b6d3b092066e1c3982f21,0.5306335143246206,survey,session-657b6ef1972e2,english,femake,
+7528,survey-text,71,217482,0.0-5.0,anon_subject_1,657a657ec1de517384e4122b,657b6e0659cf1a6fe7c46714,0.5537235489951152,survey,session-657b6f4071013,English,Male,
+21128,survey-text,71,318157,0.0-5.0,anon_subject_14,657a657ec1de517384e4122b,657b685c225ee9fba3a08646,0.02480754173316213,survey,session-657b69bdc42e4,English,Male,
+17366,survey-text,95,341011,0.0-5.0,anon_subject_29,657a657ec1de517384e4122b,657b6e740cda4c2a5d772688,0.3658578675092832,survey,session-657b70b7985b5,english,female,
+8146,survey-text,95,469469,0.0-5.0,anon_subject_17,657a657ec1de517384e4122b,657b6a9745d20784f3915867,0.33613164330204603,survey,session-657b6d305bea2,English,Male,
+9935,survey-text,87,317095,0.0-5.0,anon_subject_16,657a657ec1de517384e4122b,657b6d3ee1c53298c979c87b,0.7880696435694907,survey,session-657b6e8b9adf4,English,Female,
+22463,survey-text,87,1057741,0.0-5.0,anon_subject_0,657a657ec1de517384e4122b,657b7a5fdd8ce6a5aadd3bb0,0.5491405907916995,survey,session-657b7ecd5a56e,English,Male,Thanks for the opportunity to participate
+8571,survey-text,71,296337,0.0-5.0,anon_subject_24,657a657ec1de517384e4122b,657b6fbbd98603c7a99fe883,0.058426656727163184,survey,session-657b7100e56a7,English,Male,
+6702,survey-text,71,152545,0.0-5.0,anon_subject_4,657a657ec1de517384e4122b,657b6f0c4c16edfbbef18d40,0.22657061895801367,survey,session-657b6fbc65310,English,Male,

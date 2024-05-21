@@ -1,0 +1,181 @@
+item_id,prefix,eval_prefix,condition,continuation,continuation_tokens,continuation_sum_surprisal,model
+1,Baking a cake using,He baked a cake using,probable,an oven.,▁an ▁oven .,9.351810455322266,mistralai/Mistral-7B-v0.1
+1,Baking a cake using,He baked a cake using,improbable,an airfryer.,▁an ▁air f ry er .,13.307419057469815,mistralai/Mistral-7B-v0.1
+1,Baking a cake using,He baked a cake using,impossible_physics,a refrigerator.,▁a ▁refriger ator .,13.480240046977997,mistralai/Mistral-7B-v0.1
+1,Baking a cake using,He baked a cake using,impossible_magic,superpowers.,▁super pow ers .,13.690257381647825,mistralai/Mistral-7B-v0.1
+1,Baking a cake using,He baked a cake using,inconceivable_syntactic,grasp.,▁grasp .,20.559279203414917,mistralai/Mistral-7B-v0.1
+1,Baking a cake using,He baked a cake using,inconceivable_semantic,anger.,▁anger .,13.406880378723145,mistralai/Mistral-7B-v0.1
+2,Carving a statue using,He carved a statue using,probable,a chisel.,▁a ▁ch is el .,6.573437280487269,mistralai/Mistral-7B-v0.1
+2,Carving a statue using,He carved a statue using,improbable,a toothpick.,▁a ▁tooth pick .,8.321898698806763,mistralai/Mistral-7B-v0.1
+2,Carving a statue using,He carved a statue using,impossible_physics,a valley.,▁a ▁valley .,18.281601071357727,mistralai/Mistral-7B-v0.1
+2,Carving a statue using,He carved a statue using,impossible_magic,telekinesis.,▁tele k ines is .,12.184345412999392,mistralai/Mistral-7B-v0.1
+2,Carving a statue using,He carved a statue using,inconceivable_syntactic,began.,▁began .,20.44556713104248,mistralai/Mistral-7B-v0.1
+2,Carving a statue using,He carved a statue using,inconceivable_semantic,yesterday.,▁yesterday .,16.288671016693115,mistralai/Mistral-7B-v0.1
+3,Using a telescope to look at,He used a telescope to look at,probable,the moon.,▁the ▁moon .,3.919781267642975,mistralai/Mistral-7B-v0.1
+3,Using a telescope to look at,He used a telescope to look at,improbable,the sun.,▁the ▁sun .,5.383856952190399,mistralai/Mistral-7B-v0.1
+3,Using a telescope to look at,He used a telescope to look at,impossible_physics,a molecule.,▁a ▁mole cule .,13.446529388427734,mistralai/Mistral-7B-v0.1
+3,Using a telescope to look at,He used a telescope to look at,impossible_magic,unicorns.,▁un ic orn s .,14.173835411667824,mistralai/Mistral-7B-v0.1
+3,Using a telescope to look at,He used a telescope to look at,inconceivable_syntactic,of.,▁of .,18.388693809509277,mistralai/Mistral-7B-v0.1
+3,Using a telescope to look at,He used a telescope to look at,inconceivable_semantic,a decade.,▁a ▁decade .,18.346803665161133,mistralai/Mistral-7B-v0.1
+4,Chilling a drink using,He chilled a drink using,probable,ice.,▁ice .,6.688678741455078,mistralai/Mistral-7B-v0.1
+4,Chilling a drink using,He chilled a drink using,improbable,snow.,▁snow .,9.37798810005188,mistralai/Mistral-7B-v0.1
+4,Chilling a drink using,He chilled a drink using,impossible_physics,fire.,▁fire .,8.002816438674927,mistralai/Mistral-7B-v0.1
+4,Chilling a drink using,He chilled a drink using,impossible_magic,pixies.,▁p ix ies .,17.074567437171936,mistralai/Mistral-7B-v0.1
+4,Chilling a drink using,He chilled a drink using,inconceivable_syntactic,at.,▁at .,18.294265747070312,mistralai/Mistral-7B-v0.1
+4,Chilling a drink using,He chilled a drink using,inconceivable_semantic,tomorrow.,▁tomorrow .,16.743152618408203,mistralai/Mistral-7B-v0.1
+5,Washing dishes using,He washed dishes using,probable,soap.,▁soap .,6.787659645080566,mistralai/Mistral-7B-v0.1
+5,Washing dishes using,He washed dishes using,improbable,rain.,▁rain .,12.52280044555664,mistralai/Mistral-7B-v0.1
+5,Washing dishes using,He washed dishes using,impossible_physics,lightning.,▁lightning .,13.608060836791992,mistralai/Mistral-7B-v0.1
+5,Washing dishes using,He washed dishes using,impossible_magic,fairies.,▁fair ies .,13.139881491661072,mistralai/Mistral-7B-v0.1
+5,Washing dishes using,He washed dishes using,inconceivable_syntactic,fell.,▁fell .,18.803536415100098,mistralai/Mistral-7B-v0.1
+5,Washing dishes using,He washed dishes using,inconceivable_semantic,arithmetic.,▁ar ith metic .,15.264786768704653,mistralai/Mistral-7B-v0.1
+6,Building a robot out of,He built a robot out of,probable,metal.,▁metal .,7.548253536224365,mistralai/Mistral-7B-v0.1
+6,Building a robot out of,He built a robot out of,improbable,plastic.,▁plastic .,9.130463123321533,mistralai/Mistral-7B-v0.1
+6,Building a robot out of,He built a robot out of,impossible_physics,soup.,▁soup .,11.727155923843384,mistralai/Mistral-7B-v0.1
+6,Building a robot out of,He built a robot out of,impossible_magic,elixirs.,▁el ix irs .,20.10835075378418,mistralai/Mistral-7B-v0.1
+6,Building a robot out of,He built a robot out of,inconceivable_syntactic,with.,▁with .,16.920058250427246,mistralai/Mistral-7B-v0.1
+6,Building a robot out of,He built a robot out of,inconceivable_semantic,honesty.,▁honest y .,14.6524498462677,mistralai/Mistral-7B-v0.1
+7,Flying a kite using,He flew a kite using,probable,string.,▁string .,7.183138608932495,mistralai/Mistral-7B-v0.1
+7,Flying a kite using,He flew a kite using,improbable,floss.,▁fl oss .,10.483397126197815,mistralai/Mistral-7B-v0.1
+7,Flying a kite using,He flew a kite using,impossible_physics,lead.,▁lead .,12.373290538787842,mistralai/Mistral-7B-v0.1
+7,Flying a kite using,He flew a kite using,impossible_magic,witchcraft.,▁witch craft .,13.004373341798782,mistralai/Mistral-7B-v0.1
+7,Flying a kite using,He flew a kite using,inconceivable_syntactic,give.,▁give .,19.355502128601074,mistralai/Mistral-7B-v0.1
+7,Flying a kite using,He flew a kite using,inconceivable_semantic,a sound.,▁a ▁sound .,15.012593626976013,mistralai/Mistral-7B-v0.1
+8,Crafting a bowl out of,He crafted a bowl out of,probable,clay.,▁clay .,4.636325716972351,mistralai/Mistral-7B-v0.1
+8,Crafting a bowl out of,He crafted a bowl out of,improbable,mud.,▁mud .,8.148395776748657,mistralai/Mistral-7B-v0.1
+8,Crafting a bowl out of,He crafted a bowl out of,impossible_physics,smoke.,▁smoke .,10.33402395248413,mistralai/Mistral-7B-v0.1
+8,Crafting a bowl out of,He crafted a bowl out of,impossible_magic,auras.,▁a uras .,17.062624216079712,mistralai/Mistral-7B-v0.1
+8,Crafting a bowl out of,He crafted a bowl out of,inconceivable_syntactic,forget.,▁forget .,18.605238914489746,mistralai/Mistral-7B-v0.1
+8,Crafting a bowl out of,He crafted a bowl out of,inconceivable_semantic,friction.,▁fr iction .,15.858672618865967,mistralai/Mistral-7B-v0.1
+9,Growing vegetables in,He grew vegetables in,probable,soil.,▁soil .,10.394643545150757,mistralai/Mistral-7B-v0.1
+9,Growing vegetables in,He grew vegetables in,improbable,sand.,▁sand .,10.548942804336548,mistralai/Mistral-7B-v0.1
+9,Growing vegetables in,He grew vegetables in,impossible_physics,bleach.,▁ble ach .,15.17356538772583,mistralai/Mistral-7B-v0.1
+9,Growing vegetables in,He grew vegetables in,impossible_magic,stardust.,▁st ard ust .,18.53442132472992,mistralai/Mistral-7B-v0.1
+9,Growing vegetables in,He grew vegetables in,inconceivable_syntactic,become.,▁become .,20.58817481994629,mistralai/Mistral-7B-v0.1
+9,Growing vegetables in,He grew vegetables in,inconceivable_semantic,justice.,▁justice .,17.097055673599243,mistralai/Mistral-7B-v0.1
+10,Writing a letter using,He wrote a letter using,probable,a pen.,▁a ▁pen .,5.6074241399765015,mistralai/Mistral-7B-v0.1
+10,Writing a letter using,He wrote a letter using,improbable,a toothbrush.,▁a ▁tooth br ush .,11.60012273947359,mistralai/Mistral-7B-v0.1
+10,Writing a letter using,He wrote a letter using,impossible_physics,wind.,▁wind .,13.69842267036438,mistralai/Mistral-7B-v0.1
+10,Writing a letter using,He wrote a letter using,impossible_magic,a wand.,▁a ▁wand .,12.148909211158752,mistralai/Mistral-7B-v0.1
+10,Writing a letter using,He wrote a letter using,inconceivable_syntactic,onto.,▁onto .,18.276498317718506,mistralai/Mistral-7B-v0.1
+10,Writing a letter using,He wrote a letter using,inconceivable_semantic,time.,▁time .,12.589380264282227,mistralai/Mistral-7B-v0.1
+11,Cooking dinner out of,He cooked dinner out of,probable,pasta.,▁past a .,12.283829882740974,mistralai/Mistral-7B-v0.1
+11,Cooking dinner out of,He cooked dinner out of,improbable,clay.,▁clay .,11.530626058578491,mistralai/Mistral-7B-v0.1
+11,Cooking dinner out of,He cooked dinner out of,impossible_physics,thunder.,▁thunder .,15.477752208709717,mistralai/Mistral-7B-v0.1
+11,Cooking dinner out of,He cooked dinner out of,impossible_magic,a potion.,▁a ▁pot ion .,15.754136681556702,mistralai/Mistral-7B-v0.1
+11,Cooking dinner out of,He cooked dinner out of,inconceivable_syntactic,through.,▁through .,18.8344783782959,mistralai/Mistral-7B-v0.1
+11,Cooking dinner out of,He cooked dinner out of,inconceivable_semantic,words.,▁words .,11.827728033065796,mistralai/Mistral-7B-v0.1
+12,Taking a bath in,He took a bath in,probable,bubbles.,▁bub bles .,10.667535722255707,mistralai/Mistral-7B-v0.1
+12,Taking a bath in,He took a bath in,improbable,tea.,▁tea .,8.756312608718872,mistralai/Mistral-7B-v0.1
+12,Taking a bath in,He took a bath in,impossible_physics,light.,▁light .,9.34434711933136,mistralai/Mistral-7B-v0.1
+12,Taking a bath in,He took a bath in,impossible_magic,crystals.,▁cryst als .,13.539136469364166,mistralai/Mistral-7B-v0.1
+12,Taking a bath in,He took a bath in,inconceivable_syntactic,without.,▁without .,18.206440448760986,mistralai/Mistral-7B-v0.1
+12,Taking a bath in,He took a bath in,inconceivable_semantic,language.,▁language .,13.364778637886047,mistralai/Mistral-7B-v0.1
+13,Brewing coffee using,He brewed coffee using,probable,water.,▁water .,8.224286556243896,mistralai/Mistral-7B-v0.1
+13,Brewing coffee using,He brewed coffee using,improbable,soda.,▁s oda .,12.925655961036682,mistralai/Mistral-7B-v0.1
+13,Brewing coffee using,He brewed coffee using,impossible_physics,glue.,▁gl ue .,12.59941828250885,mistralai/Mistral-7B-v0.1
+13,Brewing coffee using,He brewed coffee using,impossible_magic,lightsabers.,▁lights ab ers .,13.548152804374695,mistralai/Mistral-7B-v0.1
+13,Brewing coffee using,He brewed coffee using,inconceivable_syntactic,into.,▁into .,18.672662258148193,mistralai/Mistral-7B-v0.1
+13,Brewing coffee using,He brewed coffee using,inconceivable_semantic,numbers.,▁numbers .,13.316996693611145,mistralai/Mistral-7B-v0.1
+14,Painting a house using,He painted a house using,probable,a brush.,▁a ▁brush .,6.138404488563538,mistralai/Mistral-7B-v0.1
+14,Painting a house using,He painted a house using,improbable,a mop.,▁a ▁m op .,8.662739515304565,mistralai/Mistral-7B-v0.1
+14,Painting a house using,He painted a house using,impossible_physics,a planet.,▁a ▁planet .,14.083450436592102,mistralai/Mistral-7B-v0.1
+14,Painting a house using,He painted a house using,impossible_magic,incantations.,▁inc ant ations .,17.488092958927155,mistralai/Mistral-7B-v0.1
+14,Painting a house using,He painted a house using,inconceivable_syntactic,before.,▁before .,16.424712657928467,mistralai/Mistral-7B-v0.1
+14,Painting a house using,He painted a house using,inconceivable_semantic,questions.,▁questions .,13.97351884841919,mistralai/Mistral-7B-v0.1
+15,Crafting jewelry using,He crafted jewelry using,probable,beads.,▁be ads .,9.020600073039532,mistralai/Mistral-7B-v0.1
+15,Crafting jewelry using,He crafted jewelry using,improbable,leather.,▁leather .,10.613613605499268,mistralai/Mistral-7B-v0.1
+15,Crafting jewelry using,He crafted jewelry using,impossible_physics,a volcano.,▁a ▁vol c ano .,14.983822269496159,mistralai/Mistral-7B-v0.1
+15,Crafting jewelry using,He crafted jewelry using,impossible_magic,alchemy.,▁al che my .,11.53487359918654,mistralai/Mistral-7B-v0.1
+15,Crafting jewelry using,He crafted jewelry using,inconceivable_syntactic,until.,▁until .,20.694462776184082,mistralai/Mistral-7B-v0.1
+15,Crafting jewelry using,He crafted jewelry using,inconceivable_semantic,opinions.,▁opinions .,17.463600635528564,mistralai/Mistral-7B-v0.1
+16,Docking a boat using,He docked a boat using,probable,an anchor.,▁an ▁anchor .,8.555792331695557,mistralai/Mistral-7B-v0.1
+16,Docking a boat using,He docked a boat using,improbable,an anvil.,▁an ▁an vil .,14.220438480377197,mistralai/Mistral-7B-v0.1
+16,Docking a boat using,He docked a boat using,impossible_physics,a balloon.,▁a ▁ball oon .,10.549534320831299,mistralai/Mistral-7B-v0.1
+16,Docking a boat using,He docked a boat using,impossible_magic,a dragon.,▁a ▁dragon .,12.178424596786499,mistralai/Mistral-7B-v0.1
+16,Docking a boat using,He docked a boat using,inconceivable_syntactic,forgive.,▁forgive .,20.008995532989502,mistralai/Mistral-7B-v0.1
+16,Docking a boat using,He docked a boat using,inconceivable_semantic,greetings.,▁gre et ings .,17.87925573438406,mistralai/Mistral-7B-v0.1
+17,Sealing a box using,He sealed a box using,probable,tape.,▁tape .,5.551318645477295,mistralai/Mistral-7B-v0.1
+17,Sealing a box using,He sealed a box using,improbable,magnets.,▁magn ets .,9.40616961568594,mistralai/Mistral-7B-v0.1
+17,Sealing a box using,He sealed a box using,impossible_physics,wine.,▁wine .,11.525034189224243,mistralai/Mistral-7B-v0.1
+17,Sealing a box using,He sealed a box using,impossible_magic,sorcery.,▁sor cery .,11.99106266349554,mistralai/Mistral-7B-v0.1
+17,Sealing a box using,He sealed a box using,inconceivable_syntactic,do.,▁do .,17.078673839569092,mistralai/Mistral-7B-v0.1
+17,Sealing a box using,He sealed a box using,inconceivable_semantic,jokes.,▁jokes .,15.70541501045227,mistralai/Mistral-7B-v0.1
+18,Smashing a pumpkin using,He smashed a pumpkin using,probable,a hammer.,▁a ▁hammer .,4.898390769958496,mistralai/Mistral-7B-v0.1
+18,Smashing a pumpkin using,He smashed a pumpkin using,improbable,a brick.,▁a ▁brick .,8.284806609153748,mistralai/Mistral-7B-v0.1
+18,Smashing a pumpkin using,He smashed a pumpkin using,impossible_physics,a leaf.,▁a ▁leaf .,12.377696752548218,mistralai/Mistral-7B-v0.1
+18,Smashing a pumpkin using,He smashed a pumpkin using,impossible_magic,a wizard.,▁a ▁w izard .,16.87300419807434,mistralai/Mistral-7B-v0.1
+18,Smashing a pumpkin using,He smashed a pumpkin using,inconceivable_syntactic,have.,▁have .,19.109991550445557,mistralai/Mistral-7B-v0.1
+18,Smashing a pumpkin using,He smashed a pumpkin using,inconceivable_semantic,a number.,▁a ▁number .,15.57999062538147,mistralai/Mistral-7B-v0.1
+19,Wiping a spill using,He wiped a spill using,probable,a tissue.,▁a ▁tissue .,6.13040691614151,mistralai/Mistral-7B-v0.1
+19,Wiping a spill using,He wiped a spill using,improbable,a scarf.,▁a ▁scar f .,10.712473332881927,mistralai/Mistral-7B-v0.1
+19,Wiping a spill using,He wiped a spill using,impossible_physics,a piano.,▁a ▁piano .,15.680767834186554,mistralai/Mistral-7B-v0.1
+19,Wiping a spill using,He wiped a spill using,impossible_magic,divination.,▁div ination .,15.966174006462097,mistralai/Mistral-7B-v0.1
+19,Wiping a spill using,He wiped a spill using,inconceivable_syntactic,make.,▁make .,17.056568145751953,mistralai/Mistral-7B-v0.1
+19,Wiping a spill using,He wiped a spill using,inconceivable_semantic,sentences.,▁sentences .,16.20354652404785,mistralai/Mistral-7B-v0.1
+20,Constructing a castle using,He constructed a castle using,probable,bricks.,▁br icks .,7.428054405376315,mistralai/Mistral-7B-v0.1
+20,Constructing a castle using,He constructed a castle using,improbable,gems.,▁g ems .,12.192022562026978,mistralai/Mistral-7B-v0.1
+20,Constructing a castle using,He constructed a castle using,impossible_physics,a star.,▁a ▁star .,14.402291297912598,mistralai/Mistral-7B-v0.1
+20,Constructing a castle using,He constructed a castle using,impossible_magic,wizardry.,▁w izard ry .,14.388469576835632,mistralai/Mistral-7B-v0.1
+20,Constructing a castle using,He constructed a castle using,inconceivable_syntactic,follow.,▁follow .,18.826565742492676,mistralai/Mistral-7B-v0.1
+20,Constructing a castle using,He constructed a castle using,inconceivable_semantic,boredom.,▁bored om .,13.514011204242706,mistralai/Mistral-7B-v0.1
+21,Lighting a candle with,He lit a candle with,probable,a match.,▁a ▁match .,4.099507808685303,mistralai/Mistral-7B-v0.1
+21,Lighting a candle with,He lit a candle with,improbable,a blowtorch.,▁a ▁blow torch .,8.884764850139618,mistralai/Mistral-7B-v0.1
+21,Lighting a candle with,He lit a candle with,impossible_physics,a pool.,▁a ▁pool .,16.717137813568115,mistralai/Mistral-7B-v0.1
+21,Lighting a candle with,He lit a candle with,impossible_magic,spells.,▁sp ells .,14.372610092163086,mistralai/Mistral-7B-v0.1
+21,Lighting a candle with,He lit a candle with,inconceivable_syntactic,choose.,▁choose .,21.005550384521484,mistralai/Mistral-7B-v0.1
+21,Lighting a candle with,He lit a candle with,inconceivable_semantic,years.,▁years .,15.774508476257324,mistralai/Mistral-7B-v0.1
+22,Towing a car using,He towed a car using,probable,a truck.,▁a ▁truck .,7.245062232017517,mistralai/Mistral-7B-v0.1
+22,Towing a car using,He towed a car using,improbable,a horse.,▁a ▁horse .,7.591025114059448,mistralai/Mistral-7B-v0.1
+22,Towing a car using,He towed a car using,impossible_physics,a butterfly.,▁a ▁butter fly .,13.840069055557251,mistralai/Mistral-7B-v0.1
+22,Towing a car using,He towed a car using,impossible_magic,aliens.,▁al iens .,15.284692764282227,mistralai/Mistral-7B-v0.1
+22,Towing a car using,He towed a car using,inconceivable_syntactic,then.,▁then .,18.2583065032959,mistralai/Mistral-7B-v0.1
+22,Towing a car using,He towed a car using,inconceivable_semantic,freedom.,▁freedom .,17.525973558425903,mistralai/Mistral-7B-v0.1
+23,Starting a fire using,He started a fire using,probable,kindling.,▁kind ling .,9.487403078004718,mistralai/Mistral-7B-v0.1
+23,Starting a fire using,He started a fire using,improbable,furniture.,▁furniture .,12.184073448181152,mistralai/Mistral-7B-v0.1
+23,Starting a fire using,He started a fire using,impossible_physics,milk.,▁milk .,10.086587905883789,mistralai/Mistral-7B-v0.1
+23,Starting a fire using,He started a fire using,impossible_magic,enchantments.,▁en chant ments .,16.55966544151306,mistralai/Mistral-7B-v0.1
+23,Starting a fire using,He started a fire using,inconceivable_syntactic,sometimes.,▁sometimes .,17.25022029876709,mistralai/Mistral-7B-v0.1
+23,Starting a fire using,He started a fire using,inconceivable_semantic,traffic.,▁traffic .,17.18730354309082,mistralai/Mistral-7B-v0.1
+24,Building a bridge out of,He constructed a bridge out of,probable,steel.,▁steel .,8.169263362884521,mistralai/Mistral-7B-v0.1
+24,Building a bridge out of,He constructed a bridge out of,improbable,plastic.,▁plastic .,10.227992534637451,mistralai/Mistral-7B-v0.1
+24,Building a bridge out of,He constructed a bridge out of,impossible_physics,gas.,▁gas .,13.501659393310547,mistralai/Mistral-7B-v0.1
+24,Building a bridge out of,He constructed a bridge out of,impossible_magic,ambrosia.,▁amb ros ia .,17.62796723842621,mistralai/Mistral-7B-v0.1
+24,Building a bridge out of,He constructed a bridge out of,inconceivable_syntactic,from.,▁from .,16.146218299865723,mistralai/Mistral-7B-v0.1
+24,Building a bridge out of,He constructed a bridge out of,inconceivable_semantic,truth.,▁truth .,13.670272827148438,mistralai/Mistral-7B-v0.1
+25,Shoveling a driveway full of,He shoveled a driveway full of,probable,snow.,▁snow .,2.4693188071250916,mistralai/Mistral-7B-v0.1
+25,Shoveling a driveway full of,He shoveled a driveway full of,improbable,ice.,▁ice .,6.537167310714722,mistralai/Mistral-7B-v0.1
+25,Shoveling a driveway full of,He shoveled a driveway full of,impossible_physics,sunshine.,▁sun shine .,9.17248159646988,mistralai/Mistral-7B-v0.1
+25,Shoveling a driveway full of,He shoveled a driveway full of,impossible_magic,ogres.,▁og res .,16.82620993256569,mistralai/Mistral-7B-v0.1
+25,Shoveling a driveway full of,He shoveled a driveway full of,inconceivable_syntactic,except.,▁except .,21.290303707122803,mistralai/Mistral-7B-v0.1
+25,Shoveling a driveway full of,He shoveled a driveway full of,inconceivable_semantic,rumors.,▁rum ors .,13.955327272415161,mistralai/Mistral-7B-v0.1
+26,Constructing a tower using,He constructed a tower using,probable,concrete.,▁concrete .,10.050868034362793,mistralai/Mistral-7B-v0.1
+26,Constructing a tower using,He constructed a tower using,improbable,blocks.,▁blocks .,4.862407207489014,mistralai/Mistral-7B-v0.1
+26,Constructing a tower using,He constructed a tower using,impossible_physics,a lake.,▁a ▁lake .,15.543415069580078,mistralai/Mistral-7B-v0.1
+26,Constructing a tower using,He constructed a tower using,impossible_magic,his mind.,▁his ▁mind .,11.245233416557312,mistralai/Mistral-7B-v0.1
+26,Constructing a tower using,He constructed a tower using,inconceivable_syntactic,while.,▁while .,18.690515518188477,mistralai/Mistral-7B-v0.1
+26,Constructing a tower using,He constructed a tower using,inconceivable_semantic,laughter.,▁laughter .,16.253419876098633,mistralai/Mistral-7B-v0.1
+27,Knitting a scarf using,He knitted a scarf using,probable,yarn.,▁y arn .,7.441620237194002,mistralai/Mistral-7B-v0.1
+27,Knitting a scarf using,He knitted a scarf using,improbable,wire.,▁wire .,8.143730521202087,mistralai/Mistral-7B-v0.1
+27,Knitting a scarf using,He knitted a scarf using,impossible_physics,lava.,▁l ava .,12.01384973526001,mistralai/Mistral-7B-v0.1
+27,Knitting a scarf using,He knitted a scarf using,impossible_magic,telepathy.,▁tele pathy .,11.329141199588776,mistralai/Mistral-7B-v0.1
+27,Knitting a scarf using,He knitted a scarf using,inconceivable_syntactic,for.,▁for .,18.002957344055176,mistralai/Mistral-7B-v0.1
+27,Knitting a scarf using,He knitted a scarf using,inconceivable_semantic,sadness.,▁sad ness .,13.8763228058815,mistralai/Mistral-7B-v0.1
+28,Washing your hair with,He washed his hair with,probable,shampoo.,▁sh amp oo .,4.626700965687633,mistralai/Mistral-7B-v0.1
+28,Washing your hair with,He washed his hair with,improbable,detergent.,▁deter gent .,7.97657617443474,mistralai/Mistral-7B-v0.1
+28,Washing your hair with,He washed his hair with,impossible_physics,air.,▁air .,10.460412621498108,mistralai/Mistral-7B-v0.1
+28,Washing your hair with,He washed his hair with,impossible_magic,mermaids.,▁mer ma ids .,15.535614967346191,mistralai/Mistral-7B-v0.1
+28,Washing your hair with,He washed his hair with,inconceivable_syntactic,though.,▁though .,16.60006833076477,mistralai/Mistral-7B-v0.1
+28,Washing your hair with,He washed his hair with,inconceivable_semantic,minutes.,▁minutes .,16.794950485229492,mistralai/Mistral-7B-v0.1
+29,Hiding a gift using,He hid a gift using,probable,a closet.,▁a ▁closet .,12.265113353729248,mistralai/Mistral-7B-v0.1
+29,Hiding a gift using,He hid a gift using,improbable,a tarp.,▁a ▁t arp .,13.149558424949646,mistralai/Mistral-7B-v0.1
+29,Hiding a gift using,He hid a gift using,impossible_physics,a cloud.,▁a ▁cloud .,11.219813704490662,mistralai/Mistral-7B-v0.1
+29,Hiding a gift using,He hid a gift using,impossible_magic,invisibility.,▁inv is ibility .,11.305106963962317,mistralai/Mistral-7B-v0.1
+29,Hiding a gift using,He hid a gift using,inconceivable_syntactic,during.,▁during .,19.292022705078125,mistralai/Mistral-7B-v0.1
+29,Hiding a gift using,He hid a gift using,inconceivable_semantic,concepts.,▁concepts .,14.381566047668457,mistralai/Mistral-7B-v0.1
+30,Drawing a picture using,He drew a picture using,probable,a pencil.,▁a ▁p encil .,5.522720469161868,mistralai/Mistral-7B-v0.1
+30,Drawing a picture using,He drew a picture using,improbable,lipstick.,▁lip stick .,9.709742277860641,mistralai/Mistral-7B-v0.1
+30,Drawing a picture using,He drew a picture using,impossible_physics,a mountain.,▁a ▁mountain .,14.088459491729736,mistralai/Mistral-7B-v0.1
+30,Drawing a picture using,He drew a picture using,impossible_magic,magic.,▁magic .,9.428284645080566,mistralai/Mistral-7B-v0.1
+30,Drawing a picture using,He drew a picture using,inconceivable_syntactic,always.,▁always .,16.943442344665527,mistralai/Mistral-7B-v0.1
+30,Drawing a picture using,He drew a picture using,inconceivable_semantic,a smell.,▁a ▁smell .,15.583194732666016,mistralai/Mistral-7B-v0.1

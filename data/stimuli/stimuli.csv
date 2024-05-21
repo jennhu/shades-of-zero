@@ -1,0 +1,31 @@
+item_id,prefix,infinitive_prefix,expt_prefix,sentence_prefix,probable,improbable,impossible_physics,impossible_magic,inconceivable_syntactic,inconceivable_semantic,prefix_type
+1,Baking a cake using,bake a cake using,Can you bake a cake using,[NP] baked a cake using,an oven,an airfryer,a refrigerator,superpowers,grasp,anger,tool
+2,Carving a statue using,carve a statue using,Can you carve a statue using,[NP] carved a statue using,a chisel,a toothpick,a valley,telekinesis,began,yesterday,tool
+3,Using a telescope to look at,use a telescope to look at,Can you use a telescope to look at,[NP] used a telescope to look at,the moon,the sun,a molecule,unicorns,of,a decade,object
+4,Chilling a drink using,chill a drink using,Can you chill a drink using,[NP] chilled a drink using,ice,snow,fire,pixies,at,tomorrow,tool
+5,Washing dishes using,wash dishes using,Can you wash dishes using,[NP] washed dishes using,soap,rain,lightning,fairies,fell,arithmetic,tool
+6,Building a robot out of,build a robot out of,Can you build a robot out of,[NP] built a robot out of,metal,plastic,soup,elixirs,with,honesty,material
+7,Flying a kite using,fly a kite using,Can you fly a kite using,[NP] flew a kite using,string,floss,lead,witchcraft,give,a sound,tool
+8,Crafting a bowl out of,craft a bowl out of,Can you craft a bowl out of,[NP] crafted a bowl out of,clay,mud,smoke,auras,forget,friction,material
+9,Growing vegetables in,grow vegetables in,Can you grow vegetables in,[NP] grew vegetables in,soil,sand,bleach,stardust,become,justice,material
+10,Writing a letter using,write a letter using,Can you write a letter using,[NP] wrote a letter using,a pen,a toothbrush,wind,a wand,onto,time,tool
+11,Cooking dinner out of,cook dinner out of,Can you cook dinner out of,[NP] cooked dinner out of,pasta,clay,thunder,a potion,through,words,material
+12,Taking a bath in,take a bath in,Can you take a bath in,[NP] took a bath in,bubbles,tea,light,crystals,without,language,material
+13,Brewing coffee using,brew coffee using,Can you brew coffee using,[NP] brewed coffee using,water,soda,glue,lightsabers,into,numbers,tool
+14,Painting a house using,paint a house using,Can you paint a house using,[NP] painted a house using,a brush,a mop,a planet,incantations,before,questions,tool
+15,Crafting jewelry using,craft jewelry using,Can you craft jewelry using,[NP] crafted jewelry using,beads,leather,a volcano,alchemy,until,opinions,tool
+16,Docking a boat using,dock a boat using,Can you dock a boat using,[NP] docked a boat using,an anchor,an anvil,a balloon,a dragon,forgive,greetings,tool
+17,Sealing a box using,seal a box using,Can you seal a box using,[NP] sealed a box using,tape,magnets,wine,sorcery,do,jokes,tool
+18,Smashing a pumpkin using,smash a pumpkin using,Can you smash a pumpkin using,[NP] smashed a pumpkin using,a hammer,a brick,a leaf,a wizard,have,a number,tool
+19,Wiping a spill using,wipe a spill using,Can you wipe a spill using,[NP] wiped a spill using,a tissue,a scarf,a piano,divination,make,sentences,tool
+20,Constructing a castle using,construct a castle using,Can you construct a castle using,[NP] constructed a castle using,bricks,gems,a star,wizardry,follow,boredom,tool
+21,Lighting a candle with,light a candle with,Can you light a candle with,[NP] lit a candle with,a match,a blowtorch,a pool,spells,choose,years,tool
+22,Towing a car using,tow a car using,Can you tow a car using,[NP] towed a car using,a truck,a horse,a butterfly,aliens,then,freedom,tool
+23,Starting a fire using,start a fire using,Can you start a fire using,[NP] started a fire using,kindling,furniture,milk,enchantments,sometimes,traffic,tool
+24,Building a bridge out of,construct a bridge out of,Can you construct a bridge out of,[NP] constructed a bridge out of,steel,plastic,gas,ambrosia,from,truth,material
+25,Shoveling a driveway full of,shovel a driveway full of,Can you shovel a driveway full of,[NP] shoveled a driveway full of,snow,ice,sunshine,ogres,except,rumors,material
+26,Constructing a tower using,construct a tower using,Can you construct a tower using,[NP] constructed a tower using,concrete,blocks,a lake,[POSS] mind,while,laughter,material
+27,Knitting a scarf using,knit a scarf using,Can you knit a scarf using,[NP] knitted a scarf using,yarn,wire,lava,telepathy,for,sadness,material
+28,Washing your hair with,wash your hair with,Can you wash your hair with,[NP] washed [POSS] hair with,shampoo,detergent,air,mermaids,though,minutes,tool
+29,Hiding a gift using,hide a gift using,Can you hide a gift using,[NP] hid a gift using,a closet,a tarp,a cloud,invisibility,during,concepts,tool
+30,Drawing a picture using,draw a picture using,Can you draw a picture using,[NP] drew a picture using,a pencil,lipstick,a mountain,magic,always,a smell,tool
