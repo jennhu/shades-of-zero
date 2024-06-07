@@ -46,4 +46,5 @@ The figures in the paper can be reproduced using the Jupyter notebook at
 `analysis/figures.ipynb`.
 
 The statistical analyses can be reproduced using the R scripts in the folder
-`r_scripts`.
+`analysis/r_scripts`. The outputs from the fitted models are saved to the folder
+`analysis/r_output` in human-readable plain text files.
