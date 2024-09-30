@@ -1,0 +1,351 @@
+item_id,eval_prefix,condition,continuation,continuation_sum_logprob,continuation_mean_logprob,model
+0,He baked a cake inside,probable,an oven.,-6.78389835357666,-2.26129945119222,meta-llama/Meta-Llama-3-8B
+0,He baked a cake inside,improbable,an airfryer.,-14.90212345123291,-2.483687241872152,meta-llama/Meta-Llama-3-8B
+0,He baked a cake inside,impossible,a freezer.,-11.281410217285156,-3.7604700724283853,meta-llama/Meta-Llama-3-8B
+0,He baked a cake inside,inconceivable,a sigh.,-18.779613494873047,-6.259871164957683,meta-llama/Meta-Llama-3-8B
+0,He baked a cake inside,inconceivable_syntactic,grasp.,-20.137981414794922,-10.068990707397461,meta-llama/Meta-Llama-3-8B
+1,He boiled water using,probable,a kettle.,-7.69053840637207,-2.5635128021240234,meta-llama/Meta-Llama-3-8B
+1,He boiled water using,improbable,a microwave.,-8.55998706817627,-2.8533290227254233,meta-llama/Meta-Llama-3-8B
+1,He boiled water using,impossible,a refrigerator.,-13.428332328796387,-4.476110776265462,meta-llama/Meta-Llama-3-8B
+1,He boiled water using,inconceivable,justice.,-17.534103393554688,-8.767051696777344,meta-llama/Meta-Llama-3-8B
+1,He boiled water using,inconceivable_syntactic,began.,-18.356345176696777,-9.178172588348389,meta-llama/Meta-Llama-3-8B
+2,He broke a coconut using,probable,a rock.,-8.095369338989258,-2.6984564463297525,meta-llama/Meta-Llama-3-8B
+2,He broke a coconut using,improbable,a table.,-11.15543270111084,-3.7184775670369468,meta-llama/Meta-Llama-3-8B
+2,He broke a coconut using,impossible,a pillow.,-11.216487884521484,-3.7388292948404946,meta-llama/Meta-Llama-3-8B
+2,He broke a coconut using,inconceivable,a texture.,-18.423563957214355,-6.141187985738118,meta-llama/Meta-Llama-3-8B
+2,He broke a coconut using,inconceivable_syntactic,of.,-16.43385934829712,-8.21692967414856,meta-llama/Meta-Llama-3-8B
+3,He built a house out of,probable,brick.,-8.276545524597168,-4.138272762298584,meta-llama/Meta-Llama-3-8B
+3,He built a house out of,improbable,grass.,-8.737330436706543,-4.3686652183532715,meta-llama/Meta-Llama-3-8B
+3,He built a house out of,impossible,gas.,-12.726329803466797,-6.363164901733398,meta-llama/Meta-Llama-3-8B
+3,He built a house out of,inconceivable,language.,-12.600605964660645,-6.300302982330322,meta-llama/Meta-Llama-3-8B
+3,He built a house out of,inconceivable_syntactic,at.,-17.990280151367188,-8.995140075683594,meta-llama/Meta-Llama-3-8B
+4,He built a bridge out of,probable,steel.,-8.120854377746582,-4.060427188873291,meta-llama/Meta-Llama-3-8B
+4,He built a bridge out of,improbable,plastic.,-8.922979354858398,-4.461489677429199,meta-llama/Meta-Llama-3-8B
+4,He built a bridge out of,impossible,soup.,-10.697312355041504,-5.348656177520752,meta-llama/Meta-Llama-3-8B
+4,He built a bridge out of,inconceivable,dance.,-13.87091064453125,-6.935455322265625,meta-llama/Meta-Llama-3-8B
+4,He built a bridge out of,inconceivable_syntactic,fell.,-18.53469181060791,-9.267345905303955,meta-llama/Meta-Llama-3-8B
+5,He called a friend using,probable,a phone.,-7.365913391113281,-2.4553044637044272,meta-llama/Meta-Llama-3-8B
+5,He called a friend using,improbable,a laptop.,-11.276458740234375,-3.758819580078125,meta-llama/Meta-Llama-3-8B
+5,He called a friend using,impossible,a sandwich.,-15.862677574157715,-5.287559191385905,meta-llama/Meta-Llama-3-8B
+5,He called a friend using,inconceivable,mass.,-16.151172637939453,-8.075586318969727,meta-llama/Meta-Llama-3-8B
+5,He called a friend using,inconceivable_syntactic,with.,-17.068809509277344,-8.534404754638672,meta-llama/Meta-Llama-3-8B
+6,He carried groceries inside,probable,a tote bag.,-13.206548690795898,-3.3016371726989746,meta-llama/Meta-Llama-3-8B
+6,He carried groceries inside,improbable,a backpack.,-12.409002304077148,-4.13633410135905,meta-llama/Meta-Llama-3-8B
+6,He carried groceries inside,impossible,a tornado.,-16.89996910095215,-5.633323033650716,meta-llama/Meta-Llama-3-8B
+6,He carried groceries inside,inconceivable,a law.,-22.41794204711914,-7.472647349039714,meta-llama/Meta-Llama-3-8B
+6,He carried groceries inside,inconceivable_syntactic,give.,-18.46748638153076,-9.23374319076538,meta-llama/Meta-Llama-3-8B
+7,He carved a statue using,probable,a chisel.,-7.83310604095459,-1.9582765102386475,meta-llama/Meta-Llama-3-8B
+7,He carved a statue using,improbable,a nail.,-11.201701164245605,-3.7339003880818686,meta-llama/Meta-Llama-3-8B
+7,He carved a statue using,impossible,a sock.,-13.78808307647705,-4.596027692159017,meta-llama/Meta-Llama-3-8B
+7,He carved a statue using,inconceivable,laughter.,-14.737491607666016,-7.368745803833008,meta-llama/Meta-Llama-3-8B
+7,He carved a statue using,inconceivable_syntactic,forget.,-19.70748805999756,-9.85374402999878,meta-llama/Meta-Llama-3-8B
+8,He caught a fish in,probable,a lake.,-6.90425968170166,-2.3014198939005532,meta-llama/Meta-Llama-3-8B
+8,He caught a fish in,improbable,a puddle.,-9.526449203491211,-2.3816123008728027,meta-llama/Meta-Llama-3-8B
+8,He caught a fish in,impossible,a raindrop.,-13.931177139282227,-3.4827942848205566,meta-llama/Meta-Llama-3-8B
+8,He caught a fish in,inconceivable,an exclamation.,-20.910122871398926,-5.2275307178497314,meta-llama/Meta-Llama-3-8B
+8,He caught a fish in,inconceivable_syntactic,become.,-21.341739654541016,-10.670869827270508,meta-llama/Meta-Llama-3-8B
+9,He chilled a drink using,probable,ice.,-7.225149154663086,-3.612574577331543,meta-llama/Meta-Llama-3-8B
+9,He chilled a drink using,improbable,snow.,-9.514215469360352,-4.757107734680176,meta-llama/Meta-Llama-3-8B
+9,He chilled a drink using,impossible,fire.,-9.444039344787598,-4.722019672393799,meta-llama/Meta-Llama-3-8B
+9,He chilled a drink using,inconceivable,yesterday.,-16.143739700317383,-8.071869850158691,meta-llama/Meta-Llama-3-8B
+9,He chilled a drink using,inconceivable_syntactic,onto.,-21.467180728912354,-10.733590364456177,meta-llama/Meta-Llama-3-8B
+10,He chopped a carrot using,probable,a knife.,-3.9779138565063477,-1.325971285502116,meta-llama/Meta-Llama-3-8B
+10,He chopped a carrot using,improbable,a sword.,-7.091443061828613,-2.363814353942871,meta-llama/Meta-Llama-3-8B
+10,He chopped a carrot using,impossible,a rag.,-14.437484741210938,-4.8124949137369795,meta-llama/Meta-Llama-3-8B
+10,He chopped a carrot using,inconceivable,a color.,-15.831392288208008,-5.277130762736003,meta-llama/Meta-Llama-3-8B
+10,He chopped a carrot using,inconceivable_syntactic,through.,-18.02666473388672,-9.01333236694336,meta-llama/Meta-Llama-3-8B
+11,He cleaned a spill using,probable,a sponge.,-6.150259017944336,-2.050086339314779,meta-llama/Meta-Llama-3-8B
+11,He cleaned a spill using,improbable,a scarf.,-13.88709831237793,-4.6290327707926435,meta-llama/Meta-Llama-3-8B
+11,He cleaned a spill using,impossible,mustard.,-12.116389274597168,-6.058194637298584,meta-llama/Meta-Llama-3-8B
+11,He cleaned a spill using,inconceivable,a country.,-18.624621391296387,-6.208207130432129,meta-llama/Meta-Llama-3-8B
+11,He cleaned a spill using,inconceivable_syntactic,without.,-17.106422424316406,-8.553211212158203,meta-llama/Meta-Llama-3-8B
+12,He cleaned a carpet using,probable,a vacuum.,-7.696810722351074,-2.565603574117025,meta-llama/Meta-Llama-3-8B
+12,He cleaned a carpet using,improbable,a hat.,-14.654080390930176,-4.884693463643392,meta-llama/Meta-Llama-3-8B
+12,He cleaned a carpet using,impossible,a crayon.,-14.216289520263672,-3.554072380065918,meta-llama/Meta-Llama-3-8B
+12,He cleaned a carpet using,inconceivable,a week.,-17.53299331665039,-5.84433110555013,meta-llama/Meta-Llama-3-8B
+12,He cleaned a carpet using,inconceivable_syntactic,into.,-19.997119903564453,-9.998559951782227,meta-llama/Meta-Llama-3-8B
+13,He climbed a tree using,probable,a ladder.,-4.363664627075195,-1.4545548756917317,meta-llama/Meta-Llama-3-8B
+13,He climbed a tree using,improbable,a rope.,-4.661531448364258,-1.5538438161214192,meta-llama/Meta-Llama-3-8B
+13,He climbed a tree using,impossible,oil.,-13.901450157165527,-6.950725078582764,meta-llama/Meta-Llama-3-8B
+13,He climbed a tree using,inconceivable,a poem.,-14.69408893585205,-4.898029645284017,meta-llama/Meta-Llama-3-8B
+13,He climbed a tree using,inconceivable_syntactic,before.,-17.9925537109375,-8.99627685546875,meta-llama/Meta-Llama-3-8B
+14,He closed a jacket using,probable,a zipper.,-7.211031913757324,-2.403677304585775,meta-llama/Meta-Llama-3-8B
+14,He closed a jacket using,improbable,glue.,-10.383649349212646,-5.191824674606323,meta-llama/Meta-Llama-3-8B
+14,He closed a jacket using,impossible,fog.,-14.1778564453125,-7.08892822265625,meta-llama/Meta-Llama-3-8B
+14,He closed a jacket using,inconceivable,a word.,-11.278395175933838,-3.759465058644613,meta-llama/Meta-Llama-3-8B
+14,He closed a jacket using,inconceivable_syntactic,until.,-18.996466636657715,-9.498233318328857,meta-llama/Meta-Llama-3-8B
+15,He constructed a tower out of,probable,blocks.,-6.768860816955566,-3.384430408477783,meta-llama/Meta-Llama-3-8B
+15,He constructed a tower out of,improbable,bubbles.,-12.275684356689453,-6.137842178344727,meta-llama/Meta-Llama-3-8B
+15,He constructed a tower out of,impossible,sparks.,-14.418540000915527,-7.209270000457764,meta-llama/Meta-Llama-3-8B
+15,He constructed a tower out of,inconceivable,seasons.,-16.646499633789062,-8.323249816894531,meta-llama/Meta-Llama-3-8B
+15,He constructed a tower out of,inconceivable_syntactic,forgive.,-20.93474292755127,-10.467371463775635,meta-llama/Meta-Llama-3-8B
+16,He cooked dinner out of,probable,pasta.,-11.150629043579102,-5.575314521789551,meta-llama/Meta-Llama-3-8B
+16,He cooked dinner out of,improbable,insects.,-12.893322944641113,-6.446661472320557,meta-llama/Meta-Llama-3-8B
+16,He cooked dinner out of,impossible,the moon.,-12.905327796936035,-4.301775932312012,meta-llama/Meta-Llama-3-8B
+16,He cooked dinner out of,inconceivable,thoughts.,-14.3216552734375,-7.16082763671875,meta-llama/Meta-Llama-3-8B
+16,He cooked dinner out of,inconceivable_syntactic,do.,-16.6068754196167,-8.30343770980835,meta-llama/Meta-Llama-3-8B
+17,He cooled a room using,probable,a fan.,-6.727438926696777,-2.2424796422322593,meta-llama/Meta-Llama-3-8B
+17,He cooled a room using,improbable,shades.,-13.11816692352295,-6.559083461761475,meta-llama/Meta-Llama-3-8B
+17,He cooled a room using,impossible,a heater.,-10.552756309509277,-3.5175854365030923,meta-llama/Meta-Llama-3-8B
+17,He cooled a room using,inconceivable,a taste.,-16.938471794128418,-5.646157264709473,meta-llama/Meta-Llama-3-8B
+17,He cooled a room using,inconceivable_syntactic,have.,-18.175453662872314,-9.087726831436157,meta-llama/Meta-Llama-3-8B
+18,He covered a window using,probable,curtains.,-8.359140396118164,-4.179570198059082,meta-llama/Meta-Llama-3-8B
+18,He covered a window using,improbable,sheets.,-9.87211799621582,-4.93605899810791,meta-llama/Meta-Llama-3-8B
+18,He covered a window using,impossible,a hair.,-15.415654182434082,-5.138551394144694,meta-llama/Meta-Llama-3-8B
+18,He covered a window using,inconceivable,a chant.,-17.65788459777832,-5.885961532592773,meta-llama/Meta-Llama-3-8B
+18,He covered a window using,inconceivable_syntactic,make.,-15.87198257446289,-7.935991287231445,meta-llama/Meta-Llama-3-8B
+19,He crafted a bowl out of,probable,clay.,-5.287120819091797,-2.6435604095458984,meta-llama/Meta-Llama-3-8B
+19,He crafted a bowl out of,improbable,mud.,-7.77821159362793,-3.889105796813965,meta-llama/Meta-Llama-3-8B
+19,He crafted a bowl out of,impossible,smoke.,-11.008971214294434,-5.504485607147217,meta-llama/Meta-Llama-3-8B
+19,He crafted a bowl out of,inconceivable,math.,-13.512109756469727,-6.756054878234863,meta-llama/Meta-Llama-3-8B
+19,He crafted a bowl out of,inconceivable_syntactic,follow.,-19.038330078125,-9.5191650390625,meta-llama/Meta-Llama-3-8B
+20,He crushed a soda can using,probable,a shoe.,-9.918746948242188,-3.306248982747396,meta-llama/Meta-Llama-3-8B
+20,He crushed a soda can using,improbable,a chair.,-10.23249340057373,-3.4108311335245767,meta-llama/Meta-Llama-3-8B
+20,He crushed a soda can using,impossible,a tissue.,-13.17557430267334,-4.391858100891113,meta-llama/Meta-Llama-3-8B
+20,He crushed a soda can using,inconceivable,a day.,-17.495869636535645,-5.831956545511882,meta-llama/Meta-Llama-3-8B
+20,He crushed a soda can using,inconceivable_syntactic,choose.,-20.756211280822754,-10.378105640411377,meta-llama/Meta-Llama-3-8B
+21,He cut grass using,probable,a lawnmower.,-5.325583457946777,-1.0651166915893555,meta-llama/Meta-Llama-3-8B
+21,He cut grass using,improbable,a scythe.,-5.198548316955566,-1.2996370792388916,meta-llama/Meta-Llama-3-8B
+21,He cut grass using,impossible,a popsicle.,-17.305625915527344,-4.326406478881836,meta-llama/Meta-Llama-3-8B
+21,He cut grass using,inconceivable,an essay.,-17.028793334960938,-5.6762644449869795,meta-llama/Meta-Llama-3-8B
+21,He cut grass using,inconceivable_syntactic,then.,-18.143001079559326,-9.071500539779663,meta-llama/Meta-Llama-3-8B
+22,He cut cardboard using,probable,scissors.,-5.343512535095215,-2.6717562675476074,meta-llama/Meta-Llama-3-8B
+22,He cut cardboard using,improbable,a scalpel.,-7.805951118469238,-1.9514877796173096,meta-llama/Meta-Llama-3-8B
+22,He cut cardboard using,impossible,fur.,-17.923049926757812,-8.961524963378906,meta-llama/Meta-Llama-3-8B
+22,He cut cardboard using,inconceivable,a snore.,-21.103227615356445,-5.275806903839111,meta-llama/Meta-Llama-3-8B
+22,He cut cardboard using,inconceivable_syntactic,sometimes.,-17.084233283996582,-8.542116641998291,meta-llama/Meta-Llama-3-8B
+23,He dented a car with,probable,a baseball bat.,-6.518512725830078,-1.6296281814575195,meta-llama/Meta-Llama-3-8B
+23,He dented a car with,improbable,a dumbbell.,-11.470306396484375,-2.8675765991210938,meta-llama/Meta-Llama-3-8B
+23,He dented a car with,impossible,a breeze.,-14.752979278564453,-4.917659759521484,meta-llama/Meta-Llama-3-8B
+23,He dented a car with,inconceivable,a nap.,-18.248477935791016,-6.082825978597005,meta-llama/Meta-Llama-3-8B
+23,He dented a car with,inconceivable_syntactic,from.,-18.24535846710205,-9.122679233551025,meta-llama/Meta-Llama-3-8B
+24,He dug a hole using,probable,a shovel.,-4.417030334472656,-1.4723434448242188,meta-llama/Meta-Llama-3-8B
+24,He dug a hole using,improbable,a spatula.,-10.666561126708984,-2.666640281677246,meta-llama/Meta-Llama-3-8B
+24,He dug a hole using,impossible,dirt.,-11.843013286590576,-5.921506643295288,meta-llama/Meta-Llama-3-8B
+24,He dug a hole using,inconceivable,a yawn.,-20.42652130126953,-5.106630325317383,meta-llama/Meta-Llama-3-8B
+24,He dug a hole using,inconceivable_syntactic,except.,-19.561679363250732,-9.780839681625366,meta-llama/Meta-Llama-3-8B
+25,He dipped a biscuit into,probable,coffee.,-7.800981521606445,-3.9004907608032227,meta-llama/Meta-Llama-3-8B
+25,He dipped a biscuit into,improbable,wine.,-11.173372268676758,-5.586686134338379,meta-llama/Meta-Llama-3-8B
+25,He dipped a biscuit into,impossible,a floor.,-18.917987823486328,-6.305995941162109,meta-llama/Meta-Llama-3-8B
+25,He dipped a biscuit into,inconceivable,a myth.,-21.590462684631348,-7.196820894877116,meta-llama/Meta-Llama-3-8B
+25,He dipped a biscuit into,inconceivable_syntactic,by.,-18.29584312438965,-9.147921562194824,meta-llama/Meta-Llama-3-8B
+26,He displayed books on,probable,a shelf.,-7.4998321533203125,-2.499944051106771,meta-llama/Meta-Llama-3-8B
+26,He displayed books on,improbable,a bed.,-12.038872718811035,-4.012957572937012,meta-llama/Meta-Llama-3-8B
+26,He displayed books on,impossible,a galaxy.,-19.211417198181152,-6.403805732727051,meta-llama/Meta-Llama-3-8B
+26,He displayed books on,inconceivable,a sigh.,-18.592464447021484,-6.197488149007161,meta-llama/Meta-Llama-3-8B
+26,He displayed books on,inconceivable_syntactic,for.,-15.493541717529297,-7.746770858764648,meta-llama/Meta-Llama-3-8B
+27,He docked a boat using,probable,an anchor.,-8.18410873413086,-2.7280362447102866,meta-llama/Meta-Llama-3-8B
+27,He docked a boat using,improbable,an anvil.,-14.06955337524414,-3.517388343811035,meta-llama/Meta-Llama-3-8B
+27,He docked a boat using,impossible,a balloon.,-12.383445739746094,-4.127815246582031,meta-llama/Meta-Llama-3-8B
+27,He docked a boat using,inconceivable,a lesson.,-17.515193939208984,-5.838397979736328,meta-llama/Meta-Llama-3-8B
+27,He docked a boat using,inconceivable_syntactic,though.,-18.257495880126953,-9.128747940063477,meta-llama/Meta-Llama-3-8B
+28,He drank a cup full of,probable,water.,-4.970586776733398,-2.485293388366699,meta-llama/Meta-Llama-3-8B
+28,He drank a cup full of,improbable,honey.,-8.875202178955078,-4.437601089477539,meta-llama/Meta-Llama-3-8B
+28,He drank a cup full of,impossible,lightning.,-12.134620666503906,-6.067310333251953,meta-llama/Meta-Llama-3-8B
+28,He drank a cup full of,inconceivable,minutes.,-15.092543601989746,-7.546271800994873,meta-llama/Meta-Llama-3-8B
+28,He drank a cup full of,inconceivable_syntactic,during.,-19.059916496276855,-9.529958248138428,meta-llama/Meta-Llama-3-8B
+29,He dried his hands using,probable,a towel.,-4.58010196685791,-1.5267006556193035,meta-llama/Meta-Llama-3-8B
+29,He dried his hands using,improbable,a sweater.,-13.258821487426758,-4.419607162475586,meta-llama/Meta-Llama-3-8B
+29,He dried his hands using,impossible,a liquid.,-14.059483528137207,-4.686494509379069,meta-llama/Meta-Llama-3-8B
+29,He dried his hands using,inconceivable,freedom.,-15.848064422607422,-7.924032211303711,meta-llama/Meta-Llama-3-8B
+29,He dried his hands using,inconceivable_syntactic,always.,-15.59008502960205,-7.795042514801025,meta-llama/Meta-Llama-3-8B
+30,He dried laundry using,probable,a clothesline.,-6.908973693847656,-1.727243423461914,meta-llama/Meta-Llama-3-8B
+30,He dried laundry using,improbable,a fan.,-8.783598899841309,-2.927866299947103,meta-llama/Meta-Llama-3-8B
+30,He dried laundry using,impossible,juice.,-13.03188419342041,-6.515942096710205,meta-llama/Meta-Llama-3-8B
+30,He dried laundry using,inconceivable,courage.,-16.16298770904541,-8.081493854522705,meta-llama/Meta-Llama-3-8B
+30,He dried laundry using,inconceivable_syntactic,and.,-13.842052459716797,-6.921026229858398,meta-llama/Meta-Llama-3-8B
+31,He ate soup using,probable,a spoon.,-4.489743232727051,-1.4965810775756836,meta-llama/Meta-Llama-3-8B
+31,He ate soup using,improbable,a bucket.,-9.884026527404785,-3.2946755091349282,meta-llama/Meta-Llama-3-8B
+31,He ate soup using,impossible,a sieve.,-10.454888343811035,-3.484962781270345,meta-llama/Meta-Llama-3-8B
+31,He ate soup using,inconceivable,history.,-14.441588401794434,-7.220794200897217,meta-llama/Meta-Llama-3-8B
+31,He ate soup using,inconceivable_syntactic,ever.,-18.289402961730957,-9.144701480865479,meta-llama/Meta-Llama-3-8B
+32,He entered a room through,probable,a door.,-5.24000358581543,-1.7466678619384766,meta-llama/Meta-Llama-3-8B
+32,He entered a room through,improbable,a window.,-4.659008026123047,-1.5530026753743489,meta-llama/Meta-Llama-3-8B
+32,He entered a room through,impossible,a wall.,-6.626500129699707,-2.208833376566569,meta-llama/Meta-Llama-3-8B
+32,He entered a room through,inconceivable,a theory.,-17.41713523864746,-5.80571174621582,meta-llama/Meta-Llama-3-8B
+32,He entered a room through,inconceivable_syntactic,should.,-19.803200721740723,-9.901600360870361,meta-llama/Meta-Llama-3-8B
+33,He filled a bucket with,probable,sand.,-5.964550971984863,-2.9822754859924316,meta-llama/Meta-Llama-3-8B
+33,He filled a bucket with,improbable,acorns.,-11.018187522888184,-3.672729174296061,meta-llama/Meta-Llama-3-8B
+33,He filled a bucket with,impossible,buildings.,-16.257280349731445,-8.128640174865723,meta-llama/Meta-Llama-3-8B
+33,He filled a bucket with,inconceivable,time.,-12.963172912597656,-6.481586456298828,meta-llama/Meta-Llama-3-8B
+33,He filled a bucket with,inconceivable_syntactic,up.,-14.593441009521484,-7.296720504760742,meta-llama/Meta-Llama-3-8B
+34,He filled a purse with,probable,coins.,-6.900205612182617,-3.4501028060913086,meta-llama/Meta-Llama-3-8B
+34,He filled a purse with,improbable,cream.,-13.723518371582031,-6.861759185791016,meta-llama/Meta-Llama-3-8B
+34,He filled a purse with,impossible,sofas.,-17.575485229492188,-8.787742614746094,meta-llama/Meta-Llama-3-8B
+34,He filled a purse with,inconceivable,luck.,-13.195262908935547,-6.597631454467773,meta-llama/Meta-Llama-3-8B
+34,He filled a purse with,inconceivable_syntactic,nor.,-19.611719131469727,-9.805859565734863,meta-llama/Meta-Llama-3-8B
+35,He grew flowers inside,probable,a pot.,-9.78557014465332,-3.26185671488444,meta-llama/Meta-Llama-3-8B
+35,He grew flowers inside,improbable,a mug.,-12.60351848602295,-4.201172828674316,meta-llama/Meta-Llama-3-8B
+35,He grew flowers inside,impossible,a marble.,-13.942435264587402,-4.647478421529134,meta-llama/Meta-Llama-3-8B
+35,He grew flowers inside,inconceivable,a sneeze.,-17.153992652893066,-3.4307985305786133,meta-llama/Meta-Llama-3-8B
+35,He grew flowers inside,inconceivable_syntactic,been.,-17.398375034332275,-8.699187517166138,meta-llama/Meta-Llama-3-8B
+36,He hung a painting using,probable,screws.,-8.281000137329102,-4.140500068664551,meta-llama/Meta-Llama-3-8B
+36,He hung a painting using,improbable,string.,-7.581185340881348,-3.790592670440674,meta-llama/Meta-Llama-3-8B
+36,He hung a painting using,impossible,vapor.,-14.95883560180664,-7.47941780090332,meta-llama/Meta-Llama-3-8B
+36,He hung a painting using,inconceivable,a handshake.,-15.004464149475098,-5.001488049825032,meta-llama/Meta-Llama-3-8B
+36,He hung a painting using,inconceivable_syntactic,could.,-18.791479110717773,-9.395739555358887,meta-llama/Meta-Llama-3-8B
+37,He hid a gift inside,probable,a closet.,-11.617249488830566,-3.8724164962768555,meta-llama/Meta-Llama-3-8B
+37,He hid a gift inside,improbable,a forest.,-13.38360595703125,-4.461201985677083,meta-llama/Meta-Llama-3-8B
+37,He hid a gift inside,impossible,a cloud.,-11.748132705688477,-3.916044235229492,meta-llama/Meta-Llama-3-8B
+37,He hid a gift inside,inconceivable,a gasp.,-17.78848934173584,-4.44712233543396,meta-llama/Meta-Llama-3-8B
+37,He hid a gift inside,inconceivable_syntactic,find.,-19.451244354248047,-9.725622177124023,meta-llama/Meta-Llama-3-8B
+38,He lifted a box using,probable,a forklift.,-7.51889705657959,-1.503779411315918,meta-llama/Meta-Llama-3-8B
+38,He lifted a box using,improbable,a pulley.,-5.38532829284668,-1.34633207321167,meta-llama/Meta-Llama-3-8B
+38,He lifted a box using,impossible,foam.,-15.305215835571289,-7.6526079177856445,meta-llama/Meta-Llama-3-8B
+38,He lifted a box using,inconceivable,an emotion.,-15.914494514465332,-5.304831504821777,meta-llama/Meta-Llama-3-8B
+38,He lifted a box using,inconceivable_syntactic,very.,-16.080924034118652,-8.040462017059326,meta-llama/Meta-Llama-3-8B
+39,He lit a candle using,probable,a match.,-4.7501020431518555,-1.5833673477172852,meta-llama/Meta-Llama-3-8B
+39,He lit a candle using,improbable,a blowtorch.,-9.135366439819336,-2.283841609954834,meta-llama/Meta-Llama-3-8B
+39,He lit a candle using,impossible,yogurt.,-14.665223121643066,-7.332611560821533,meta-llama/Meta-Llama-3-8B
+39,He lit a candle using,inconceivable,surprises.,-17.85007381439209,-8.925036907196045,meta-llama/Meta-Llama-3-8B
+39,He lit a candle using,inconceivable_syntactic,does.,-18.40320587158203,-9.201602935791016,meta-llama/Meta-Llama-3-8B
+40,He made a sandwich using,probable,bread.,-7.502871513366699,-3.7514357566833496,meta-llama/Meta-Llama-3-8B
+40,He made a sandwich using,improbable,lettuce.,-10.956701278686523,-5.478350639343262,meta-llama/Meta-Llama-3-8B
+40,He made a sandwich using,impossible,a star.,-14.142417430877686,-4.7141391436258955,meta-llama/Meta-Llama-3-8B
+40,He made a sandwich using,inconceivable,a mile.,-18.24063491821289,-6.080211639404297,meta-llama/Meta-Llama-3-8B
+40,He made a sandwich using,inconceivable_syntactic,went.,-18.82921314239502,-9.41460657119751,meta-llama/Meta-Llama-3-8B
+41,He made a smoothie using,probable,a blender.,-6.147571563720703,-2.0491905212402344,meta-llama/Meta-Llama-3-8B
+41,He made a smoothie using,improbable,a whisk.,-11.331756591796875,-3.777252197265625,meta-llama/Meta-Llama-3-8B
+41,He made a smoothie using,impossible,wind.,-15.579449653625488,-7.789724826812744,meta-llama/Meta-Llama-3-8B
+41,He made a smoothie using,inconceivable,decades.,-19.519288063049316,-9.759644031524658,meta-llama/Meta-Llama-3-8B
+41,He made a smoothie using,inconceivable_syntactic,gave.,-19.71579647064209,-9.857898235321045,meta-llama/Meta-Llama-3-8B
+42,He melted a chocolate bar using,probable,a stove.,-9.739022254943848,-3.246340751647949,meta-llama/Meta-Llama-3-8B
+42,He melted a chocolate bar using,improbable,a radiator.,-10.368699073791504,-3.456233024597168,meta-llama/Meta-Llama-3-8B
+42,He melted a chocolate bar using,impossible,a napkin.,-13.796075820922852,-3.449018955230713,meta-llama/Meta-Llama-3-8B
+42,He melted a chocolate bar using,inconceivable,a promise.,-18.56938648223877,-6.18979549407959,meta-llama/Meta-Llama-3-8B
+42,He melted a chocolate bar using,inconceivable_syntactic,took.,-21.402113914489746,-10.701056957244873,meta-llama/Meta-Llama-3-8B
+43,He opened a jar using,probable,his hands.,-7.038128852844238,-2.3460429509480796,meta-llama/Meta-Llama-3-8B
+43,He opened a jar using,improbable,his feet.,-7.982641220092773,-2.6608804066975913,meta-llama/Meta-Llama-3-8B
+43,He opened a jar using,impossible,his mind.,-6.764534950256348,-2.2548449834187827,meta-llama/Meta-Llama-3-8B
+43,He opened a jar using,inconceivable,an opinion.,-15.999079704284668,-5.33302656809489,meta-llama/Meta-Llama-3-8B
+43,He opened a jar using,inconceivable_syntactic,never.,-19.40274143218994,-9.70137071609497,meta-llama/Meta-Llama-3-8B
+44,He packed a suit inside,probable,a suitcase.,-4.69980525970459,-1.5666017532348633,meta-llama/Meta-Llama-3-8B
+44,He packed a suit inside,improbable,a pocket.,-11.838506698608398,-3.946168899536133,meta-llama/Meta-Llama-3-8B
+44,He packed a suit inside,impossible,a raspberry.,-17.14390277862549,-5.714634259541829,meta-llama/Meta-Llama-3-8B
+44,He packed a suit inside,inconceivable,a groan.,-18.077980041503906,-4.519495010375977,meta-llama/Meta-Llama-3-8B
+44,He packed a suit inside,inconceivable_syntactic,got.,-21.174985885620117,-10.587492942810059,meta-llama/Meta-Llama-3-8B
+45,He painted a wall using,probable,a brush.,-6.678994178771973,-2.2263313929239907,meta-llama/Meta-Llama-3-8B
+45,He painted a wall using,improbable,a mop.,-10.956252098083496,-3.6520840326944985,meta-llama/Meta-Llama-3-8B
+45,He painted a wall using,impossible,a bathtub.,-13.673859596252441,-4.5579531987508135,meta-llama/Meta-Llama-3-8B
+45,He painted a wall using,inconceivable,a whisper.,-15.235209465026855,-5.078403155008952,meta-llama/Meta-Llama-3-8B
+45,He painted a wall using,inconceivable_syntactic,decide.,-18.282832145690918,-9.141416072845459,meta-llama/Meta-Llama-3-8B
+46,He paved a road using,probable,cement.,-7.892587661743164,-3.946293830871582,meta-llama/Meta-Llama-3-8B
+46,He paved a road using,improbable,seashells.,-10.337109088897705,-2.5842772722244263,meta-llama/Meta-Llama-3-8B
+46,He paved a road using,impossible,a comet.,-15.847192764282227,-5.282397588094075,meta-llama/Meta-Llama-3-8B
+46,He paved a road using,inconceivable,happiness.,-13.571218490600586,-6.785609245300293,meta-llama/Meta-Llama-3-8B
+46,He paved a road using,inconceivable_syntactic,although.,-20.82229995727539,-10.411149978637695,meta-llama/Meta-Llama-3-8B
+47,He plucked a hair using,probable,tweezers.,-3.691683769226074,-0.9229209423065186,meta-llama/Meta-Llama-3-8B
+47,He plucked a hair using,improbable,tongs.,-8.758489608764648,-2.919496536254883,meta-llama/Meta-Llama-3-8B
+47,He plucked a hair using,impossible,a spoon.,-10.47974967956543,-3.4932498931884766,meta-llama/Meta-Llama-3-8B
+47,He plucked a hair using,inconceivable,sympathy.,-17.636356353759766,-8.818178176879883,meta-llama/Meta-Llama-3-8B
+47,He plucked a hair using,inconceivable_syntactic,since.,-18.32375144958496,-9.16187572479248,meta-llama/Meta-Llama-3-8B
+48,He polished jewelry using,probable,a cloth.,-7.381381988525391,-2.460460662841797,meta-llama/Meta-Llama-3-8B
+48,He polished jewelry using,improbable,a shirt.,-13.106683731079102,-4.368894577026367,meta-llama/Meta-Llama-3-8B
+48,He polished jewelry using,impossible,a chainsaw.,-13.735068321228027,-3.433767080307007,meta-llama/Meta-Llama-3-8B
+48,He polished jewelry using,inconceivable,music.,-12.544925689697266,-6.272462844848633,meta-llama/Meta-Llama-3-8B
+48,He polished jewelry using,inconceivable_syntactic,know.,-18.259559631347656,-9.129779815673828,meta-llama/Meta-Llama-3-8B
+49,He popped a balloon using,probable,a thumbtack.,-9.672544479370117,-1.9345088958740235,meta-llama/Meta-Llama-3-8B
+49,He popped a balloon using,improbable,a spear.,-9.40360164642334,-3.1345338821411133,meta-llama/Meta-Llama-3-8B
+49,He popped a balloon using,impossible,cotton balls.,-14.825321197509766,-4.941773732503255,meta-llama/Meta-Llama-3-8B
+49,He popped a balloon using,inconceivable,a story.,-15.213685035705566,-5.0712283452351885,meta-llama/Meta-Llama-3-8B
+49,He popped a balloon using,inconceivable_syntactic,because.,-18.76881694793701,-9.384408473968506,meta-llama/Meta-Llama-3-8B
+50,He removed a stain using,probable,bleach.,-7.089838027954102,-3.544919013977051,meta-llama/Meta-Llama-3-8B
+50,He removed a stain using,improbable,vinegar.,-6.911067962646484,-3.455533981323242,meta-llama/Meta-Llama-3-8B
+50,He removed a stain using,impossible,dirt.,-12.872315406799316,-6.436157703399658,meta-llama/Meta-Llama-3-8B
+50,He removed a stain using,inconceivable,truth.,-14.023624420166016,-7.011812210083008,meta-llama/Meta-Llama-3-8B
+50,He removed a stain using,inconceivable_syntactic,would.,-16.877706050872803,-8.438853025436401,meta-llama/Meta-Llama-3-8B
+51,He rinsed fruit using,probable,a sink.,-9.885958671569824,-3.2953195571899414,meta-llama/Meta-Llama-3-8B
+51,He rinsed fruit using,improbable,a hose.,-8.148101806640625,-2.716033935546875,meta-llama/Meta-Llama-3-8B
+51,He rinsed fruit using,impossible,a clock.,-15.333995819091797,-5.111331939697266,meta-llama/Meta-Llama-3-8B
+51,He rinsed fruit using,inconceivable,a giggle.,-17.296061515808105,-4.324015378952026,meta-llama/Meta-Llama-3-8B
+51,He rinsed fruit using,inconceivable_syntactic,create.,-16.968124866485596,-8.484062433242798,meta-llama/Meta-Llama-3-8B
+52,He sewed a shirt using,probable,a needle.,-9.148235321044922,-3.0494117736816406,meta-llama/Meta-Llama-3-8B
+52,He sewed a shirt using,improbable,a toothpick.,-14.280116081237793,-3.5700290203094482,meta-llama/Meta-Llama-3-8B
+52,He sewed a shirt using,impossible,a potato.,-12.138184547424316,-4.0460615158081055,meta-llama/Meta-Llama-3-8B
+52,He sewed a shirt using,inconceivable,thunder.,-15.777247428894043,-7.8886237144470215,meta-llama/Meta-Llama-3-8B
+52,He sewed a shirt using,inconceivable_syntactic,upon.,-19.737212657928467,-9.868606328964233,meta-llama/Meta-Llama-3-8B
+53,He shattered a window using,probable,a stone.,-7.197509765625,-2.399169921875,meta-llama/Meta-Llama-3-8B
+53,He shattered a window using,improbable,a frisbee.,-11.974394798278809,-2.394878959655762,meta-llama/Meta-Llama-3-8B
+53,He shattered a window using,impossible,confetti.,-14.482881546020508,-4.827627182006836,meta-llama/Meta-Llama-3-8B
+53,He shattered a window using,inconceivable,a concept.,-18.957401275634766,-6.319133758544922,meta-llama/Meta-Llama-3-8B
+53,He shattered a window using,inconceivable_syntactic,must.,-18.19232749938965,-9.096163749694824,meta-llama/Meta-Llama-3-8B
+54,He shaved his beard using,probable,a razor.,-4.888907432556152,-1.6296358108520508,meta-llama/Meta-Llama-3-8B
+54,He shaved his beard using,improbable,a knife.,-7.045195579528809,-2.348398526509603,meta-llama/Meta-Llama-3-8B
+54,He shaved his beard using,impossible,a teabag.,-16.62595558166504,-3.325191116333008,meta-llama/Meta-Llama-3-8B
+54,He shaved his beard using,inconceivable,a belief.,-19.33773136138916,-6.445910453796387,meta-llama/Meta-Llama-3-8B
+54,He shaved his beard using,inconceivable_syntactic,now.,-14.127549171447754,-7.063774585723877,meta-llama/Meta-Llama-3-8B
+55,He smashed a pumpkin using,probable,a hammer.,-5.533082962036133,-1.8443609873453777,meta-llama/Meta-Llama-3-8B
+55,He smashed a pumpkin using,improbable,a boulder.,-11.802638053894043,-2.9506595134735107,meta-llama/Meta-Llama-3-8B
+55,He smashed a pumpkin using,impossible,a leaf.,-12.212191581726074,-4.070730527242024,meta-llama/Meta-Llama-3-8B
+55,He smashed a pumpkin using,inconceivable,a number.,-15.786243438720703,-5.262081146240234,meta-llama/Meta-Llama-3-8B
+55,He smashed a pumpkin using,inconceivable_syntactic,remember.,-21.401777267456055,-10.700888633728027,meta-llama/Meta-Llama-3-8B
+56,He split a log using,probable,an axe.,-4.2429704666137695,-1.4143234888712566,meta-llama/Meta-Llama-3-8B
+56,He split a log using,improbable,a saw.,-5.870306015014648,-1.9567686716715496,meta-llama/Meta-Llama-3-8B
+56,He split a log using,impossible,a feather.,-12.022643089294434,-4.007547696431478,meta-llama/Meta-Llama-3-8B
+56,He split a log using,inconceivable,a gasp.,-20.756742477416992,-5.189185619354248,meta-llama/Meta-Llama-3-8B
+56,He split a log using,inconceivable_syntactic,forward.,-18.315187454223633,-9.157593727111816,meta-llama/Meta-Llama-3-8B
+57,He squeezed juice from,probable,an orange.,-5.416015625,-1.8053385416666667,meta-llama/Meta-Llama-3-8B
+57,He squeezed juice from,improbable,meat.,-10.709795951843262,-5.354897975921631,meta-llama/Meta-Llama-3-8B
+57,He squeezed juice from,impossible,an envelope.,-13.588887214660645,-4.529629071553548,meta-llama/Meta-Llama-3-8B
+57,He squeezed juice from,inconceivable,a mumble.,-19.61221408843994,-4.903053522109985,meta-llama/Meta-Llama-3-8B
+57,He squeezed juice from,inconceivable_syntactic,did.,-18.452110290527344,-9.226055145263672,meta-llama/Meta-Llama-3-8B
+58,He squished a blueberry using,probable,his finger.,-5.529158592224121,-1.843052864074707,meta-llama/Meta-Llama-3-8B
+58,He squished a blueberry using,improbable,his nose.,-7.153493881225586,-2.384497960408529,meta-llama/Meta-Llama-3-8B
+58,He squished a blueberry using,impossible,his breath.,-10.669733047485352,-3.556577682495117,meta-llama/Meta-Llama-3-8B
+58,He squished a blueberry using,inconceivable,a sight.,-16.81168270111084,-5.603894233703613,meta-llama/Meta-Llama-3-8B
+58,He squished a blueberry using,inconceivable_syntactic,hence.,-21.17084264755249,-10.585421323776245,meta-llama/Meta-Llama-3-8B
+59,He started a fire using,probable,kindling.,-9.641366958618164,-3.2137889862060547,meta-llama/Meta-Llama-3-8B
+59,He started a fire using,improbable,furniture.,-13.100101470947266,-6.550050735473633,meta-llama/Meta-Llama-3-8B
+59,He started a fire using,impossible,milk.,-11.046213150024414,-5.523106575012207,meta-llama/Meta-Llama-3-8B
+59,He started a fire using,inconceivable,humor.,-13.359336853027344,-6.679668426513672,meta-llama/Meta-Llama-3-8B
+59,He started a fire using,inconceivable_syntactic,again.,-15.642521858215332,-7.821260929107666,meta-llama/Meta-Llama-3-8B
+60,He stored dishes inside,probable,a cabinet.,-7.064957618713379,-2.3549858729044595,meta-llama/Meta-Llama-3-8B
+60,He stored dishes inside,improbable,an attic.,-12.61322021484375,-4.20440673828125,meta-llama/Meta-Llama-3-8B
+60,He stored dishes inside,impossible,a thimble.,-14.507251739501953,-2.901450347900391,meta-llama/Meta-Llama-3-8B
+60,He stored dishes inside,inconceivable,an equation.,-17.387514114379883,-5.795838038126628,meta-llama/Meta-Llama-3-8B
+60,He stored dishes inside,inconceivable_syntactic,quite.,-17.71727752685547,-8.858638763427734,meta-llama/Meta-Llama-3-8B
+61,He took a vacation to,probable,the beach.,-6.737874984741211,-2.2459583282470703,meta-llama/Meta-Llama-3-8B
+61,He took a vacation to,improbable,the desert.,-9.156233787536621,-3.0520779291788735,meta-llama/Meta-Llama-3-8B
+61,He took a vacation to,impossible,the sun.,-10.422534942626953,-3.4741783142089844,meta-llama/Meta-Llama-3-8B
+61,He took a vacation to,inconceivable,a verb.,-18.96840476989746,-6.32280158996582,meta-llama/Meta-Llama-3-8B
+61,He took a vacation to,inconceivable_syntactic,while.,-17.58167552947998,-8.79083776473999,meta-llama/Meta-Llama-3-8B
+62,He tightened a bolt using,probable,a wrench.,-3.877394676208496,-1.2924648920694988,meta-llama/Meta-Llama-3-8B
+62,He tightened a bolt using,improbable,chopsticks.,-12.61860466003418,-4.206201553344727,meta-llama/Meta-Llama-3-8B
+62,He tightened a bolt using,impossible,a house.,-16.30458927154541,-5.434863090515137,meta-llama/Meta-Llama-3-8B
+62,He tightened a bolt using,inconceivable,a dream.,-15.03756046295166,-5.01252015431722,meta-llama/Meta-Llama-3-8B
+62,He tightened a bolt using,inconceivable_syntactic,put.,-20.772762298583984,-10.386381149291992,meta-llama/Meta-Llama-3-8B
+63,He turned an apple into,probable,a pie.,-7.190731048583984,-2.3969103495279946,meta-llama/Meta-Llama-3-8B
+63,He turned an apple into,improbable,a salad.,-9.510642051696777,-3.1702140172322593,meta-llama/Meta-Llama-3-8B
+63,He turned an apple into,impossible,a cherry.,-8.329084396362305,-2.7763614654541016,meta-llama/Meta-Llama-3-8B
+63,He turned an apple into,inconceivable,honesty.,-17.52255153656006,-8.76127576828003,meta-llama/Meta-Llama-3-8B
+63,He turned an apple into,inconceivable_syntactic,below.,-18.245506286621094,-9.122753143310547,meta-llama/Meta-Llama-3-8B
+64,He unlocked a door using,probable,a key.,-4.542463302612305,-1.5141544342041016,meta-llama/Meta-Llama-3-8B
+64,He unlocked a door using,improbable,a screwdriver.,-7.270648002624512,-1.817662000656128,meta-llama/Meta-Llama-3-8B
+64,He unlocked a door using,impossible,a marshmallow.,-14.746026039123535,-3.686506509780884,meta-llama/Meta-Llama-3-8B
+64,He unlocked a door using,inconceivable,a lie.,-12.739408493041992,-4.246469497680664,meta-llama/Meta-Llama-3-8B
+64,He unlocked a door using,inconceivable_syntactic,off.,-17.478017807006836,-8.739008903503418,meta-llama/Meta-Llama-3-8B
+65,He washed his hair using,probable,shampoo.,-5.973527908325195,-2.9867639541625977,meta-llama/Meta-Llama-3-8B
+65,He washed his hair using,improbable,detergent.,-9.013893127441406,-4.506946563720703,meta-llama/Meta-Llama-3-8B
+65,He washed his hair using,impossible,a rainbow.,-14.700460433959961,-4.900153477986653,meta-llama/Meta-Llama-3-8B
+65,He washed his hair using,inconceivable,applause.,-17.77913475036621,-8.889567375183105,meta-llama/Meta-Llama-3-8B
+65,He washed his hair using,inconceivable_syntactic,if.,-16.6071834564209,-8.30359172821045,meta-llama/Meta-Llama-3-8B
+66,He wore shoes made of,probable,leather.,-5.834737777709961,-2.9173688888549805,meta-llama/Meta-Llama-3-8B
+66,He wore shoes made of,improbable,wood.,-5.745379447937012,-2.872689723968506,meta-llama/Meta-Llama-3-8B
+66,He wore shoes made of,impossible,stars.,-9.210555076599121,-4.6052775382995605,meta-llama/Meta-Llama-3-8B
+66,He wore shoes made of,inconceivable,traffic.,-17.69187641143799,-8.845938205718994,meta-llama/Meta-Llama-3-8B
+66,He wore shoes made of,inconceivable_syntactic,there.,-15.01418685913086,-7.50709342956543,meta-llama/Meta-Llama-3-8B
+67,He wrapped a present using,probable,paper.,-8.135270118713379,-4.0676350593566895,meta-llama/Meta-Llama-3-8B
+67,He wrapped a present using,improbable,a dress.,-13.404496192932129,-4.468165397644043,meta-llama/Meta-Llama-3-8B
+67,He wrapped a present using,impossible,ketchup.,-15.632171630859375,-5.210723876953125,meta-llama/Meta-Llama-3-8B
+67,He wrapped a present using,inconceivable,gossip.,-17.16213893890381,-8.581069469451904,meta-llama/Meta-Llama-3-8B
+67,He wrapped a present using,inconceivable_syntactic,any.,-15.596012115478516,-7.798006057739258,meta-llama/Meta-Llama-3-8B
+68,He wrote a letter using,probable,a pen.,-7.157268524169922,-2.385756174723307,meta-llama/Meta-Llama-3-8B
+68,He wrote a letter using,improbable,a stylus.,-10.610322952270508,-2.652580738067627,meta-llama/Meta-Llama-3-8B
+68,He wrote a letter using,impossible,a snowflake.,-14.530147552490234,-3.6325368881225586,meta-llama/Meta-Llama-3-8B
+68,He wrote a letter using,inconceivable,a marathon.,-18.793410301208496,-6.264470100402832,meta-llama/Meta-Llama-3-8B
+68,He wrote a letter using,inconceivable_syntactic,among.,-18.48290777206421,-9.241453886032104,meta-llama/Meta-Llama-3-8B
+69,He wrote an equation on,probable,a chalkboard.,-7.132673263549805,-1.7831683158874512,meta-llama/Meta-Llama-3-8B
+69,He wrote an equation on,improbable,a billboard.,-12.034409523010254,-4.011469841003418,meta-llama/Meta-Llama-3-8B
+69,He wrote an equation on,impossible,an atom.,-13.141397476196289,-4.380465825398763,meta-llama/Meta-Llama-3-8B
+69,He wrote an equation on,inconceivable,a scream.,-17.48598003387451,-5.828660011291504,meta-llama/Meta-Llama-3-8B
+69,He wrote an equation on,inconceivable_syntactic,across.,-18.975181579589844,-9.487590789794922,meta-llama/Meta-Llama-3-8B
