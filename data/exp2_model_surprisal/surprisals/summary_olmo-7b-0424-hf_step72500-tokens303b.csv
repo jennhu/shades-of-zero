@@ -1,0 +1,351 @@
+item_id,eval_prefix,condition,continuation,continuation_sum_logprob,continuation_mean_logprob,model,revision
+0,He baked a cake inside,probable,an oven.,-6.59255313873291,-2.19751771291097,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+0,He baked a cake inside,improbable,an airfryer.,-17.40811252593994,-2.9013520876566568,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+0,He baked a cake inside,impossible,a freezer.,-10.265597343444824,-3.421865781148275,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+0,He baked a cake inside,inconceivable,a sigh.,-16.136690139770508,-5.378896713256836,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+0,He baked a cake inside,inconceivable_syntactic,grasp.,-18.48048686981201,-9.240243434906006,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+1,He boiled water using,probable,a kettle.,-5.308558464050293,-1.3271396160125732,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+1,He boiled water using,improbable,a microwave.,-9.104806900024414,-3.034935633341471,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+1,He boiled water using,impossible,a refrigerator.,-14.06689167022705,-4.688963890075684,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+1,He boiled water using,inconceivable,justice.,-17.507280349731445,-8.753640174865723,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+1,He boiled water using,inconceivable_syntactic,began.,-17.522705078125,-8.7613525390625,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+2,He broke a coconut using,probable,a rock.,-7.710979461669922,-2.570326487223307,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+2,He broke a coconut using,improbable,a table.,-11.659422874450684,-3.886474291483561,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+2,He broke a coconut using,impossible,a pillow.,-12.930878639221191,-4.310292879740397,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+2,He broke a coconut using,inconceivable,a texture.,-18.93852138519287,-6.312840461730957,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+2,He broke a coconut using,inconceivable_syntactic,of.,-13.130542755126953,-6.565271377563477,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+3,He built a house out of,probable,brick.,-7.582202911376953,-3.7911014556884766,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+3,He built a house out of,improbable,grass.,-9.448501586914062,-4.724250793457031,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+3,He built a house out of,impossible,gas.,-14.677817344665527,-7.338908672332764,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+3,He built a house out of,inconceivable,language.,-11.634921073913574,-5.817460536956787,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+3,He built a house out of,inconceivable_syntactic,at.,-17.05330467224121,-8.526652336120605,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+4,He built a bridge out of,probable,steel.,-8.83950138092041,-4.419750690460205,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+4,He built a bridge out of,improbable,plastic.,-9.839725494384766,-4.919862747192383,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+4,He built a bridge out of,impossible,soup.,-11.094273567199707,-5.5471367835998535,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+4,He built a bridge out of,inconceivable,dance.,-12.857376098632812,-6.428688049316406,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+4,He built a bridge out of,inconceivable_syntactic,fell.,-16.338515281677246,-8.169257640838623,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+5,He called a friend using,probable,a phone.,-8.78982162475586,-2.9299405415852866,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+5,He called a friend using,improbable,a laptop.,-10.324247360229492,-3.441415786743164,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+5,He called a friend using,impossible,a sandwich.,-15.056467056274414,-5.018822352091472,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+5,He called a friend using,inconceivable,mass.,-16.708166122436523,-8.354083061218262,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+5,He called a friend using,inconceivable_syntactic,with.,-13.32393741607666,-6.66196870803833,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+6,He carried groceries inside,probable,a tote bag.,-13.150403022766113,-2.6300806045532226,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+6,He carried groceries inside,improbable,a backpack.,-11.811627388000488,-3.937209129333496,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+6,He carried groceries inside,impossible,a tornado.,-15.126224517822266,-5.042074839274089,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+6,He carried groceries inside,inconceivable,a law.,-18.769920349121094,-6.256640116373698,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+6,He carried groceries inside,inconceivable_syntactic,give.,-17.959872245788574,-8.979936122894287,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+7,He carved a statue using,probable,a chisel.,-6.916730880737305,-1.7291827201843262,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+7,He carved a statue using,improbable,a nail.,-11.394031524658203,-3.798010508219401,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+7,He carved a statue using,impossible,a sock.,-13.86989974975586,-4.623299916585286,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+7,He carved a statue using,inconceivable,laughter.,-14.336337089538574,-7.168168544769287,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+7,He carved a statue using,inconceivable_syntactic,forget.,-20.707523345947266,-10.353761672973633,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+8,He caught a fish in,probable,a lake.,-6.160343170166016,-2.053447723388672,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+8,He caught a fish in,improbable,a puddle.,-9.070381164550781,-2.2675952911376953,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+8,He caught a fish in,impossible,a raindrop.,-15.585379600524902,-3.1170759201049805,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+8,He caught a fish in,inconceivable,an exclamation.,-16.59743309020996,-4.14935827255249,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+8,He caught a fish in,inconceivable_syntactic,become.,-18.779903411865234,-9.389951705932617,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+9,He chilled a drink using,probable,ice.,-6.1928606033325195,-3.0964303016662598,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+9,He chilled a drink using,improbable,snow.,-10.173026084899902,-5.086513042449951,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+9,He chilled a drink using,impossible,fire.,-9.592962265014648,-4.796481132507324,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+9,He chilled a drink using,inconceivable,yesterday.,-16.4363431930542,-8.2181715965271,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+9,He chilled a drink using,inconceivable_syntactic,onto.,-18.855849266052246,-9.427924633026123,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+10,He chopped a carrot using,probable,a knife.,-3.683744430541992,-1.227914810180664,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+10,He chopped a carrot using,improbable,a sword.,-7.693741798400879,-2.5645805994669595,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+10,He chopped a carrot using,impossible,a rag.,-14.789307594299316,-4.929769198099772,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+10,He chopped a carrot using,inconceivable,a color.,-17.2788667678833,-5.759622255961101,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+10,He chopped a carrot using,inconceivable_syntactic,through.,-16.78197479248047,-8.390987396240234,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+11,He cleaned a spill using,probable,a sponge.,-6.679192543029785,-2.2263975143432617,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+11,He cleaned a spill using,improbable,a scarf.,-12.552987098693848,-4.184329032897949,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+11,He cleaned a spill using,impossible,mustard.,-11.217408180236816,-5.608704090118408,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+11,He cleaned a spill using,inconceivable,a country.,-16.985431671142578,-5.661810557047526,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+11,He cleaned a spill using,inconceivable_syntactic,without.,-15.575279235839844,-7.787639617919922,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+12,He cleaned a carpet using,probable,a vacuum.,-5.143458366394043,-1.7144861221313477,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+12,He cleaned a carpet using,improbable,a hat.,-13.59994888305664,-4.533316294352214,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+12,He cleaned a carpet using,impossible,a crayon.,-14.008148193359375,-2.801629638671875,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+12,He cleaned a carpet using,inconceivable,a week.,-14.838096618652344,-4.946032206217448,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+12,He cleaned a carpet using,inconceivable_syntactic,into.,-15.871790885925293,-7.9358954429626465,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+13,He climbed a tree using,probable,a ladder.,-5.963814735412598,-1.9879382451375325,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+13,He climbed a tree using,improbable,a rope.,-3.7572364807128906,-1.2524121602376301,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+13,He climbed a tree using,impossible,oil.,-15.011188507080078,-7.505594253540039,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+13,He climbed a tree using,inconceivable,a poem.,-13.24986743927002,-4.416622479756673,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+13,He climbed a tree using,inconceivable_syntactic,before.,-15.937737464904785,-7.968868732452393,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+14,He closed a jacket using,probable,a zipper.,-6.859010696411133,-1.7147526741027832,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+14,He closed a jacket using,improbable,glue.,-9.649579048156738,-4.824789524078369,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+14,He closed a jacket using,impossible,fog.,-14.616209030151367,-7.308104515075684,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+14,He closed a jacket using,inconceivable,a word.,-10.959746360778809,-3.6532487869262695,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+14,He closed a jacket using,inconceivable_syntactic,until.,-17.485119819641113,-8.742559909820557,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+15,He constructed a tower out of,probable,blocks.,-7.588076591491699,-3.7940382957458496,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+15,He constructed a tower out of,improbable,bubbles.,-12.312315940856934,-6.156157970428467,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+15,He constructed a tower out of,impossible,sparks.,-12.990582466125488,-4.330194155375163,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+15,He constructed a tower out of,inconceivable,seasons.,-14.114957809448242,-7.057478904724121,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+15,He constructed a tower out of,inconceivable_syntactic,forgive.,-20.38300609588623,-10.191503047943115,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+16,He cooked dinner out of,probable,pasta.,-10.66734790802002,-5.33367395401001,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+16,He cooked dinner out of,improbable,insects.,-13.862951278686523,-6.931475639343262,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+16,He cooked dinner out of,impossible,the moon.,-13.327742576599121,-4.442580858866374,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+16,He cooked dinner out of,inconceivable,thoughts.,-13.980921745300293,-6.9904608726501465,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+16,He cooked dinner out of,inconceivable_syntactic,do.,-16.05706214904785,-8.028531074523926,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+17,He cooled a room using,probable,a fan.,-6.700238227844238,-2.233412742614746,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+17,He cooled a room using,improbable,shades.,-11.445538520812988,-5.722769260406494,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+17,He cooled a room using,impossible,a heater.,-8.93106460571289,-2.9770215352376304,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+17,He cooled a room using,inconceivable,a taste.,-14.939059257507324,-4.979686419169108,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+17,He cooled a room using,inconceivable_syntactic,have.,-15.193881034851074,-7.596940517425537,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+18,He covered a window using,probable,curtains.,-8.01324462890625,-4.006622314453125,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+18,He covered a window using,improbable,sheets.,-8.417160034179688,-4.208580017089844,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+18,He covered a window using,impossible,a hair.,-15.216552734375,-5.072184244791667,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+18,He covered a window using,inconceivable,a chant.,-17.245088577270508,-5.748362859090169,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+18,He covered a window using,inconceivable_syntactic,make.,-15.14910888671875,-7.574554443359375,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+19,He crafted a bowl out of,probable,clay.,-5.1425065994262695,-2.5712532997131348,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+19,He crafted a bowl out of,improbable,mud.,-7.458193778991699,-3.7290968894958496,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+19,He crafted a bowl out of,impossible,smoke.,-9.354024887084961,-4.6770124435424805,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+19,He crafted a bowl out of,inconceivable,math.,-13.9771089553833,-6.98855447769165,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+19,He crafted a bowl out of,inconceivable_syntactic,follow.,-17.70567226409912,-8.85283613204956,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+20,He crushed a soda can using,probable,a shoe.,-8.58641529083252,-2.8621384302775064,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+20,He crushed a soda can using,improbable,a chair.,-9.455970764160156,-3.1519902547200522,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+20,He crushed a soda can using,impossible,a tissue.,-12.143234252929688,-4.0477447509765625,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+20,He crushed a soda can using,inconceivable,a day.,-15.074423789978027,-5.024807929992676,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+20,He crushed a soda can using,inconceivable_syntactic,choose.,-17.919508934020996,-8.959754467010498,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+21,He cut grass using,probable,a lawnmower.,-5.952053070068359,-1.1904106140136719,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+21,He cut grass using,improbable,a scythe.,-5.659151077270508,-1.1318302154541016,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+21,He cut grass using,impossible,a popsicle.,-18.25355339050293,-4.563388347625732,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+21,He cut grass using,inconceivable,an essay.,-16.658333778381348,-5.552777926127116,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+21,He cut grass using,inconceivable_syntactic,then.,-15.053897857666016,-7.526948928833008,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+22,He cut cardboard using,probable,scissors.,-4.501181602478027,-1.5003938674926758,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+22,He cut cardboard using,improbable,a scalpel.,-6.557348251342773,-1.6393370628356934,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+22,He cut cardboard using,impossible,fur.,-14.113425254821777,-7.056712627410889,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+22,He cut cardboard using,inconceivable,a snore.,-21.971216201782227,-5.492804050445557,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+22,He cut cardboard using,inconceivable_syntactic,sometimes.,-15.535571098327637,-7.767785549163818,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+23,He dented a car with,probable,a baseball bat.,-10.64983320236206,-2.662458300590515,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+23,He dented a car with,improbable,a dumbbell.,-15.98796558380127,-3.9969913959503174,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+23,He dented a car with,impossible,a breeze.,-12.681949615478516,-4.227316538492839,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+23,He dented a car with,inconceivable,a nap.,-13.760181427001953,-4.586727142333984,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+23,He dented a car with,inconceivable_syntactic,from.,-14.855012893676758,-7.427506446838379,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+24,He dug a hole using,probable,a shovel.,-5.510845184326172,-1.8369483947753906,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+24,He dug a hole using,improbable,a spatula.,-11.929213523864746,-2.9823033809661865,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+24,He dug a hole using,impossible,dirt.,-8.673492431640625,-4.3367462158203125,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+24,He dug a hole using,inconceivable,a yawn.,-15.468609809875488,-3.867152452468872,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+24,He dug a hole using,inconceivable_syntactic,except.,-18.99502182006836,-9.49751091003418,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+25,He dipped a biscuit into,probable,coffee.,-7.3896026611328125,-3.6948013305664062,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+25,He dipped a biscuit into,improbable,wine.,-10.505485534667969,-5.252742767333984,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+25,He dipped a biscuit into,impossible,a floor.,-18.192818641662598,-6.064272880554199,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+25,He dipped a biscuit into,inconceivable,a myth.,-20.09688091278076,-6.698960304260254,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+25,He dipped a biscuit into,inconceivable_syntactic,by.,-17.145397186279297,-8.572698593139648,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+26,He displayed books on,probable,a shelf.,-8.890955924987793,-2.963651974995931,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+26,He displayed books on,improbable,a bed.,-11.568342208862305,-3.856114069620768,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+26,He displayed books on,impossible,a galaxy.,-18.719929695129395,-6.239976565043132,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+26,He displayed books on,inconceivable,a sigh.,-18.524667739868164,-6.174889246622722,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+26,He displayed books on,inconceivable_syntactic,for.,-14.831334114074707,-7.4156670570373535,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+27,He docked a boat using,probable,an anchor.,-8.535131454467773,-2.8450438181559243,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+27,He docked a boat using,improbable,an anvil.,-11.868974685668945,-2.9672436714172363,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+27,He docked a boat using,impossible,a balloon.,-11.858890533447266,-3.9529635111490884,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+27,He docked a boat using,inconceivable,a lesson.,-17.576786994934082,-5.85892899831136,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+27,He docked a boat using,inconceivable_syntactic,though.,-15.50990104675293,-7.754950523376465,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+28,He drank a cup full of,probable,water.,-4.0224714279174805,-2.0112357139587402,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+28,He drank a cup full of,improbable,honey.,-7.309353828430176,-3.654676914215088,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+28,He drank a cup full of,impossible,lightning.,-11.56854248046875,-5.784271240234375,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+28,He drank a cup full of,inconceivable,minutes.,-15.154097557067871,-7.5770487785339355,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+28,He drank a cup full of,inconceivable_syntactic,during.,-17.874515533447266,-8.937257766723633,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+29,He dried his hands using,probable,a towel.,-3.5194625854492188,-1.1731541951497395,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+29,He dried his hands using,improbable,a sweater.,-11.919946670532227,-3.9733155568440757,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+29,He dried his hands using,impossible,a liquid.,-15.196283340454102,-5.065427780151367,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+29,He dried his hands using,inconceivable,freedom.,-16.064948081970215,-8.032474040985107,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+29,He dried his hands using,inconceivable_syntactic,always.,-16.49890422821045,-8.249452114105225,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+30,He dried laundry using,probable,a clothesline.,-6.838796615600586,-1.7096991539001465,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+30,He dried laundry using,improbable,a fan.,-8.052786827087402,-2.684262275695801,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+30,He dried laundry using,impossible,juice.,-13.142972946166992,-6.571486473083496,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+30,He dried laundry using,inconceivable,courage.,-14.949081420898438,-7.474540710449219,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+30,He dried laundry using,inconceivable_syntactic,and.,-11.79386043548584,-5.89693021774292,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+31,He ate soup using,probable,a spoon.,-3.258363723754883,-1.0861212412516277,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+31,He ate soup using,improbable,a bucket.,-11.48155689239502,-3.82718563079834,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+31,He ate soup using,impossible,a sieve.,-10.941143989562988,-2.735285997390747,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+31,He ate soup using,inconceivable,history.,-15.688241004943848,-7.844120502471924,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+31,He ate soup using,inconceivable_syntactic,ever.,-17.18099880218506,-8.59049940109253,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+32,He entered a room through,probable,a door.,-5.230868339538574,-1.7436227798461914,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+32,He entered a room through,improbable,a window.,-5.366345405578613,-1.7887818018595378,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+32,He entered a room through,impossible,a wall.,-8.492166519165039,-2.830722173055013,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+32,He entered a room through,inconceivable,a theory.,-18.525002479553223,-6.175000826517741,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+32,He entered a room through,inconceivable_syntactic,should.,-17.206584930419922,-8.603292465209961,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+33,He filled a bucket with,probable,sand.,-5.814654350280762,-2.907327175140381,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+33,He filled a bucket with,improbable,acorns.,-11.702281951904297,-3.9007606506347656,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+33,He filled a bucket with,impossible,buildings.,-15.720063209533691,-7.860031604766846,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+33,He filled a bucket with,inconceivable,time.,-12.79371166229248,-6.39685583114624,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+33,He filled a bucket with,inconceivable_syntactic,up.,-14.613814353942871,-7.3069071769714355,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+34,He filled a purse with,probable,coins.,-5.778407096862793,-2.8892035484313965,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+34,He filled a purse with,improbable,cream.,-12.979978561401367,-6.489989280700684,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+34,He filled a purse with,impossible,sofas.,-15.136634826660156,-3.784158706665039,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+34,He filled a purse with,inconceivable,luck.,-13.823287010192871,-6.9116435050964355,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+34,He filled a purse with,inconceivable_syntactic,nor.,-16.94911003112793,-8.474555015563965,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+35,He grew flowers inside,probable,a pot.,-8.455673217773438,-2.8185577392578125,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+35,He grew flowers inside,improbable,a mug.,-11.530715465545654,-3.8435718218485513,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+35,He grew flowers inside,impossible,a marble.,-15.389050483703613,-5.129683494567871,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+35,He grew flowers inside,inconceivable,a sneeze.,-14.628286361694336,-2.925657272338867,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+35,He grew flowers inside,inconceivable_syntactic,been.,-17.64106559753418,-8.82053279876709,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+36,He hung a painting using,probable,screws.,-9.071380615234375,-4.5356903076171875,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+36,He hung a painting using,improbable,string.,-7.668922424316406,-3.834461212158203,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+36,He hung a painting using,impossible,vapor.,-16.035968780517578,-8.017984390258789,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+36,He hung a painting using,inconceivable,a handshake.,-12.803131103515625,-3.2007827758789062,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+36,He hung a painting using,inconceivable_syntactic,could.,-15.491167068481445,-7.745583534240723,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+37,He hid a gift inside,probable,a closet.,-9.96691608428955,-3.32230536142985,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+37,He hid a gift inside,improbable,a forest.,-10.775166511535645,-3.5917221705118814,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+37,He hid a gift inside,impossible,a cloud.,-10.574457168579102,-3.5248190561930337,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+37,He hid a gift inside,inconceivable,a gasp.,-17.55193519592285,-4.387983798980713,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+37,He hid a gift inside,inconceivable_syntactic,find.,-17.31388568878174,-8.65694284439087,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+38,He lifted a box using,probable,a forklift.,-7.084780693054199,-1.4169561386108398,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+38,He lifted a box using,improbable,a pulley.,-9.704380989074707,-2.4260952472686768,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+38,He lifted a box using,impossible,foam.,-13.177080154418945,-6.588540077209473,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+38,He lifted a box using,inconceivable,an emotion.,-16.040459632873535,-5.346819877624512,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+38,He lifted a box using,inconceivable_syntactic,very.,-14.80164909362793,-7.400824546813965,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+39,He lit a candle using,probable,a match.,-4.666163444519043,-1.555387814839681,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+39,He lit a candle using,improbable,a blowtorch.,-7.044419288635254,-1.4088838577270508,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+39,He lit a candle using,impossible,yogurt.,-14.422558784484863,-7.211279392242432,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+39,He lit a candle using,inconceivable,surprises.,-18.11476230621338,-9.05738115310669,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+39,He lit a candle using,inconceivable_syntactic,does.,-17.706332206726074,-8.853166103363037,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+40,He made a sandwich using,probable,bread.,-7.621779441833496,-3.810889720916748,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+40,He made a sandwich using,improbable,lettuce.,-9.927952766418457,-4.9639763832092285,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+40,He made a sandwich using,impossible,a star.,-14.803374290466309,-4.934458096822103,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+40,He made a sandwich using,inconceivable,a mile.,-18.552871704101562,-6.1842905680338545,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+40,He made a sandwich using,inconceivable_syntactic,went.,-17.123170852661133,-8.561585426330566,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+41,He made a smoothie using,probable,a blender.,-6.036233901977539,-2.012077967325846,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+41,He made a smoothie using,improbable,a whisk.,-10.22552490234375,-3.40850830078125,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+41,He made a smoothie using,impossible,wind.,-17.02117919921875,-8.510589599609375,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+41,He made a smoothie using,inconceivable,decades.,-20.06419849395752,-10.03209924697876,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+41,He made a smoothie using,inconceivable_syntactic,gave.,-19.54642677307129,-9.773213386535645,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+42,He melted a chocolate bar using,probable,a stove.,-7.8693952560424805,-2.62313175201416,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+42,He melted a chocolate bar using,improbable,a radiator.,-11.398477554321289,-2.8496193885803223,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+42,He melted a chocolate bar using,impossible,a napkin.,-10.576354026794434,-2.6440885066986084,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+42,He melted a chocolate bar using,inconceivable,a promise.,-15.924514770507812,-5.3081715901692705,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+42,He melted a chocolate bar using,inconceivable_syntactic,took.,-18.314189910888672,-9.157094955444336,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+43,He opened a jar using,probable,his hands.,-6.496313095092773,-2.165437698364258,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+43,He opened a jar using,improbable,his feet.,-8.057791709899902,-2.6859305699666343,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+43,He opened a jar using,impossible,his mind.,-7.250012397766113,-2.416670799255371,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+43,He opened a jar using,inconceivable,an opinion.,-17.50025749206543,-5.83341916402181,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+43,He opened a jar using,inconceivable_syntactic,never.,-16.449971199035645,-8.224985599517822,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+44,He packed a suit inside,probable,a suitcase.,-5.869899749755859,-1.9566332499186199,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+44,He packed a suit inside,improbable,a pocket.,-9.209062576293945,-3.069687525431315,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+44,He packed a suit inside,impossible,a raspberry.,-17.657623291015625,-4.414405822753906,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+44,He packed a suit inside,inconceivable,a groan.,-15.103482246398926,-3.7758705615997314,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+44,He packed a suit inside,inconceivable_syntactic,got.,-18.29750919342041,-9.148754596710205,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+45,He painted a wall using,probable,a brush.,-6.561105728149414,-2.187035242716471,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+45,He painted a wall using,improbable,a mop.,-12.790314674377441,-3.1975786685943604,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+45,He painted a wall using,impossible,a bathtub.,-13.21057415008545,-2.64211483001709,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+45,He painted a wall using,inconceivable,a whisper.,-16.766797065734863,-5.588932355244954,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+45,He painted a wall using,inconceivable_syntactic,decide.,-18.239185333251953,-9.119592666625977,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+46,He paved a road using,probable,cement.,-10.160966873168945,-5.080483436584473,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+46,He paved a road using,improbable,seashells.,-10.694541931152344,-2.673635482788086,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+46,He paved a road using,impossible,a comet.,-13.495094299316406,-4.498364766438802,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+46,He paved a road using,inconceivable,happiness.,-12.045525550842285,-6.022762775421143,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+46,He paved a road using,inconceivable_syntactic,although.,-18.48922634124756,-9.24461317062378,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+47,He plucked a hair using,probable,tweezers.,-5.600642204284668,-1.400160551071167,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+47,He plucked a hair using,improbable,tongs.,-8.22614574432373,-2.7420485814412436,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+47,He plucked a hair using,impossible,a spoon.,-8.211349487304688,-2.737116495768229,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+47,He plucked a hair using,inconceivable,sympathy.,-14.828690528869629,-7.4143452644348145,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+47,He plucked a hair using,inconceivable_syntactic,since.,-17.559152603149414,-8.779576301574707,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+48,He polished jewelry using,probable,a cloth.,-7.601400375366211,-2.5338001251220703,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+48,He polished jewelry using,improbable,a shirt.,-13.826738357543945,-4.6089127858479815,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+48,He polished jewelry using,impossible,a chainsaw.,-13.532320022583008,-3.383080005645752,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+48,He polished jewelry using,inconceivable,music.,-11.562088012695312,-5.781044006347656,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+48,He polished jewelry using,inconceivable_syntactic,know.,-17.28242778778076,-8.64121389389038,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+49,He popped a balloon using,probable,a thumbtack.,-10.752723693847656,-1.7921206156412761,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+49,He popped a balloon using,improbable,a spear.,-11.089509963989258,-3.6965033213297525,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+49,He popped a balloon using,impossible,cotton balls.,-11.589737892150879,-3.863245964050293,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+49,He popped a balloon using,inconceivable,a story.,-14.974228858947754,-4.991409619649251,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+49,He popped a balloon using,inconceivable_syntactic,because.,-18.165040016174316,-9.082520008087158,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+50,He removed a stain using,probable,bleach.,-5.11441707611084,-1.7048056920369465,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+50,He removed a stain using,improbable,vinegar.,-5.645791053771973,-2.8228955268859863,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+50,He removed a stain using,impossible,dirt.,-10.908456802368164,-5.454228401184082,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+50,He removed a stain using,inconceivable,truth.,-14.833647727966309,-7.416823863983154,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+50,He removed a stain using,inconceivable_syntactic,would.,-16.115188598632812,-8.057594299316406,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+51,He rinsed fruit using,probable,a sink.,-9.425481796264648,-3.1418272654215493,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+51,He rinsed fruit using,improbable,a hose.,-10.285433769226074,-3.428477923075358,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+51,He rinsed fruit using,impossible,a clock.,-15.552165031433105,-5.184055010477702,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+51,He rinsed fruit using,inconceivable,a giggle.,-15.93014144897461,-3.9825353622436523,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+51,He rinsed fruit using,inconceivable_syntactic,create.,-15.332342147827148,-7.666171073913574,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+52,He sewed a shirt using,probable,a needle.,-7.7258100509643555,-2.5752700169881186,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+52,He sewed a shirt using,improbable,a toothpick.,-11.682662963867188,-2.920665740966797,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+52,He sewed a shirt using,impossible,a potato.,-12.573163986206055,-4.191054662068685,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+52,He sewed a shirt using,inconceivable,thunder.,-16.631802558898926,-8.315901279449463,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+52,He sewed a shirt using,inconceivable_syntactic,upon.,-18.294381141662598,-9.147190570831299,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+53,He shattered a window using,probable,a stone.,-6.459664344787598,-2.1532214482625327,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+53,He shattered a window using,improbable,a frisbee.,-11.030517578125,-2.206103515625,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+53,He shattered a window using,impossible,confetti.,-13.387842178344727,-4.462614059448242,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+53,He shattered a window using,inconceivable,a concept.,-15.84824275970459,-5.282747586568196,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+53,He shattered a window using,inconceivable_syntactic,must.,-17.675284385681152,-8.837642192840576,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+54,He shaved his beard using,probable,a razor.,-4.791950225830078,-1.5973167419433594,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+54,He shaved his beard using,improbable,a knife.,-6.918366432189941,-2.306122144063314,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+54,He shaved his beard using,impossible,a teabag.,-17.623419761657715,-3.524683952331543,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+54,He shaved his beard using,inconceivable,a belief.,-19.406472206115723,-6.468824068705241,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+54,He shaved his beard using,inconceivable_syntactic,now.,-14.412025451660156,-7.206012725830078,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+55,He smashed a pumpkin using,probable,a hammer.,-3.5322351455688477,-1.177411715189616,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+55,He smashed a pumpkin using,improbable,a boulder.,-9.29040813446045,-2.3226020336151123,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+55,He smashed a pumpkin using,impossible,a leaf.,-11.367135047912598,-3.7890450159708657,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+55,He smashed a pumpkin using,inconceivable,a number.,-14.291855812072754,-4.763951937357585,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+55,He smashed a pumpkin using,inconceivable_syntactic,remember.,-19.27724552154541,-9.638622760772705,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+56,He split a log using,probable,an axe.,-4.527467727661133,-1.5091559092203777,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+56,He split a log using,improbable,a saw.,-5.808182716369629,-1.936060905456543,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+56,He split a log using,impossible,a feather.,-12.035985946655273,-4.011995315551758,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+56,He split a log using,inconceivable,a gasp.,-14.00097370147705,-3.5002434253692627,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+56,He split a log using,inconceivable_syntactic,forward.,-20.5241756439209,-10.26208782196045,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+57,He squeezed juice from,probable,an orange.,-7.142158508300781,-2.3807195027669272,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+57,He squeezed juice from,improbable,meat.,-12.569648742675781,-6.284824371337891,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+57,He squeezed juice from,impossible,an envelope.,-12.957812309265137,-4.319270769755046,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+57,He squeezed juice from,inconceivable,a mumble.,-21.160204887390137,-5.290051221847534,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+57,He squeezed juice from,inconceivable_syntactic,did.,-18.339040756225586,-9.169520378112793,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+58,He squished a blueberry using,probable,his finger.,-5.7119903564453125,-1.9039967854817708,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+58,He squished a blueberry using,improbable,his nose.,-5.9476518630981445,-1.9825506210327148,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+58,He squished a blueberry using,impossible,his breath.,-12.772184371948242,-4.257394790649414,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+58,He squished a blueberry using,inconceivable,a sight.,-15.408441543579102,-5.136147181193034,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+58,He squished a blueberry using,inconceivable_syntactic,hence.,-19.817008018493652,-9.908504009246826,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+59,He started a fire using,probable,kindling.,-8.323927879333496,-2.7746426264444985,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+59,He started a fire using,improbable,furniture.,-12.831204414367676,-6.415602207183838,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+59,He started a fire using,impossible,milk.,-11.701892852783203,-5.850946426391602,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+59,He started a fire using,inconceivable,humor.,-15.094414710998535,-7.547207355499268,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+59,He started a fire using,inconceivable_syntactic,again.,-13.347343444824219,-6.673671722412109,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+60,He stored dishes inside,probable,a cabinet.,-7.968025207519531,-2.6560084025065103,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+60,He stored dishes inside,improbable,an attic.,-11.420467376708984,-3.8068224589029946,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+60,He stored dishes inside,impossible,a thimble.,-15.382169723510742,-3.0764339447021483,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+60,He stored dishes inside,inconceivable,an equation.,-18.42456817626953,-6.141522725423177,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+60,He stored dishes inside,inconceivable_syntactic,quite.,-14.880590438842773,-7.440295219421387,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+61,He took a vacation to,probable,the beach.,-6.979511260986328,-2.3265037536621094,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+61,He took a vacation to,improbable,the desert.,-9.267346382141113,-3.0891154607137046,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+61,He took a vacation to,impossible,the sun.,-10.793583869934082,-3.5978612899780273,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+61,He took a vacation to,inconceivable,a verb.,-20.87148094177246,-6.957160313924153,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+61,He took a vacation to,inconceivable_syntactic,while.,-14.145774841308594,-7.072887420654297,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+62,He tightened a bolt using,probable,a wrench.,-3.436772346496582,-0.8591930866241455,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+62,He tightened a bolt using,improbable,chopsticks.,-11.592087745666504,-2.898021936416626,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+62,He tightened a bolt using,impossible,a house.,-16.413328170776367,-5.471109390258789,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+62,He tightened a bolt using,inconceivable,a dream.,-14.494783401489258,-4.831594467163086,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+62,He tightened a bolt using,inconceivable_syntactic,put.,-17.78566074371338,-8.89283037185669,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+63,He turned an apple into,probable,a pie.,-5.438455581665039,-1.8128185272216797,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+63,He turned an apple into,improbable,a salad.,-7.481729507446289,-2.4939098358154297,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+63,He turned an apple into,impossible,a cherry.,-7.633109092712402,-2.544369697570801,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+63,He turned an apple into,inconceivable,honesty.,-15.268631935119629,-7.6343159675598145,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+63,He turned an apple into,inconceivable_syntactic,below.,-18.752809524536133,-9.376404762268066,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+64,He unlocked a door using,probable,a key.,-4.559557914733887,-1.519852638244629,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+64,He unlocked a door using,improbable,a screwdriver.,-9.470056533813477,-2.367514133453369,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+64,He unlocked a door using,impossible,a marshmallow.,-16.97443199157715,-3.3948863983154296,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+64,He unlocked a door using,inconceivable,a lie.,-15.05150318145752,-5.017167727152507,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+64,He unlocked a door using,inconceivable_syntactic,off.,-18.32394027709961,-9.161970138549805,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+65,He washed his hair using,probable,shampoo.,-5.6666364669799805,-1.4166591167449951,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+65,He washed his hair using,improbable,detergent.,-8.855965614318848,-4.427982807159424,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+65,He washed his hair using,impossible,a rainbow.,-16.711957931518555,-5.5706526438395185,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+65,He washed his hair using,inconceivable,applause.,-16.063633918762207,-8.031816959381104,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+65,He washed his hair using,inconceivable_syntactic,if.,-16.91555118560791,-8.457775592803955,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+66,He wore shoes made of,probable,leather.,-5.290341377258301,-2.6451706886291504,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+66,He wore shoes made of,improbable,wood.,-6.229884147644043,-3.1149420738220215,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+66,He wore shoes made of,impossible,stars.,-8.672245979309082,-4.336122989654541,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+66,He wore shoes made of,inconceivable,traffic.,-16.114161491394043,-8.057080745697021,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+66,He wore shoes made of,inconceivable_syntactic,there.,-13.3209228515625,-6.66046142578125,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+67,He wrapped a present using,probable,paper.,-7.228673934936523,-3.6143369674682617,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+67,He wrapped a present using,improbable,a dress.,-13.48442268371582,-4.4948075612386065,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+67,He wrapped a present using,impossible,ketchup.,-12.531847953796387,-3.1329619884490967,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+67,He wrapped a present using,inconceivable,gossip.,-14.951292037963867,-7.475646018981934,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+67,He wrapped a present using,inconceivable_syntactic,any.,-14.16153621673584,-7.08076810836792,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+68,He wrote a letter using,probable,a pen.,-6.949418067932129,-2.3164726893107095,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+68,He wrote a letter using,improbable,a stylus.,-10.603386878967285,-2.6508467197418213,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+68,He wrote a letter using,impossible,a snowflake.,-17.321953773498535,-3.464390754699707,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+68,He wrote a letter using,inconceivable,a marathon.,-18.791234970092773,-6.263744990030925,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+68,He wrote a letter using,inconceivable_syntactic,among.,-17.3129301071167,-8.65646505355835,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+69,He wrote an equation on,probable,a chalkboard.,-6.9278459548950195,-1.7319614887237549,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+69,He wrote an equation on,improbable,a billboard.,-11.91819953918457,-2.9795498847961426,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+69,He wrote an equation on,impossible,an atom.,-14.832908630371094,-4.944302876790364,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+69,He wrote an equation on,inconceivable,a scream.,-17.483226776123047,-5.827742258707683,allenai/OLMo-7B-0424-hf,step72500-tokens303B
+69,He wrote an equation on,inconceivable_syntactic,across.,-16.967199325561523,-8.483599662780762,allenai/OLMo-7B-0424-hf,step72500-tokens303B

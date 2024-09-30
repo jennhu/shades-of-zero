@@ -26,7 +26,7 @@ Please see the paper for more details.
 To obtain language model surprisals on our stimuli, run
 ```bash
 python python/get_surprisals.py \
-    --input data/stimuli/stimuli.csv \
+    --input data/stimuli/stimuli_with_syntax.csv \
     --output data/exp2_model_surprisal/surprisals \
     --model <MODEL_NAME>
 ```
@@ -36,9 +36,7 @@ In our experiments, we use `gpt2`, `meta-llama/Llama-2-7b-hf`, and
 autoregressive Huggingface model identifier. You may need to log in with your 
 Huggingface account to access gated models such as Llama. 
 
-Note that these scripts require the `surprisal` package.
-Please see the [documentation](https://aalok-sathe.github.io/surprisal/surprisal.html)
-for detailed usage and installation instructions.
+Note that these scripts require the `minicons` package.
 
 ## Figures and analyses
 

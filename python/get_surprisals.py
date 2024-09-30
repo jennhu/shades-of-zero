@@ -32,7 +32,7 @@ def evaluate_model(df, model, sep=" ", check_tokenization=True):
                 surprisal=False,
                 prob=False,
                 decode=False,
-                bos_token=True
+                bos_token=(model.tokenizer.bos_token is not None)
             )[0]
 
             # Aggregate logprobs corresponding to tokens in the continuation.
@@ -89,8 +89,12 @@ def evaluate_model(df, model, sep=" ", check_tokenization=True):
             
     summary_df = pd.DataFrame(summary_data)
     summary_df["model"] = model.model_name
+    summary_df["revision"] = model.revision
+
     token_df = pd.DataFrame(token_data)
     token_df["model"] = model.model_name
+    summary_df["revision"] = model.revision
+    
     return summary_df, token_df
 
 def parse_args():
@@ -103,6 +107,8 @@ def parse_args():
                         help="Path to directory where output files will be saved")
     parser.add_argument("-m", "--model", type=str, default="gpt2",
                         help="Huggingface model identifier")
+    parser.add_argument("--revision", type=str, default=None,
+                        help="Name of model revision (only used for OLMo)")
     parser.add_argument("--cache_dir", type=Path, default=None,
                         help="Path to Huggingface cache directory")
     args = parser.parse_args()
@@ -129,12 +135,14 @@ if __name__ == "__main__":
 
     # Initialize model.
     print(f"Initializing Huggingface model {args.model}")
-    m = LM(args.model, cache_dir=args.cache_dir)
+    m = LM(args.model, revision=args.revision, cache_dir=args.cache_dir)
 
     # Evaluate model and save outputs.
     summary_df, token_df = evaluate_model(df, m)
 
     safe_model_name = args.model.split("/")[-1].lower()
+    if args.revision is not None:
+        safe_model_name += f"_{args.revision.lower()}"
 
     summary_output_file = Path(args.output, f"summary_{safe_model_name}.csv")
     token_output_file = Path(args.output, f"token_{safe_model_name}.csv")
