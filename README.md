@@ -38,6 +38,15 @@ Huggingface account to access gated models such as Llama.
 
 Note that these scripts require the `minicons` package.
 
+## n-gram data
+
+```bash
+python python/get_ngram_data.py \
+    --get_counts \
+    --get_probs \
+    --ngram_index v4_pileval_gpt2
+```
+
 ## Figures and analyses
 
 The figures in the paper can be reproduced using the Jupyter notebook at
