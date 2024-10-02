@@ -2,26 +2,26 @@ Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmer
 Formula: continuation_mean_surprisal ~ condition + log_count + (1 | item_id)
    Data: data
 
-REML criterion at convergence: 979.4
+REML criterion at convergence: 1165.5
 
 Scaled residuals: 
-    Min      1Q  Median      3Q     Max 
--3.7202 -0.4076  0.1652  0.6626  1.6003 
+     Min       1Q   Median       3Q      Max 
+-2.67949 -0.55527  0.06177  0.69776  1.93703 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- item_id  (Intercept) 0.1692   0.4114  
- Residual             0.8050   0.8972  
+ item_id  (Intercept) 0.3322   0.5764  
+ Residual             1.3609   1.1666  
 Number of obs: 350, groups:  item_id, 70
 
 Fixed effects:
              Estimate Std. Error        df t value Pr(>|t|)    
-(Intercept)   7.35941    0.44509 339.52373  16.535  < 2e-16 ***
-condition1    0.03930    0.15191 275.81405   0.259   0.7961    
-condition2   -0.08928    0.15168 275.44568  -0.589   0.5566    
-condition3    0.18602    0.15375 278.77529   1.210   0.2274    
-condition4    0.36506    0.19325 318.84374   1.889   0.0598 .  
-log_count     0.12812    0.02700 342.37457   4.745 3.06e-06 ***
+(Intercept)   5.59685    0.58427 341.56437   9.579  < 2e-16 ***
+condition1    0.38345    0.19752 275.68031   1.941   0.0532 .  
+condition2    0.10254    0.19723 275.32756   0.520   0.6035    
+condition3    0.39321    0.19996 278.51520   1.966   0.0502 .  
+condition4    0.50355    0.25213 316.95485   1.997   0.0467 *  
+log_count     0.19695    0.03541 343.58475   5.561 5.39e-08 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -29,6 +29,6 @@ Correlation of Fixed Effects:
            (Intr) cndtn1 cndtn2 cndtn3 cndtn4
 condition1 -0.057                            
 condition2  0.019 -0.500                     
-condition3  0.163 -0.009 -0.490              
-condition4  0.612 -0.036  0.012 -0.285       
-log_count  -0.988  0.058 -0.019 -0.165 -0.620
+condition3  0.164 -0.010 -0.490              
+condition4  0.615 -0.036  0.012 -0.282       
+log_count  -0.987  0.058 -0.019 -0.166 -0.623

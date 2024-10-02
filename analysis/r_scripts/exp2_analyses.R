@@ -26,9 +26,7 @@ for (model_name in unique(df$model)) {
   data = df %>% filter(model==model_name)
   
   # Prepare data to fit LMER models.
-  # First, remove rows where log count is -inf.
-  data = data %>% filter_if(~is.numeric(.), all_vars(!is.infinite(.)))
-  # Next, backward difference coding of condition: 
+  # Backward difference coding of condition: 
   # https://stats.oarc.ucla.edu/r/library/r-library-contrast-coding-systems-for-categorical-variables/#backward
   backward.diff = matrix(c(
     -4/5, 1/5, 1/5, 1/5, 1/5, # 1: improbable vs probable
