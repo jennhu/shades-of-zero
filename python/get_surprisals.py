@@ -103,7 +103,7 @@ def parse_args():
                         default="data/stimuli/stimuli.csv", 
                         help="Path to CSV file containing stimuli")
     parser.add_argument("-o", "--output", type=Path, 
-                        default="data/exp2_model_surprisal/surprisals",
+                        default="data/exp3_model_surprisal/surprisals",
                         help="Path to directory where output files will be saved")
     parser.add_argument("-m", "--model", type=str, default="gpt2",
                         help="Huggingface model identifier")
