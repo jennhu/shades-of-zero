@@ -1,9 +1,5 @@
 from typing import Optional
-import numpy as np
-import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
-# import hf_olmo
-
 from minicons import scorer
 
 
