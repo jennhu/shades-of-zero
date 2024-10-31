@@ -1,42 +1,65 @@
-from surprisal import AutoHuggingFaceModel
+from typing import Optional
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from minicons import scorer
 
 
-class LM(object):
-    """
-    Wrapper class around AutoHuggingFaceModel from the `surprisal` library.
-    """
-    def __init__(self, model_name):
+class LM():
+    """Model class for Huggingface-based LMs evaluated in our experiments."""
+    def __init__(
+        self, 
+        model_name: str, 
+        tokenizer_name: Optional[str] = None, 
+        revision: Optional[str] = None,
+        **load_kwargs
+    ) -> None:
+        # Store basic meta data about the model.
         self.model_name = model_name
-        # NOTE: "model_class" needs to be "gpt" for causal LMs,
-        # but the tokenizer and model will still be loaded according to `model_name`
-        # See https://github.com/aalok-sathe/surprisal/issues/19
-        self.m = AutoHuggingFaceModel.from_pretrained(
-            model_name, 
-            model_class="gpt"
+        self.revision = revision
+        if tokenizer_name is None:
+            self.tokenizer_name = model_name
+        else:
+            self.tokenizer_name = tokenizer_name
+
+        # Initialize tokenizer and model.
+        print(
+            f"Initializing tokenizer ({self.tokenizer_name}) "
+            f"and model ({model_name})"
         )
-        try:
-            self.m.to("cuda")
-            self.device = "cuda"
-        except:
-            self.device = "cpu"
-
-    def _agg_surprisal(self, token_surprisals, start, end, level="char"):
-        sum_surp = token_surprisals[start:end, level]
-        return sum_surp
-
-    def _get_token_surprisals(self, text):
-        [token_surprisals] = self.m.surprise(text)
-        return token_surprisals
-
-    def get_surprisal_of_continuation(self, prefix, continuation, sep=" "):
-        text = prefix + sep + continuation
-        token_surprisals = self._get_token_surprisals(text)
-        
-        n_prefix_chars = len(prefix)
-        n_continuation_chars = len(continuation)
-        return self._agg_surprisal(
-            token_surprisals, 
-            n_prefix_chars, 
-            n_prefix_chars + n_continuation_chars + 1,
-            level="char"
+        tokenizer, model = self.load_tokenizer_and_model(
+            self.model_name, 
+            self.tokenizer_name,
+            revision=self.revision,
+            **load_kwargs
         )
+        self.tokenizer = tokenizer
+        self.model = model
+
+        # Initialize minicons scorer object to compute probabilities.
+        self.scorer = scorer.IncrementalLMScorer(
+            model, 
+            tokenizer=tokenizer, 
+            device="auto"
+        )
+
+    def load_tokenizer_and_model(
+        self, 
+        model_name: str, 
+        tokenizer_name: str, 
+        revision: Optional[str] = None,
+        **kwargs
+    ):
+        tokenizer = AutoTokenizer.from_pretrained(
+            tokenizer_name, 
+            padding_side="left",
+            revision=revision,
+            **kwargs
+        )
+        if tokenizer.pad_token is None:
+            tokenizer.pad_token = tokenizer.eos_token
+        model = AutoModelForCausalLM.from_pretrained(
+            model_name,
+            device_map="auto",
+            revision=revision,
+            **kwargs
+        )
+        return tokenizer, model

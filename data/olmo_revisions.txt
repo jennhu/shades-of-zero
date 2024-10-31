@@ -1,0 +1,10 @@
+step500-tokens2B
+step1000-tokens4B
+step2000-tokens8B
+step4000-tokens16B
+step8500-tokens35B
+step17500-tokens73B
+step36000-tokens150B
+step72500-tokens303B
+step151500-tokens635B
+step477000-tokens2000B
