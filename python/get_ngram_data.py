@@ -2,14 +2,13 @@ import pandas as pd
 import argparse
 from tqdm import tqdm
 import os
-import numpy as np
 from pathlib import Path
 
 import requests
 from transformers import AutoTokenizer
 
 
-def count_ngrams(df, index="v4_pileval_gpt2"):
+def count_ngrams(df, index="v4_dolma-v1_7_llama"):
     # Define conditions.
     conditions = [
         "probable", 
@@ -45,7 +44,7 @@ def count_ngrams(df, index="v4_pileval_gpt2"):
     counts = pd.DataFrame(count_data)
     return counts
 
-def eval_ngrams(df, tokenizer, index="v4_pileval_gpt2"):
+def eval_ngrams(df, tokenizer, index="v4_dolma-v1_7_llama"):
     # Define conditions.
     conditions = [
         "probable", 
@@ -99,9 +98,9 @@ def parse_args():
                         default="data/stimuli/stimuli_with_syntax.csv", 
                         help="Path to CSV file containing stimuli")
     parser.add_argument("--output", type=Path, 
-                        default="data/exp2_model_surprisal/infinigram",
+                        default="data/exp3_model_surprisal/infinigram",
                         help="Path to directory where output files will be saved")
-    parser.add_argument("--ngram_index", type=str, default="v4_pileval_gpt2")
+    parser.add_argument("--ngram_index", type=str, default="v4_dolma-v1_7_llama")
     parser.add_argument("--cache_dir", type=Path, default=None,
                         help="Path to Huggingface cache directory")
     parser.add_argument("--get_counts", action="store_true", default=False)
